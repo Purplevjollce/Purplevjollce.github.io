@@ -1,4 +1,26 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Smothering Moth
+rules_text: Flying
+Whenever an opponent casts their second spell each turn, that player discards a card.
+{2}{B}, Sacrifice Smothering Moth: Return target creature card with mana value 3 or less from your graveyard to the battlefield. Activate only as a sorcery. => Flying
+Whenever an opponent casts their second spell each turn, that player discards a card.
+{3}{B}, Sacrifice Smothering Moth: Return target creature card with mana value 3 or less from your graveyard to the battlefield. Activate only as a sorcery.
+
+Delusional Angel
+rules_text: Flying
+At the beginning of your end step, if you've seen signs this turn, put a +1/+1 counter on Delusional Angel and you gain 2 life. [i](You've seen signs if two or more cards types entered your graveyard.)[/i] => Flying
+At the beginning of your end step, if you've seen signs this turn, put a +1/+1 counter on Delusional Angel and you gain 1 life. [i](You've seen signs if two or more cards types entered your graveyard.)[/i]
+pt: 3/3 => 3/2
+
+Hunting Mantis
+pt: 3/2 => 3/1
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Descent from Godliness added.
