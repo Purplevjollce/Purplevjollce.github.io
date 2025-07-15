@@ -1,4 +1,69 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Beastly Call added.
+
+Call of the Beasts removed.
+
+Moonlit Ruminator
+rules_text: Ward—Pay 3 life.
+At the beginning of your end step, if Moonlit Ruminator is enchanted, you draw a card and you lose 1 life. => Ward—Pay 3 life.
+At the beginning of your end step, if Moonlit Ruminator is enchanted, you draw a card and lose 1 life.
+
+Piercing Skitterer
+rules_text: Flash
+When Piercing Skitterer enters, choose one —
+• Exile target card from a graveyard.
+• You draw a card and you lose 2 life.
+• Piercing Skitterer deals 1 damage to any target. => Flash
+When Piercing Skitterer enters, choose one —
+• Exile target card from a graveyard.
+• You draw a card and lose 2 life.
+• Piercing Skitterer deals 1 damage to any target.
+
+Yuil, Troubled Companion
+rules_text: Empty [i](As this enters, it loses all printed abilities until your next turn.)[/i]
+Yuil gets -1/-1 for each card in your hand.
+Whenever a creature you control attacks alone, you may cast Yuil from your graveyard. If you do, he enters tapped and attacking with a finality counter on him. => Empty [i](As this enters, it loses all printed abilities until your next turn.)[/i]
+Yuil gets -1/-1 for each card in your hand.
+Whenever a creature you control attacks alone, you may cast Yuil from your graveyard. If you do, it enters tapped and attacking with a finality counter on him.
+
+Narrow Sanity
+rules_text: As Narrow Sanity enters, choose a number between 0 and 3. [i](Including 0 or 3.)[/i]
+At the beginning of each player's end step, that player discards a card unless they draw a card. Then if the number of cards in their hand isn't equal to the chosen number, Narrow Sanity deals 3 damage to them. => As Narrow Sanity enters, choose a number between 0 and 3. [i](Including 0 or 3.)[/i]
+At the beginning of each player's end step, that player discards a card unless they draw a card. Then if the number of cards in their hand isn't equal to the chosen number, Narrow Sanity deals 2 damage to them.
+
+Prayers for a New Deity
+rules_text: At the beginning of your end step, if you've seen signs this turn, sacrifice a creature. If you do, create a X/X black Horror creature token, where X is equal to the number of card types that entered your graveyard this turn. [i](You've seen signs if two or more cards types entered your graveyard.)[/i] => At the beginning of your end step, if you've seen signs this turn, you may sacrifice a creature. If you do, create a X/X black Horror creature token, where X is equal to the number of card types that entered your graveyard this turn. [i](You've seen signs if two or more cards types entered your graveyard.)[/i]
+
+Thoughtless Thoughts
+cost: {2}{R}{R} => {3}{R}{R}
+
+Caller of the Ideal
+rules_text: Ward—Discard a card.
+Whenever you cast an Aura spell, you draw a card and you lose 1 life. => Ward—Discard a card.
+Whenever you cast an Aura spell, you draw a card and lose 1 life.
+
+Beastly Valor
+
+Beastmaster
+
+Beastly Communist
+
+Bitter Beetle
+
+Grounding Stones
+rules_text: When Grounding Stones enters, each player chooses a card type, then exiles each card not of their chosen type from their graveyard.
+{1}, {T}: Target player exiles two cards from their graveyard.
+{2}, {T}, Sacrifice Grounding Stones: You draw a card and gain 3 life. => When Grounding Stones enters, each player chooses a card type, then exiles each card not of their chosen type from their graveyard.
+{1}, {T}: Target player exiles two cards from their graveyard.
+{2}, {T}, Sacrifice Grounding Stones: You gain 3 life and draw a card.
+
+Internal Sorrow
+cost: {2}{U}{U} => {3}{U}{U}
+
+
+VERSION 3 CHANGELOG
 ====================
 
 

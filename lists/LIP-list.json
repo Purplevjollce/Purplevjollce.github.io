@@ -474,8 +474,8 @@
         "set": "LIP"
     },
     {
-        "card_name": "Beastmaster",
-        "number": 165,
+        "card_name": "Beastly Call",
+        "number": 163,
         "shape": "normal",
         "set": "LIP"
     },
@@ -504,8 +504,8 @@
         "set": "LIP"
     },
     {
-        "card_name": "Call of the Beasts",
-        "number": 167,
+        "card_name": "Beastmaster",
+        "number": 166,
         "shape": "normal",
         "set": "LIP"
     },
@@ -715,7 +715,7 @@
     },
     {
         "card_name": "Beastly Communist",
-        "number": 163,
+        "number": 164,
         "shape": "normal",
         "set": "LIP"
     },
@@ -745,7 +745,7 @@
     },
     {
         "card_name": "Beastly Valor",
-        "number": 164,
+        "number": 165,
         "shape": "normal",
         "set": "LIP"
     },
@@ -775,7 +775,7 @@
     },
     {
         "card_name": "Bitter Beetle",
-        "number": 166,
+        "number": 167,
         "shape": "normal",
         "set": "LIP"
     },

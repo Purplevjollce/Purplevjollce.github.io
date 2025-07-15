@@ -531,13 +531,13 @@
 			}
 		},
 		{
-			"name": "Call of the Beasts",
+			"name": "Beastly Call",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "167",
+			"collector_number": "163",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/167_Call of the Beasts.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/163_Beastly Call.png"
 			}
 		},
 		{
@@ -1133,7 +1133,7 @@
 		{
 			"name": "Thoughtless Thoughts",
 			"rarity": "mythic",
-			"mana_cost": "{2}{R}{R}",
+			"mana_cost": "{3}{R}{R}",
 			"type": "Sorcery",
 			"collector_number": "151",
 			"image_uris": {
@@ -1325,9 +1325,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "164",
+			"collector_number": "165",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/164_Beastly Valor.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/165_Beastly Valor.png"
 			}
 		},
 		{
@@ -1645,9 +1645,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Scout",
-			"collector_number": "165",
+			"collector_number": "166",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/165_Beastmaster.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/166_Beastmaster.png"
 			}
 		},
 		{
@@ -2265,9 +2265,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{G}",
 			"type": "Creature — Human Shaman",
-			"collector_number": "163",
+			"collector_number": "164",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/163_Beastly Communist.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/164_Beastly Communist.png"
 			}
 		},
 		{
@@ -2285,9 +2285,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Insect",
-			"collector_number": "166",
+			"collector_number": "167",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/166_Bitter Beetle.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/167_Bitter Beetle.png"
 			}
 		},
 		{
@@ -2343,7 +2343,7 @@
 		{
 			"name": "Internal Sorrow",
 			"rarity": "rare",
-			"mana_cost": "{2}{U}{U}",
+			"mana_cost": "{3}{U}{U}",
 			"type": "Enchantment — Aura",
 			"collector_number": "61",
 			"image_uris": {
@@ -2633,7 +2633,7 @@
 	5 Smothering Moth
 	5 Repetitive Production
 	5 Sinful Temptations
-	5 Call of the Beasts
+	5 Beastly Call
 	5 Wings of the Lance
 	5 Frenzied Deployment
 	5 Hunter's Tactics
