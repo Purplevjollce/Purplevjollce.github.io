@@ -1,4 +1,288 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Descent from Godliness added.
+Brutality's Way added.
+Deathmarch Angel added.
+Display of Valor added.
+Fanatical Charger added.
+Dignity in Arms added.
+Seer of Loosened Reality added.
+Territorial Strike added.
+Woe's Grasp added.
+Self-doubt added.
+Evolutionary Misfit added.
+Sin for the Vain added.
+Illuminated Thoughts added.
+Rebirthing Mantis added.
+Spooky Bug added.
+Mental Shaper added.
+Mindless Pollinator added.
+Bearer of Truth added.
+Blessed Vanguard added.
+Caller of the Ideal added.
+Outrun Chaos added.
+Diminish to Humanity added.
+Second Chances added.
+Beastly Insight added.
+Paranoid Deserter added.
+Mourning Stone added.
+Ghastly Mind added.
+Reckon Mortality added.
+Volcanic Beetle added.
+Parasitic Swarm added.
+Discreet Messenger added.
+Purging Blade added.
+Angelic Strikeleader added.
+
+BW Descent from Godliness removed.
+RG Brutality's Way removed.
+RW Deathmarch Angel removed.
+RW Display of Valor removed.
+Magmaheart Warrior removed.
+UW Dignity in Arms removed.
+UR Seer of Loosened Reality removed.
+Grizzly Munch removed.
+UB Woe's Grasp removed.
+Selfdoubt removed.
+Product of Evolution removed.
+BW Sin for the Vain removed.
+Reckon Inner Thoughts removed.
+BR Rebirthing Mantis removed.
+BR Spooky Bug removed.
+UW Purging Blade removed.
+UB Mental Shaper removed.
+UG Busy Pollinator removed.
+RG Bearer of Truth removed.
+GW Blessed Vanguard removed.
+BG Caller of the Ideal removed.
+UR Outrun Chaos removed.
+Diminished Humanity removed.
+BG Second Chances removed.
+UG Beastly Insight removed.
+Watchful Evacuee removed.
+GW Mourning Stone removed.
+Getting Mad Man removed.
+Reckon With Mortality removed.
+Angelic Instructor removed.
+Heated Beetle removed.
+City Lurker removed.
+Slick Pickpocket removed.
+
+Wasteland Crier
+type: Creature — Horror Mutant => Creature — Horror
+cost: {R} => {1}{R}
+rules_text: Trample
+{3}{R}: Adapt 3. [i](If this creature has no +1/+1 counters on it, put three +1/+1 counters on it.)[/i]
+At the beginning of combat on your turn, target creature you control with power 4 or greater gains haste until end of turn. => {1}{R}: Adapt 1. [i](If this creature has no +1/+1 counters on it, put a +1/+1 counter on it.)[/i]
+At the beginning of combat on your turn, target creature you control with power 4 or greater gains haste and trample until end of turn.
+pt: 1/1 => 3/1
+
+Bloodied Blademaster
+
+Satiated Horror
+
+Floating Vagrant
+
+Grinning Horror
+
+Resigned Vanguard
+
+Absolver of Transgression
+pt: 3/1 => 2/1
+
+Moonlit Ruminator
+
+Diminished Angel
+
+Leader of the Charge
+
+Vaulted Despot
+
+Pure Form
+
+Brutal Disillusionment
+
+Dias, Storied Apocolypse
+
+Bound Seeker
+
+Merry Meetings
+
+Lamech, Bound by History
+
+Repetitive Production
+
+Sinful Temptations
+rules_text: Draw three cards, then you lose 3 life unless you have 10 or less life.
+Flashback {4}{B}{B} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Draw three cards, then you lose 3 life unless you have 10 or less life.
+Flashback {5}{B}{B} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Promise of Tranquility
+
+Otherside Encounter
+
+Simple Majesty
+
+Forest's Champion
+
+Narrow Sanity
+
+Overbearing Majesty
+
+Forced Gaze
+
+Finder of Enchanted Ways
+
+Radiant Binder
+
+Gaiety
+
+Acclimated Hunter
+
+Prayers for a New Deity
+rules_text: At the beginning of your end step, if you've seen signs this turn, put a delusion counter on Prayers for a New Deity. Then if there are three or more delusion counters on it, sacrifice it. If you do, search your library for a God card, put it onto the battlefield, then shuffle. [i](You've seen signs if two or more cards types entered your graveyard.)[/i] => At the beginning of your end step, if you've seen signs this turn, sacrifice a creature. If you do, create a X/X black Horror creature token, where X is equal to the number of card types that entered your graveyard this turn. [i](You've seen signs if two or more cards types entered your graveyard.)[/i]
+
+Eerie Murmur
+
+Ruin of the Feeble
+
+Mountainside Predator
+
+Decay Unto Decay
+
+Other Unto Other
+
+Render Ash
+
+Pure Flame
+
+Establish Hierarchy
+
+Walker of Bitter Truth
+
+In Horror's Thrall
+
+Marked by the Night
+
+Skillful Siphoner
+
+Radiant Bliss
+
+Inhibiting Angel
+
+Thoughtless Thoughts
+
+Change Lost to the Stars
+
+Hopeless Sinner
+
+Inquisitive Glider
+
+Ventured Land
+
+Scout's Demise
+
+Rallied Purifier
+
+Deadpit Swarm
+
+Depraved Mind
+
+Unfortunate Encounter
+
+Piercing Thoughts
+
+Truthseeker
+
+Experienced Plotters
+
+The Pioneer, Vain Hope
+
+Nascent Spawn
+
+Fatigued Veteran
+
+Delusional Angel
+
+Lapse of Self
+
+Radical Purist
+rules_text: Flying
+Toxic 1 [i](Players dealt combat damage by this creature also get a poison counter.)[/i] [i](Players dealt combat damage by this creature also get a poison counter.)[/i]
+Angel spells you cast cost {1} less to cast if an opponent has one or more poison counters.
+Other Angels you control have toxic 1 if an opponent has three or more poison counters. [i](Players dealt combat damage by this creature also get a poison counter.)[/i] => Flying
+Toxic 1 [i](Players dealt combat damage by this creature also get a poison counter.)[/i]
+Angel spells you cast cost {1} less to cast if an opponent has one or more poison counters.
+Other Angels you control have toxic 1 if an opponent has three or more poison counters.
+
+Share in Humanity
+
+Ferocity's Scavenger
+
+Patient Fishers
+
+Soaring Ligaments
+rules_text: Flying
+Soaring Ligaments can block only creatures with flying.
+{3}{U}{U}: Adapt 3. [i](If this creature has no +1/+1 counters on it, put three +1/+1 counters on it.)[/i] => Flying
+Soaring Ligaments can block only creatures with flying.
+{4}{U}{U}: Adapt 3. [i](If this creature has no +1/+1 counters on it, put three +1/+1 counters on it.)[/i]
+
+Heirloom Bauble
+
+Dismiss
+
+Watch the Wildlife
+
+Exemplar Fisher
+
+Place Among the Stars
+
+Drink of the World
+
+Quell Unrest
+
+Lurking Shadowpincer
+
+Solitary Thinker
+
+Raw Force
+
+Frightening Instructor
+
+Perpetuity
+
+Vicious Wolf
+
+Frenzied Slasher
+
+Deathshroud Beetle
+
+Purge Heretical Thoughts
+
+Fishing Rod
+
+Pointed Swimmer
+
+Distant Expeditioner
+
+Bitter Beetle
+
+Send Fishing
+
+Internal Sorrow
+
+Mental Mask
+
+Insectoid Spawner
+
+Muted Mutterer
+
+Hunting Mantis
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
