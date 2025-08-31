@@ -1,4 +1,512 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Deadpit Skitterer added.
+Charging Lance added.
+Dias, Storied Apocalypse added.
+Light Smotherer added.
+Nature's Call added.
+Self-Doubt added.
+Empathic Savior added.
+Perverse Learner added.
+Devoted Inhibitor added.
+Tunnel Pincer added.
+Bearer of Natural Whims added.
+Height of Communion added.
+Channel of Instability added.
+Mortal Insight added.
+Skyblessed Traveler added.
+Experienced Plotter added.
+Fatigued Hero added.
+Amicable Traveler added.
+Determined Veteran added.
+Communed Hunter added.
+Deluded Angel added.
+Life's Sovereign added.
+Consuming Swarm added.
+Advance Party added.
+Bloodied Armor added.
+Bereaved Sanctifier added.
+Bloodstarved Slasher added.
+Mindless Skimmer added.
+Foreboding Winds added.
+Mask of Communion added.
+Strength's Law added.
+Indiscriminate Terror added.
+Reflect Upon the Stars added.
+Dragonfire Devoted added.
+Hulking Creeper added.
+Relaxed Admirer added.
+Nimble Pathfinder added.
+Mindless Flamechaser added.
+Alpine Navigator added.
+Unnatural Acceptance added.
+Treacherous Barrenlands added.
+Resilient Scrubland added.
+
+Satiated Horror removed.
+Grinning Horror removed.
+Piercing Skitterer removed.
+Leader of the Charge removed.
+Dias, Storied Apocolypse removed.
+Smothering Moth removed.
+Beastly Call removed.
+Acclimated Hunter removed.
+Self-doubt removed.
+Render Ash removed.
+Careful Savior removed.
+Ambush Illuminator removed.
+Skillful Siphoner removed.
+Inhibiting Angel removed.
+Spooky Bug removed.
+Bearer of Truth removed.
+Beastly Valor removed.
+Outrun Chaos removed.
+Opportune Hunter removed.
+Beastly Insight removed.
+Paranoid Deserter removed.
+Experienced Plotters removed.
+Fatigued Combatant removed.
+Worldly Attitude removed.
+Fatigued Veteran removed.
+Beastmaster removed.
+Delusional Angel removed.
+Angel of Dominance removed.
+Ferocity's Scavenger removed.
+Advanced Party removed.
+Secondhand Armor removed.
+Bereaved Cleric removed.
+Volcanic Beetle removed.
+Vicious Wolf removed.
+Frenzied Slasher removed.
+Pointed Swimmer removed.
+Bear the Storm removed.
+Mental Mask removed.
+Burn the Castle removed.
+Shaman of Natural Whims removed.
+
+Bloodlet Ritualist
+
+Descent from Godliness
+
+Gaze Upon Hope
+
+Wasteland Crier
+cost: {1}{R} => {R}
+rules_text: {1}{R}: Adapt 1. [i](If this creature has no +1/+1 counters on it, put a +1/+1 counter on it.)[/i]
+At the beginning of combat on your turn, target creature you control with power 4 or greater gains haste and trample until end of turn. => At the beginning of combat on your turn, target creature you control with power 4 or greater gains haste until end of turn.
+{R}, {T}, Sacrifice another creature: Put three +1/+1 counters and a null counter on Wasteland Crier. Activate only as a sorcery. [i](It loses all printed abilities.)[/i]
+pt: 3/1 => 1/1
+
+Bloodied Blademaster
+
+Floating Vagrant
+
+Faith's Fetters
+
+Unspool Creation
+rules_text: Exile target creature. => Exile target creature. Mill two cards.
+
+Boardwalk Terror
+rules_text: Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+Boardwalk Terror gets +3/+3 as long as you've seen signs this turn. [i](You've seen signs if two or more cards types entered your graveyard.)[/i] => Whenever Boardwalk Terror or another Horror enters under your control, you may mill three cards.
+Boardwalk Terror gets +3/+3 as long as you've seen signs this turn. [i](You've seen signs if two or more cards types entered your graveyard.)[/i]
+
+Journey to the Self
+
+Resigned Vanguard
+
+Bared Seeker
+rules_text: When Bared Seeker attacks, you may draw a card and lose 1 life. If you do, put a null counter on Bared Seeker. [i](It loses this ability.)[/i] => When Bared Seeker enters or attacks, you may have each player discard two cards, then draw a card. If you do, put a null counter on Bared Seeker. [i](It loses this ability.)[/i]
+
+Pestilent Scavenger
+
+Absolver of Transgression
+pt: 2/1 => 3/1
+
+Brutality's Way
+rules_text: Choose one —
+• Brutality's Way deals 5 damage to target creature unless its controller sacrifices a land.
+• Destroy target artifact.
+• Destroy target enchantment. => Choose one —
+• Destroy target artifact or enchantment with mana value 3 or less.
+• Brutality's Way deals 4 damage to target creature or planeswalker.
+• Brutality's Way deals 5 damage to target player unless they sacrifice a land.
+
+Horror of Humanity
+
+Deathmarch Angel
+
+Moonlit Ruminator
+
+Unaware Fisher
+rules_text: When Unaware Fisher enters, look at the top five cards of your library. You may reveal a Horror or Island card from among them and put it into your hand. Put the rest on the bottom of your library in any order. => When Unaware Fisher enters, look at the top five cards of your library, then you may discard a Horror card. If you do, put one of those cards into your hand, otherwise you may reveal a Horror card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+pt: 1/2 => 1/3
+
+Calm Journeys
+
+Diminished Angel
+rules_text: When Diminished Angel attacks, you may have it gain flying until end of turn. If you do, put a null counter on it. [i](It loses this ability.)[/i] => Whenever Diminished Angel attacks, you may have it gain flying until end of turn. If you do, put a null counter on it. [i](It loses this ability.)[/i]
+
+Tortured Dweller
+rules_text: When Tortured Dweller enters or attacks, you may draw two cards, then discard two cards. If you do, put a null counter on Tortured Dweller. [i](It loses this ability.)[/i] => Whenever Tortured Dweller enters or attacks, you may draw two cards, then discard two cards. If you do, put a null counter on it. [i](It loses this ability.)[/i]
+
+Fanatical Charger
+cost: {2}{R} => {3}{R}
+rules_text: When Fanatical Charger attacks, you may have it deal damage equal to the number of attacking creatures to defending player. If you do, put a null counter on Fanatical Charger. [i](It loses this ability.)[/i] => Whenever Fanatical Charger attacks, you may have it deal damage equal to the number of attacking creatures to defending player. If you do, put a null counter on Fanatical Charger. [i](It loses this ability.)[/i]
+pt: 3/2 => 3/3
+
+Roaming Grizzly
+
+Seeking Elk
+pt: 2/1 => 0/2
+
+Vaulted Despot
+
+Yuil, Troubled Companion
+rules_text: Empty [i](As this enters, it loses all printed abilities until your next turn.)[/i]
+Yuil gets -1/-1 for each card in your hand.
+Whenever a creature you control attacks alone, you may cast Yuil from your graveyard. If you do, it enters tapped and attacking with a finality counter on him. => Empty [i](As this enters, it loses all printed abilities until your next turn.)[/i]
+Yuil gets -1/-1 for each card in your hand.
+Whenever a creature you control attacks alone, you may cast Yuil from your graveyard. If you do, he enters tapped and attacking with a finality counter on him.
+
+Pure Form
+
+Brutal Disillusionment
+cost: {1}{B}{R} => {B}{R}
+rules_text: Choose one. If you control a creature with power 4 or greater, you may choose two instead.
+• Target player discards two cards.
+• Destroy target nonland permanent with mana value 2 or less.
+• Gain control of target creature with power 2 or less until end of turn. Untap that creature. It gains haste until end of turn. => Choose one. If you control a creature with power 4 or greater, you may choose two instead.
+• Target player discards a card and loses 2 life.
+• Destroy target nonland permanent with mana value 2 or less.
+• Gain control of target creature with power 2 or less until end of turn. Untap that creature. It gains haste until end of turn.
+
+Dignity in Arms
+rules_text: Return target nonland permanent an opponent controls to its owner's hand. Exile it instead if you control an equipped creature. => Counter target spell if it's the first spell its controller cast this turn.
+If you control an equipped creature, that spell's controller can't cast spells this turn.
+
+Bound Seeker
+
+Merry Meetings
+
+Way of the World
+
+Mystic Communion
+
+Repetitive Production
+
+Errant's Demand
+
+Promise of Tranquility
+
+Bound Ancient
+
+Territorial Strike
+
+Bear Absent Witness
+
+Otherside Encounter
+
+Frenzied Deployment
+
+Simple Majesty
+cost: {2}{R}{G} => {1}{R}{G}
+pt: 5/5 => 4/3
+
+Narrow Sanity
+
+Overbearing Majesty
+
+Forced Gaze
+
+Finder of Enchanted Ways
+
+Angel of Natural Guise
+type: Creature — Angel Druid Scout => Creature — Angel Scout
+
+Radiant Binder
+
+Wade Through Starlight
+cost: {4}{W}{W} => {3}{W}{W}
+
+Hero of the Plain
+
+Cavern Terror
+rules_text: Flash
+Flying
+{2}{U}: Adapt 2. [i](If this creature has no +1/+1 counters on it, put two +1/+1 counters on it.)[/i]
+When Cavern Terror enters, exile target spell. The next time one or more +1/+1 counters are put on Cavern Terror, you may cast that spell without paying its mana cost. => Flash
+Emerge {5}{U} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Flying
+When Cavern Terror enters, counter target spell.
+
+Eerie Murmur
+
+Hunter's Tactics
+
+Woe's Grasp
+rules_text: Return target nonland permanent to its owner's hand.
+If you've seen signs this turn, that permanent's controller reveals their hand and discards a nonland card. [i](You've seen signs if two or more cards types entered your graveyard.)[/i] => Return target nonland permanent an opponent controls to its owner's hand.
+If you've seen signs this turn, that permanent's controller reveals their hand and discards a nonland card. [i](You've seen signs if two or more cards types entered your graveyard.)[/i]
+
+Anticipated End
+
+Ruin of the Feeble
+
+Mountainside Predator
+
+Evolutionary Misfit
+cost: {2}{G} => {2}{G}{G}
+pt: 3/3 => 5/4
+
+Dark Forest Hunter
+
+Decay Unto Decay
+
+Thought Unto Thought
+
+Loss Unto Loss
+rules_text: Target player sacrifices a nontoken, nonbasic permanent. Repeat this process once unless that player has Loss Unto Loss deal 3 damage to them.
+Flashback {3}{R}{R} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Target player sacrifices a nontoken, nonbasic permanent. Repeat this process once unless that player has Loss Unto Loss deal 3 damage to them.
+Flashback {4}{R}{R} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Pure Flame
+
+Rouse Ancient Strength
+
+Tyrant's Peak
+
+Establish Hierarchy
+
+Brain Gorger
+cost: {1}{R} => {2}{R}
+rules_text: Brain Gorger attacks each combat if able.
+{1}{R}: Adapt 2. [i](If this creature has no +1/+1 counters on it, put two +1/+1 counters on it.)[/i]
+Whenever a player dealt damage by Brain Gorger draws a card, Brain Gorger deals 1 damage to them. => Emerge {3}{R} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Brain Gorger has haste as long as a creature died this turn.
+Whenever an opponent that was dealt damage by Brain Gorger draws a card, Brain Gorger deals 2 damage to them.
+pt: 2/2 => 3/3
+
+Marked by the Night
+
+Piercing Gaze
+
+Holy Mantle
+
+Estranged Elder
+type: Creature — Human Druid Scout => Creature — Human Scout
+
+Adaptive Endpoint
+rules_text: As an additional cost to cast this spell, you may remove any number of counters from among creatures you control. This spell costs {1} less to cast for each counter removed this way. => Emerge {5}{U} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Ward {2}
+pt: 5/5 => 6/5
+
+Illuminated Thoughts
+
+Thoughtless Thoughts
+
+Emptied Self
+
+Ancient Progenitor
+
+Change Lost to the Stars
+
+Myriad Souls
+type: Legendary Creature — God => Legendary Creature — Horror God
+
+Beseech the Waves
+rules_text: This spell costs {2} less to cast if it's the only card in your hand.
+Draw three cards. => This spell costs {2} less to cast if it's the only card in your hand or if you've seen signs this turn. [i](You've seen signs if two or more cards types entered your graveyard.)[/i]
+Draw three cards.
+
+The Dreamer, Ideoclast
+rules_text: You can't win the game and your opponents can't lose the game.
+{R}: The Dreamer gets +1/+0 until end of turn.
+If The Dreamer would deal damage to a player with 10 or less life, it deals double that damage to that player instead. => You can't win the game and your opponents can't lose the game.
+{R}: The Dreamer gets +1/+0 until end of turn.
+If The Dreamer would deal damage to a player with 10 or less life, they deal double that damage to that player instead.
+
+Resting Vanguard
+
+Banished Heretic
+
+Ventured Land
+rules_text: Flash
+Enchant land
+When Ventured Land enters, create two 1/1 green Scout creature tokens.
+Enchanted land has “{T}: Add two mana of any one color.” => Enchant land
+When Ventured Land enters, create two 1/1 green Scout creature tokens.
+Enchanted land has “{G}, {T}, Sacrifice a creature: Draw a card.”
+
+Blessed Vanguard
+
+Caller of the Ideal
+
+Blazer of Red Seas
+pt: 3/3 => 4/3
+
+Scout's Demise
+
+Dogmatic Commander
+
+Diminish to Humanity
+rules_text: Choose one —
+• Destroy target creature with power 2 or less.
+• Destroy target Equipment.
+• Destroy target enchantment. => Choose one —
+• Destroy target creature with power 2 or less.
+• Destroy target Equipment.
+• Destroy target Aura.
+
+Rallied Purifier
+
+Scouting Corridor
+
+Deadpit Swarm
+
+Lush Beetle
+
+Jewel Bug
+
+Depraved Mind
+
+Unfortunate Encounter
+
+Piercing Thoughts
+
+Truthseeker
+
+Enigmatic Encounter
+
+Mourning Stone
+cost: {1}{G}{W} => {G}{W}
+
+Nascent Spawn
+rules_text: {B}, Exile two creature cards from your graveyard: Adapt 2. [i](If this creature has no +1/+1 counters on it, put two +1/+1 counters on it.)[/i] => Emerge {4}{B}{B} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+If you paid Nascent Spawn's emerge cost, it enters with three +1/+1 counters on it.
+
+Lurid Lucidity
+
+Among the Greenery
+
+Uncomfortable Truths
+
+Radical Purist
+
+Share in Humanity
+
+Patient Fishers
+
+Soaring Ligaments
+rules_text: Flying
+Soaring Ligaments can block only creatures with flying.
+{4}{U}{U}: Adapt 3. [i](If this creature has no +1/+1 counters on it, put three +1/+1 counters on it.)[/i] => Emerge {5}{U}{U} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Flying
+If you paid Soaring Ligaments's emerge cost, it enters with three +1/+1 counters on it.
+
+Dismiss
+
+Ghastly Mind
+pt: 3/2 => 4/2
+
+Watch the Wildlife
+
+Exemplar Fisher
+
+Timid Scout
+rules_text: {1}{U}: Adapt 1. [i](If this creature has no +1/+1 counters on it, put a +1/+1 counter on it.)[/i]
+Whenever Timid Scout deals combat damage to a player, you may remove a counter from it. If you do, draw a card. => When Timid Scout enters or dies, mill a card, then draw a card.
+pt: 2/3 => 2/1
+
+Drink of the World
+
+Quell Unrest
+
+Failure of Piety
+
+Reckon Mortality
+
+Lurking Shadowpincer
+rules_text: At the beginning of your end step, you may create a X/X black Horror creature token, where X is the total amount of life lost by players this turn. If you do, put a null counter on Lurking Shadowpincer. [i](It loses this ability.)[/i] => Haste
+At the beginning of your end step, you may create a X/X black Horror creature token, where X is the total amount of life lost by players this turn. If you do, put a null counter on Lurking Shadowpincer. [i](It loses this ability.)[/i]
+pt: 4/4 => 3/3
+
+Dreams Beyond the End
+
+Solitary Thinker
+
+Disposable Recruits
+
+Raw Force
+
+Frightening Instructor
+
+Dead Seeker
+cost: {1}{R} => {2}{R}
+pt: 1/1 => 2/1
+
+Parasitic Swarm
+cost: {3}{B} => {4}{B}
+rules_text: When Parasitic Swarm enters, each player discards a card.
+{3}{B}{B}: Adapt 4. [i](If this creature has no +1/+1 counters on it, put four +1/+1 counters on it.)[/i] => Emerge {3}{B} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+When Parasitic Swarm enters, mill three cards.
+pt: 2/2 => 4/4
+
+Deathshroud Beetle
+
+Purge Heretical Thoughts
+
+Fishing Rod
+rules_text: When Fishing Rod enters, create a 1/1 green Scout creature token, then attach Fishing Rod to it.
+Equipped creature has “{T}: Surveil 1.”
+Equip {3} => When Fishing Rod enters, create a 1/1 green Scout creature token, then attach Fishing Rod to it.
+Equipped creature has “{T}: Surveil 1.” [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]
+Equip {3}
+
+Distant Expeditioner
+
+Discreet Messenger
+pt: 2/3 => 3/2
+
+Beastly Communist
+cost: {5}{G} => {3}{G}
+pt: 3/3 => 1/1
+
+Natural Ending
+
+Bitter Beetle
+rules_text: Deathtouch
+{3}{G}{G}: Adapt 3. [i](If this creature has no +1/+1 counters on it, put three +1/+1 counters on it.)[/i] => Deathtouch
+When Bitter Beetle dies, if it was sacrificed, return it to its owner's hand.
+
+Send Fishing
+
+Escalating Scale
+
+Terramorphic Expanse
+
+Deep Looker
+
+Worldly Illogic
+
+Muted Mutterer
+
+Hunting Mantis
+pt: 3/1 => 3/2
+
+Natural Bemusements
+
+Radiant Bliss
+cost: {2}{R} => {3}{R}
+rules_text: Whenever you cast a spell, if you have one or fewer cards in hand, exile the top card of your library. You may play that card this turn.
+{2}, Discard a land card: Draw a card. => Whenever you cast a spell from your hand, if you have no other cards in hand, exile the top card of your library. You may cast that card without paying its mana cost.
+{2}, Discard a land card: Draw a card.
+
+Other Unto Other
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Beastly Call added.
