@@ -1,37 +1,37 @@
 ﻿[
     {
-        "card_name": "Banner of Her Radiance",
-        "number": 7,
+        "card_name": "Blinding, Acceptance",
+        "number": 8,
         "shape": "normal",
         "set": "LIP"
     },
     {
-        "card_name": "In Horror's Thrall",
-        "number": 59,
+        "card_name": "Absolute, Comprehension",
+        "number": 41,
         "shape": "normal",
         "set": "LIP"
     },
     {
-        "card_name": "Bound Ancient",
-        "number": 84,
-        "shape": "normal",
+        "card_name": "Dias, Storied Apocalypse",
+        "number": 91,
+        "shape": "planeswalker",
         "set": "LIP"
     },
     {
         "card_name": "The Dreamer, Ideoclast",
-        "number": 128,
+        "number": 125,
         "shape": "normal",
         "set": "LIP"
     },
     {
-        "card_name": "Emptied Self",
-        "number": 167,
+        "card_name": "Natural Bemusements",
+        "number": 178,
         "shape": "normal",
         "set": "LIP"
     },
     {
-        "card_name": "Holy Mantle",
-        "number": 22,
+        "card_name": "Singular Radiance",
+        "number": 33,
         "shape": "normal",
         "set": "LIP"
     },
@@ -42,26 +42,26 @@
         "set": "LIP"
     },
     {
-        "card_name": "Dias, Storied Apocalypse",
-        "number": 92,
-        "shape": "planeswalker",
-        "set": "LIP"
-    },
-    {
-        "card_name": "Thoughtless Thoughts",
-        "number": 152,
+        "card_name": "Forbidden, Power",
+        "number": 94,
         "shape": "normal",
         "set": "LIP"
     },
     {
-        "card_name": "Escalating Scale",
-        "number": 169,
+        "card_name": "Imperious, Demand",
+        "number": 133,
         "shape": "normal",
         "set": "LIP"
     },
     {
-        "card_name": "Singular Radiance",
-        "number": 35,
+        "card_name": "Unwavering Behemoth",
+        "number": 192,
+        "shape": "normal",
+        "set": "LIP"
+    },
+    {
+        "card_name": "Wade Through Starlight",
+        "number": 38,
         "shape": "normal",
         "set": "LIP"
     },
@@ -73,31 +73,31 @@
     },
     {
         "card_name": "Insectoid Spawner",
-        "number": 97,
+        "number": 98,
         "shape": "normal",
         "set": "LIP"
     },
     {
-        "card_name": "Vaulted Despot",
-        "number": 155,
+        "card_name": "Thoughtless Thoughts",
+        "number": 151,
         "shape": "normal",
         "set": "LIP"
     },
     {
-        "card_name": "Natural Bemusements",
-        "number": 180,
+        "card_name": "Watching, Emptiness",
+        "number": 195,
         "shape": "normal",
         "set": "LIP"
     },
     {
-        "card_name": "Blinding Luminescence",
-        "number": 9,
+        "card_name": "Bound Seeker",
+        "number": 10,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Awed Hush",
-        "number": 42,
+        "number": 43,
         "shape": "normal",
         "set": "LIP"
     },
@@ -108,20 +108,20 @@
         "set": "LIP"
     },
     {
-        "card_name": "Blazer of Red Seas",
-        "number": 121,
+        "card_name": "Domineering Regent",
+        "number": 123,
         "shape": "normal",
         "set": "LIP"
     },
     {
-        "card_name": "Dark Forest Hunter",
-        "number": 165,
+        "card_name": "Birth Unto Birth",
+        "number": 162,
         "shape": "normal",
         "set": "LIP"
     },
     {
-        "card_name": "Bound Seeker",
-        "number": 11,
+        "card_name": "Other Unto Other",
+        "number": 22,
         "shape": "normal",
         "set": "LIP"
     },
@@ -132,26 +132,26 @@
         "set": "LIP"
     },
     {
-        "card_name": "Decay Unto Decay",
-        "number": 89,
+        "card_name": "Consumer of Continuum",
+        "number": 84,
         "shape": "normal",
         "set": "LIP"
     },
     {
-        "card_name": "Brain Gorger",
-        "number": 123,
+        "card_name": "Hero of the Plain",
+        "number": 132,
         "shape": "normal",
         "set": "LIP"
     },
     {
-        "card_name": "Estranged Elder",
-        "number": 170,
+        "card_name": "Dark Forest Hunter",
+        "number": 165,
         "shape": "normal",
         "set": "LIP"
     },
     {
-        "card_name": "Empathic Savior",
-        "number": 17,
+        "card_name": "Overbearing Majesty",
+        "number": 23,
         "shape": "normal",
         "set": "LIP"
     },
@@ -162,25 +162,25 @@
         "set": "LIP"
     },
     {
-        "card_name": "Light Smotherer",
-        "number": 99,
+        "card_name": "Decay Unto Decay",
+        "number": 88,
         "shape": "normal",
         "set": "LIP"
     },
     {
-        "card_name": "Domineering Regent",
-        "number": 126,
+        "card_name": "Lurid Battlemaster",
+        "number": 137,
         "shape": "normal",
         "set": "LIP"
     },
     {
-        "card_name": "Finder of Enchanted Ways",
-        "number": 173,
+        "card_name": "Estranged Elder",
+        "number": 168,
         "shape": "normal",
         "set": "LIP"
     },
     {
-        "card_name": "Other Unto Other",
+        "card_name": "Pure Form",
         "number": 25,
         "shape": "normal",
         "set": "LIP"
@@ -192,85 +192,85 @@
         "set": "LIP"
     },
     {
-        "card_name": "Lurking Shadowpincer",
-        "number": 100,
-        "shape": "normal",
-        "set": "LIP"
-    },
-    {
-        "card_name": "Hero of the Plain",
-        "number": 135,
-        "shape": "normal",
-        "set": "LIP"
-    },
-    {
-        "card_name": "Journey to the Self",
-        "number": 178,
-        "shape": "normal",
-        "set": "LIP"
-    },
-    {
-        "card_name": "Overbearing Majesty",
-        "number": 26,
-        "shape": "normal",
-        "set": "LIP"
-    },
-    {
-        "card_name": "Inquisitive Glider",
-        "number": 60,
-        "shape": "normal",
-        "set": "LIP"
-    },
-    {
-        "card_name": "Marked by the Night",
-        "number": 101,
-        "shape": "normal",
-        "set": "LIP"
-    },
-    {
-        "card_name": "Loss Unto Loss",
-        "number": 137,
-        "shape": "normal",
-        "set": "LIP"
-    },
-    {
-        "card_name": "Nimble Pathfinder",
-        "number": 183,
-        "shape": "normal",
-        "set": "LIP"
-    },
-    {
-        "card_name": "Pure Form",
-        "number": 28,
-        "shape": "normal",
-        "set": "LIP"
-    },
-    {
-        "card_name": "Internal Sorrow",
-        "number": 61,
-        "shape": "normal",
-        "set": "LIP"
-    },
-    {
-        "card_name": "Moonlit Ruminator",
-        "number": 102,
+        "card_name": "Infirm Self",
+        "number": 97,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Radiant Bliss",
-        "number": 145,
+        "number": 143,
         "shape": "normal",
         "set": "LIP"
     },
     {
-        "card_name": "Reflect Upon the Stars",
-        "number": 184,
+        "card_name": "Finder of Illuminated Ways",
+        "number": 170,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Radiant Binder",
+        "number": 27,
+        "shape": "normal",
+        "set": "LIP"
+    },
+    {
+        "card_name": "In Horror's Thrall",
+        "number": 60,
+        "shape": "normal",
+        "set": "LIP"
+    },
+    {
+        "card_name": "Light Smotherer",
+        "number": 100,
+        "shape": "normal",
+        "set": "LIP"
+    },
+    {
+        "card_name": "Ruin of the Feeble",
+        "number": 147,
+        "shape": "normal",
+        "set": "LIP"
+    },
+    {
+        "card_name": "Lonely Journey",
+        "number": 176,
+        "shape": "normal",
+        "set": "LIP"
+    },
+    {
+        "card_name": "Radical Purist",
+        "number": 28,
+        "shape": "normal",
+        "set": "LIP"
+    },
+    {
+        "card_name": "Inquisitive Glider",
+        "number": 61,
+        "shape": "normal",
+        "set": "LIP"
+    },
+    {
+        "card_name": "Marked by the Night",
+        "number": 102,
+        "shape": "normal",
+        "set": "LIP"
+    },
+    {
+        "card_name": "Volcanic Dominant",
+        "number": 154,
+        "shape": "normal",
+        "set": "LIP"
+    },
+    {
+        "card_name": "Nimble Pathfinder",
+        "number": 181,
+        "shape": "normal",
+        "set": "LIP"
+    },
+    {
+        "card_name": "Rallier's Plate",
         "number": 30,
         "shape": "normal",
         "set": "LIP"
@@ -282,26 +282,26 @@
         "set": "LIP"
     },
     {
-        "card_name": "Prayers for a New Deity",
-        "number": 108,
+        "card_name": "Moonlit Ruminator",
+        "number": 103,
         "shape": "normal",
         "set": "LIP"
     },
     {
-        "card_name": "Ruin of the Feeble",
-        "number": 148,
+        "card_name": "Wasteland Crier",
+        "number": 155,
         "shape": "normal",
         "set": "LIP"
     },
     {
-        "card_name": "Rouse Ancient Strength",
-        "number": 187,
+        "card_name": "Reflect Upon the Stars",
+        "number": 183,
         "shape": "normal",
         "set": "LIP"
     },
     {
-        "card_name": "Radical Purist",
-        "number": 31,
+        "card_name": "Slayer's Mantle",
+        "number": 34,
         "shape": "normal",
         "set": "LIP"
     },
@@ -312,25 +312,25 @@
         "set": "LIP"
     },
     {
-        "card_name": "Preyer of Continuum",
-        "number": 110,
+        "card_name": "Prayers for a New Deity",
+        "number": 109,
         "shape": "normal",
         "set": "LIP"
     },
     {
-        "card_name": "Wasteland Crier",
+        "card_name": "Yuil, Troubled Companion",
         "number": 156,
         "shape": "normal",
         "set": "LIP"
     },
     {
-        "card_name": "Sights Unto Sights",
-        "number": 190,
+        "card_name": "Rouse Ancient Strength",
+        "number": 186,
         "shape": "normal",
         "set": "LIP"
     },
     {
-        "card_name": "Wade Through Starlight",
+        "card_name": "Wavering Sanctifier",
         "number": 39,
         "shape": "normal",
         "set": "LIP"
@@ -348,7 +348,7 @@
         "set": "LIP"
     },
     {
-        "card_name": "Yuil, Troubled Companion",
+        "card_name": "Zeal Unto Zeal",
         "number": 157,
         "shape": "normal",
         "set": "LIP"
@@ -372,14 +372,14 @@
         "set": "LIP"
     },
     {
-        "card_name": "Consuming Swarm",
+        "card_name": "Deadpit Skitterer",
         "number": 85,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Alpine Navigator",
-        "number": 119,
+        "number": 120,
         "shape": "normal",
         "set": "LIP"
     },
@@ -390,26 +390,26 @@
         "set": "LIP"
     },
     {
-        "card_name": "Angelic Grace",
+        "card_name": "Angelic Dignity",
         "number": 3,
         "shape": "normal",
         "set": "LIP"
     },
     {
-        "card_name": "Exemplar Fisher",
-        "number": 53,
+        "card_name": "Foul Omen Fishers",
+        "number": 58,
         "shape": "normal",
         "set": "LIP"
     },
     {
-        "card_name": "Deadpit Skitterer",
+        "card_name": "Deadpit Swarm",
         "number": 86,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Dragonfire Devoted",
-        "number": 127,
+        "number": 124,
         "shape": "normal",
         "set": "LIP"
     },
@@ -421,25 +421,25 @@
     },
     {
         "card_name": "Bereaved Sanctifier",
-        "number": 8,
+        "number": 7,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Heirloom Bauble",
-        "number": 58,
+        "number": 59,
         "shape": "normal",
         "set": "LIP"
     },
     {
-        "card_name": "Deadpit Swarm",
-        "number": 87,
+        "card_name": "Deluded Angel",
+        "number": 89,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Indiscriminate Terror",
-        "number": 136,
+        "number": 135,
         "shape": "normal",
         "set": "LIP"
     },
@@ -450,8 +450,8 @@
         "set": "LIP"
     },
     {
-        "card_name": "Dogmatic Commander",
-        "number": 16,
+        "card_name": "Dogmatic Tactician",
+        "number": 15,
         "shape": "normal",
         "set": "LIP"
     },
@@ -462,8 +462,8 @@
         "set": "LIP"
     },
     {
-        "card_name": "Deluded Angel",
-        "number": 90,
+        "card_name": "Establish Hierarchy",
+        "number": 93,
         "shape": "normal",
         "set": "LIP"
     },
@@ -474,14 +474,14 @@
         "set": "LIP"
     },
     {
-        "card_name": "Evolutionary Misfit",
-        "number": 171,
+        "card_name": "Hunter's Tactics",
+        "number": 174,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Faith's Fetters",
-        "number": 18,
+        "number": 16,
         "shape": "normal",
         "set": "LIP"
     },
@@ -492,26 +492,26 @@
         "set": "LIP"
     },
     {
-        "card_name": "Establish Hierarchy",
-        "number": 94,
+        "card_name": "Hunting Mantis",
+        "number": 96,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Merry Meetings",
-        "number": 140,
+        "number": 139,
         "shape": "normal",
         "set": "LIP"
     },
     {
-        "card_name": "Hunter's Tactics",
-        "number": 176,
+        "card_name": "Nature's Call",
+        "number": 180,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Fatigued Hero",
-        "number": 19,
+        "number": 17,
         "shape": "normal",
         "set": "LIP"
     },
@@ -522,26 +522,26 @@
         "set": "LIP"
     },
     {
-        "card_name": "Hunting Mantis",
-        "number": 96,
+        "card_name": "Lapse of Self",
+        "number": 99,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Mountainside Predator",
-        "number": 142,
+        "number": 140,
         "shape": "normal",
         "set": "LIP"
     },
     {
-        "card_name": "Nature's Call",
+        "card_name": "Pathseeker",
         "number": 182,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Frenzied Deployment",
-        "number": 20,
+        "number": 18,
         "shape": "normal",
         "set": "LIP"
     },
@@ -552,26 +552,26 @@
         "set": "LIP"
     },
     {
-        "card_name": "Lapse of Self",
-        "number": 98,
+        "card_name": "Many-Legged Dominant",
+        "number": 101,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Pure Flame",
-        "number": 143,
+        "number": 141,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Seeking Elk",
-        "number": 188,
+        "number": 187,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Quell Unrest",
-        "number": 29,
+        "number": 26,
         "shape": "normal",
         "set": "LIP"
     },
@@ -589,13 +589,13 @@
     },
     {
         "card_name": "Truthseeker",
-        "number": 153,
+        "number": 152,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Show of Strength",
-        "number": 189,
+        "number": 188,
         "shape": "normal",
         "set": "LIP"
     },
@@ -612,20 +612,20 @@
         "set": "LIP"
     },
     {
-        "card_name": "Strength's Law",
+        "card_name": "Strength's Tyranny",
         "number": 115,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Unfortunate Encounter",
-        "number": 154,
+        "number": 153,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Ventured Land",
-        "number": 194,
+        "number": 193,
         "shape": "normal",
         "set": "LIP"
     },
@@ -637,7 +637,7 @@
     },
     {
         "card_name": "Adaptive Endpoint",
-        "number": 41,
+        "number": 42,
         "shape": "normal",
         "set": "LIP"
     },
@@ -648,8 +648,8 @@
         "set": "LIP"
     },
     {
-        "card_name": "Bear Absent Witness",
-        "number": 120,
+        "card_name": "Addled Flamechaser",
+        "number": 119,
         "shape": "normal",
         "set": "LIP"
     },
@@ -666,8 +666,8 @@
         "set": "LIP"
     },
     {
-        "card_name": "Banish to Nowhere",
-        "number": 43,
+        "card_name": "Beseech the Waves",
+        "number": 44,
         "shape": "normal",
         "set": "LIP"
     },
@@ -679,7 +679,7 @@
     },
     {
         "card_name": "Bloodlet Ritualist",
-        "number": 122,
+        "number": 121,
         "shape": "normal",
         "set": "LIP"
     },
@@ -696,8 +696,8 @@
         "set": "LIP"
     },
     {
-        "card_name": "Beseech the Waves",
-        "number": 44,
+        "card_name": "Boardwalk Terror",
+        "number": 45,
         "shape": "normal",
         "set": "LIP"
     },
@@ -709,37 +709,7 @@
     },
     {
         "card_name": "Costly Victory",
-        "number": 124,
-        "shape": "normal",
-        "set": "LIP"
-    },
-    {
-        "card_name": "Beastly Communist",
-        "number": 162,
-        "shape": "normal",
-        "set": "LIP"
-    },
-    {
-        "card_name": "Bloodied Armor",
-        "number": 10,
-        "shape": "normal",
-        "set": "LIP"
-    },
-    {
-        "card_name": "Boardwalk Terror",
-        "number": 45,
-        "shape": "normal",
-        "set": "LIP"
-    },
-    {
-        "card_name": "Deathshroud Beetle",
-        "number": 88,
-        "shape": "normal",
-        "set": "LIP"
-    },
-    {
-        "card_name": "Dead Seeker",
-        "number": 125,
+        "number": 122,
         "shape": "normal",
         "set": "LIP"
     },
@@ -750,8 +720,8 @@
         "set": "LIP"
     },
     {
-        "card_name": "Charging Lance",
-        "number": 12,
+        "card_name": "Bloodied Armor",
+        "number": 9,
         "shape": "normal",
         "set": "LIP"
     },
@@ -762,14 +732,14 @@
         "set": "LIP"
     },
     {
-        "card_name": "Depraved Mind",
-        "number": 91,
+        "card_name": "Deathshroud Beetle",
+        "number": 87,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Dreams Beyond the End",
-        "number": 129,
+        "number": 126,
         "shape": "normal",
         "set": "LIP"
     },
@@ -780,8 +750,8 @@
         "set": "LIP"
     },
     {
-        "card_name": "Diminish to Humanity",
-        "number": 13,
+        "card_name": "Charging Lance",
+        "number": 11,
         "shape": "normal",
         "set": "LIP"
     },
@@ -792,26 +762,26 @@
         "set": "LIP"
     },
     {
-        "card_name": "Drink of the World",
-        "number": 93,
+        "card_name": "Depraved Mind",
+        "number": 90,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Errant's Demand",
-        "number": 130,
+        "number": 127,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Enigmatic Encounter",
-        "number": 168,
+        "number": 167,
         "shape": "normal",
         "set": "LIP"
     },
     {
-        "card_name": "Diminished Angel",
-        "number": 14,
+        "card_name": "Diminish to Humanity",
+        "number": 12,
         "shape": "normal",
         "set": "LIP"
     },
@@ -822,26 +792,56 @@
         "set": "LIP"
     },
     {
+        "card_name": "Drink of the World",
+        "number": 92,
+        "shape": "normal",
+        "set": "LIP"
+    },
+    {
+        "card_name": "Failure of Piety",
+        "number": 128,
+        "shape": "normal",
+        "set": "LIP"
+    },
+    {
+        "card_name": "Experienced Plotter",
+        "number": 169,
+        "shape": "normal",
+        "set": "LIP"
+    },
+    {
+        "card_name": "Diminished Angel",
+        "number": 13,
+        "shape": "normal",
+        "set": "LIP"
+    },
+    {
+        "card_name": "Essencelessness",
+        "number": 53,
+        "shape": "normal",
+        "set": "LIP"
+    },
+    {
         "card_name": "Hopeless Sinner",
         "number": 95,
         "shape": "normal",
         "set": "LIP"
     },
     {
-        "card_name": "Failure of Piety",
-        "number": 131,
+        "card_name": "Fanatical Charger",
+        "number": 129,
         "shape": "normal",
         "set": "LIP"
     },
     {
-        "card_name": "Experienced Plotter",
-        "number": 172,
+        "card_name": "Harmonious Beasts",
+        "number": 171,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Disposable Recruits",
-        "number": 15,
+        "number": 14,
         "shape": "normal",
         "set": "LIP"
     },
@@ -853,25 +853,25 @@
     },
     {
         "card_name": "Nascent Spawn",
-        "number": 103,
+        "number": 104,
         "shape": "normal",
         "set": "LIP"
     },
     {
-        "card_name": "Fanatical Charger",
-        "number": 132,
+        "card_name": "Frightening Instructor",
+        "number": 130,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Height of Communion",
-        "number": 174,
+        "number": 172,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Gaze Upon Hope",
-        "number": 21,
+        "number": 19,
         "shape": "normal",
         "set": "LIP"
     },
@@ -883,25 +883,25 @@
     },
     {
         "card_name": "Otherside Encounter",
-        "number": 104,
+        "number": 105,
         "shape": "normal",
         "set": "LIP"
     },
     {
-        "card_name": "Frightening Instructor",
-        "number": 133,
+        "card_name": "Ghastly Mind",
+        "number": 131,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Hulking Creeper",
-        "number": 175,
+        "number": 173,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Horror of Humanity",
-        "number": 23,
+        "number": 20,
         "shape": "normal",
         "set": "LIP"
     },
@@ -913,25 +913,25 @@
     },
     {
         "card_name": "Parasitic Swarm",
-        "number": 105,
+        "number": 106,
         "shape": "normal",
         "set": "LIP"
     },
     {
-        "card_name": "Ghastly Mind",
+        "card_name": "Impressionable Traveler",
         "number": 134,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Jewel Bug",
-        "number": 177,
+        "number": 175,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Illuminated Thoughts",
-        "number": 24,
+        "number": 21,
         "shape": "normal",
         "set": "LIP"
     },
@@ -943,25 +943,25 @@
     },
     {
         "card_name": "Pestilent Scavenger",
-        "number": 106,
+        "number": 107,
         "shape": "normal",
         "set": "LIP"
     },
     {
-        "card_name": "Lush Beetle",
-        "number": 139,
+        "card_name": "Instinctive Combatant",
+        "number": 136,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Mystic Communion",
-        "number": 179,
+        "number": 177,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Promise of Tranquility",
-        "number": 27,
+        "number": 24,
         "shape": "normal",
         "set": "LIP"
     },
@@ -973,25 +973,25 @@
     },
     {
         "card_name": "Piercing Gaze",
-        "number": 107,
+        "number": 108,
         "shape": "normal",
         "set": "LIP"
     },
     {
-        "card_name": "Mindless Flamechaser",
-        "number": 141,
+        "card_name": "Purge Heretical Thoughts",
+        "number": 142,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Natural Ending",
-        "number": 181,
+        "number": 179,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Rallied Purifier",
-        "number": 32,
+        "number": 29,
         "shape": "normal",
         "set": "LIP"
     },
@@ -1003,25 +1003,25 @@
     },
     {
         "card_name": "Pretty Beetle",
-        "number": 109,
+        "number": 110,
         "shape": "normal",
         "set": "LIP"
     },
     {
-        "card_name": "Purge Heretical Thoughts",
+        "card_name": "Raw Force",
         "number": 144,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Relaxed Admirer",
-        "number": 185,
+        "number": 184,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Reckon Mortality",
-        "number": 33,
+        "number": 31,
         "shape": "normal",
         "set": "LIP"
     },
@@ -1038,20 +1038,20 @@
         "set": "LIP"
     },
     {
-        "card_name": "Raw Force",
-        "number": 146,
+        "card_name": "Regal Predator",
+        "number": 145,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Roaming Grizzly",
-        "number": 186,
+        "number": 185,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Resting Vanguard",
-        "number": 34,
+        "number": 32,
         "shape": "normal",
         "set": "LIP"
     },
@@ -1069,19 +1069,19 @@
     },
     {
         "card_name": "Resigned Vanguard",
-        "number": 147,
+        "number": 146,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Skyblessed Traveler",
-        "number": 191,
+        "number": 189,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Solitary Scout",
-        "number": 36,
+        "number": 35,
         "shape": "normal",
         "set": "LIP"
     },
@@ -1099,19 +1099,19 @@
     },
     {
         "card_name": "Scout's Demise",
-        "number": 149,
+        "number": 148,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Territorial Strike",
-        "number": 192,
+        "number": 190,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Soulful Flower",
-        "number": 37,
+        "number": 36,
         "shape": "normal",
         "set": "LIP"
     },
@@ -1129,19 +1129,19 @@
     },
     {
         "card_name": "Share in Humanity",
-        "number": 150,
+        "number": 149,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Unnatural Acceptance",
-        "number": 193,
+        "number": 191,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Vicious Orator",
-        "number": 38,
+        "number": 37,
         "shape": "normal",
         "set": "LIP"
     },
@@ -1159,13 +1159,13 @@
     },
     {
         "card_name": "Solitary Thinker",
-        "number": 151,
+        "number": 150,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Watch the Wildlife",
-        "number": 195,
+        "number": 194,
         "shape": "normal",
         "set": "LIP"
     },
@@ -1183,50 +1183,50 @@
     },
     "a->gold",
     {
-        "card_name": "Devoted Inhibitor",
-        "number": 210,
+        "card_name": "Pious Inhibitor",
+        "number": 224,
         "shape": "normal",
         "set": "LIP"
     },
     {
-        "card_name": "Anticipated End",
-        "number": 199,
-        "shape": "normal",
-        "set": "LIP"
-    },
-    {
-        "card_name": "Brutal Disillusionment",
-        "number": 203,
-        "shape": "normal",
-        "set": "LIP"
-    },
-    {
-        "card_name": "Simple Majesty",
-        "number": 228,
-        "shape": "normal",
-        "set": "LIP"
-    },
-    {
-        "card_name": "The Pioneer, Vain Hope",
-        "number": 222,
-        "shape": "normal",
-        "set": "LIP"
-    },
-    {
-        "card_name": "Dignity in Arms",
-        "number": 211,
-        "shape": "normal",
-        "set": "LIP"
-    },
-    {
-        "card_name": "Mental Shaper",
+        "card_name": "Grueling, Anticipation",
         "number": 216,
         "shape": "normal",
         "set": "LIP"
     },
     {
+        "card_name": "Brutal Disillusionment",
+        "number": 202,
+        "shape": "normal",
+        "set": "LIP"
+    },
+    {
+        "card_name": "Simple Majesty",
+        "number": 230,
+        "shape": "normal",
+        "set": "LIP"
+    },
+    {
+        "card_name": "Fearless, Delusion",
+        "number": 214,
+        "shape": "normal",
+        "set": "LIP"
+    },
+    {
+        "card_name": "Dignity in Arms",
+        "number": 210,
+        "shape": "normal",
+        "set": "LIP"
+    },
+    {
+        "card_name": "Departed Existence",
+        "number": 208,
+        "shape": "normal",
+        "set": "LIP"
+    },
+    {
         "card_name": "Rebirthing Mantis",
-        "number": 225,
+        "number": 227,
         "shape": "normal",
         "set": "LIP"
     },
@@ -1238,31 +1238,31 @@
     },
     {
         "card_name": "Angel of Natural Guise",
-        "number": 198,
+        "number": 199,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Purging Blade",
-        "number": 224,
+        "number": 226,
         "shape": "normal",
         "set": "LIP"
     },
     {
-        "card_name": "Woe's Grasp",
-        "number": 232,
+        "card_name": "Mental Shaper",
+        "number": 219,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Tunnel Pincer",
-        "number": 230,
+        "number": 231,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Brutality's Way",
-        "number": 204,
+        "number": 203,
         "shape": "normal",
         "set": "LIP"
     },
@@ -1276,7 +1276,10 @@
         "card_name": "e"
     },
     {
-        "card_name": "e"
+        "card_name": "Woe's Grasp",
+        "number": 232,
+        "shape": "normal",
+        "set": "LIP"
     },
     {
         "card_name": "e"
@@ -1286,7 +1289,7 @@
     },
     {
         "card_name": "Mourning Stone",
-        "number": 219,
+        "number": 221,
         "shape": "normal",
         "set": "LIP"
     },
@@ -1307,31 +1310,31 @@
     },
     {
         "card_name": "Life's Sovereign",
-        "number": 215,
+        "number": 217,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Narrow Sanity",
-        "number": 220,
+        "number": 222,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Gaiety",
-        "number": 214,
+        "number": 215,
         "shape": "normal",
         "set": "LIP"
     },
     {
-        "card_name": "Bloodied Blademaster",
-        "number": 202,
+        "card_name": "Adamant Firebrand",
+        "number": 198,
         "shape": "normal",
         "set": "LIP"
     },
     {
-        "card_name": "Walker of Bitter Truth",
-        "number": 231,
+        "card_name": "Enchanted Prancer",
+        "number": 213,
         "shape": "normal",
         "set": "LIP"
     },
@@ -1343,43 +1346,43 @@
     },
     {
         "card_name": "Channel of Instability",
-        "number": 207,
+        "number": 206,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Caller of the Ideal",
-        "number": 205,
+        "number": 204,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Deathmarch Angel",
-        "number": 208,
+        "number": 207,
         "shape": "normal",
         "set": "LIP"
     },
     {
-        "card_name": "Forest's Champion",
-        "number": 213,
+        "card_name": "Listless Pollinator",
+        "number": 218,
         "shape": "normal",
         "set": "LIP"
     },
     {
-        "card_name": "Descent from Godliness",
+        "card_name": "Descent from Divinity",
         "number": 209,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Seer of Loosened Reality",
-        "number": 227,
+        "number": 229,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Second Chances",
-        "number": 226,
+        "number": 228,
         "shape": "normal",
         "set": "LIP"
     },
@@ -1390,31 +1393,28 @@
         "set": "LIP"
     },
     {
-        "card_name": "Mindless Pollinator",
-        "number": 217,
-        "shape": "normal",
-        "set": "LIP"
-    },
-    {
-        "card_name": "Sin for the Vain",
-        "number": 229,
-        "shape": "normal",
-        "set": "LIP"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
         "card_name": "Mortal Insight",
-        "number": 218,
+        "number": 220,
         "shape": "normal",
         "set": "LIP"
+    },
+    {
+        "card_name": "Disgraced Dignitary",
+        "number": 211,
+        "shape": "normal",
+        "set": "LIP"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -1433,19 +1433,19 @@
     },
     {
         "card_name": "Change Lost to the Stars",
-        "number": 206,
+        "number": 205,
         "shape": "normal",
         "set": "LIP"
     },
     {
-        "card_name": "Perpetuity",
-        "number": 221,
+        "card_name": "Perpetuous, Tenacity",
+        "number": 223,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Place Among the Stars",
-        "number": 223,
+        "number": 225,
         "shape": "normal",
         "set": "LIP"
     },
@@ -1469,49 +1469,52 @@
     },
     "a->colorless",
     {
-        "card_name": "Sword of Self and Other",
-        "number": 235,
+        "card_name": "Essence Cloak",
+        "number": 233,
+        "shape": "normal",
+        "set": "LIP"
+    },
+    {
+        "card_name": "Sword of Solitary Expression",
+        "number": 236,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Weighted Armor",
-        "number": 238,
+        "number": 239,
         "shape": "normal",
         "set": "LIP"
     },
     {
-        "card_name": "Myriad Souls",
+        "card_name": "Vacant, Indecision",
         "number": 1,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Grounding Stones",
-        "number": 234,
+        "number": 235,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Vanguard's Light Armor",
-        "number": 237,
+        "number": 238,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Full Kit",
-        "number": 233,
+        "number": 234,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Traveler's Cloak",
-        "number": 236,
+        "number": 237,
         "shape": "normal",
         "set": "LIP"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -1534,7 +1537,7 @@
     "a->land",
     {
         "card_name": "Angelic Dwellings",
-        "number": 239,
+        "number": 240,
         "shape": "normal",
         "set": "LIP"
     },
@@ -1546,7 +1549,7 @@
     },
     {
         "card_name": "Anguished Deadpit",
-        "number": 240,
+        "number": 241,
         "shape": "normal",
         "set": "LIP"
     },
@@ -1578,12 +1581,6 @@
         "card_name": "er"
     },
     {
-        "card_name": "Exclusive Graveyard",
-        "number": 241,
-        "shape": "normal",
-        "set": "LIP"
-    },
-    {
         "card_name": "Resilient Scrubland",
         "number": 243,
         "shape": "normal",
@@ -1600,6 +1597,9 @@
         "number": 246,
         "shape": "normal",
         "set": "LIP"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -1687,25 +1687,25 @@
         "set": "LIP"
     },
     {
-        "card_name": "Soldier",
+        "card_name": "Beast",
         "number": 5,
         "shape": "token",
         "set": "LIP"
     },
     {
-        "card_name": "Beast",
+        "card_name": "Bemusement",
         "number": 6,
         "shape": "token",
         "set": "LIP"
     },
     {
-        "card_name": "Bemusement",
+        "card_name": "Scout",
         "number": 7,
         "shape": "token",
         "set": "LIP"
     },
     {
-        "card_name": "Scout",
+        "card_name": "Witness",
         "number": 8,
         "shape": "token",
         "set": "LIP"
