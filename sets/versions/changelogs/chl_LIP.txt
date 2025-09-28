@@ -1,4 +1,58 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+
+
+Wasteland Crier
+cost: {R} => {1}{R}
+rules_text: At the beginning of combat on your turn, target creature you control with power 4 or greater gains haste until end of turn.
+Whenever another creature you control with power 4 or greater dies, put a +1/+1 counter on Wasteland Crier. => At the beginning of combat on your turn, target creature you control with power 4 or greater gains haste until end of turn.
+Whenever another creature you control with power 4 or greater dies, put two +1/+1 counters on Wasteland Crier.
+pt: 1/1 => 2/1
+
+Charging Lance
+rules_text: Whenever Charging Lance attacks, create a 1/1 white Soldier creature that's tapped and attacking. It gets +2/+2 until end of turn. => Whenever Charging Lance attacks, create a 1/1 white Soldier creature token that's tapped and attacking. It gets +2/+2 until end of turn.
+
+Rouse Ancient Strength
+rules_text: Enchant creature you control
+When you cast this spell, copy it up to three times. Choose new and different targets for each of the copies. [i](Copies enter as tokens.)[/i]
+Enchanted creature has base power and toughness 6/6, has trample, and loses all other abilities. => Enchant creature you control
+When you cast this spell, copy it up to two times. Choose new and different targets for each of the copies. [i](Copies enter as tokens.)[/i]
+Enchanted creature has base power and toughness 6/6, has trample, and loses all other abilities.
+
+Slayer's Mantle
+rules_text: When Slayer's Mantle enters, create a 1/1 white Angel creature token with flying, then attach Slayer's Mantle to it.
+Equipped creature has base power and toughness 3/3 and has flying, first strike, and lifelink.
+Equip {2} => When Slayer's Mantle enters, create a 1/1 white Angel creature token with flying, then attach Slayer's Mantle to it.
+Equipped creature has base power and toughness 3/3 and has flying and first strike.
+Equip {2}
+
+Disposable Recruits
+rules_text: When Disposable Recruits enters, create a 1/1 white Soldier creature.
+{1}{W}, Sacrifice Disposable Recruits: Creatures you control get +1/+1 until end of turn. Activate only if Disposable Recruits is attacking and and only if you control an unblocked creature. => When Disposable Recruits enters, create a 1/1 white Soldier creature token.
+{1}{W}, Sacrifice Disposable Recruits: Creatures you control get +1/+1 until end of turn. Activate only if Disposable Recruits is attacking and and only if you control an unblocked creature.
+
+Natural Bemusements
+rules_text: Create X 1/1 green Scout creature tokens, then for each of those tokens, create and attach a green enchantment Aura token named Bemusement with enchant creature and “Enchanted creature gets +1/+1 for each Aura you control.” => Create X 1/1 green Scout creature tokens, then for each of those tokens, create and attach a green Aura enchantment token named Bemusement with enchant creature and “Enchanted creature gets +1/+1 for each Aura you control.”
+
+Other Unto Other
+rules_text: Look at the top six cards of your library. Put up to two creature cards with mana value 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in any order.
+Flashback {4}{W}{W} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Look at the top six cards of your library. Put up to two creature cards with mana value 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in any order.
+Flashback {5}{W}{W} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Yuil, Troubled Companion
+rules_text: Empty [i](As this enters, it loses all abilities until your next turn.)[/i]
+Yuil gets -1/-1 for each card in your hand.
+Whenever a creature you control attacks alone, you may cast Yuil from your graveyard. If you do, he enters tapped and attacking with a finality counter on him. => Empty [i](As this enters, it loses all abilities until your next turn.)[/i]
+Yuil gets -2/-0 for each card in your hand.
+Whenever a creature you control attacks alone, you may cast Yuil from your graveyard. If you do, he enters tapped and attacking with a finality counter on him.
+pt: 5/5 => 5/4
+
+Enchanted Prancer
+pt: 5/4 => 4/4
+
+
+VERSION 7 CHANGELOG
 ====================
 
 Descent from Divinity added.

@@ -33,7 +33,7 @@
 		{
 			"name": "Wasteland Crier",
 			"rarity": "rare",
-			"mana_cost": "{R}",
+			"mana_cost": "{1}{R}",
 			"type": "Creature — Horror",
 			"collector_number": "155",
 			"image_uris": {
