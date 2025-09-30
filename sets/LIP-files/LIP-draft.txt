@@ -55,9 +55,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Horror",
-			"collector_number": "55",
+			"collector_number": "56",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/55_Floating Vagrant.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/56_Floating Vagrant.png"
 			}
 		},
 		{
@@ -341,16 +341,6 @@
 			}
 		},
 		{
-			"name": "Dignity in Arms",
-			"rarity": "uncommon",
-			"mana_cost": "{W}{U}",
-			"type": "Instant",
-			"collector_number": "210",
-			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/210_Dignity in Arms.png"
-			}
-		},
-		{
 			"name": "Bound Seeker",
 			"rarity": "rare",
 			"mana_cost": "{W}",
@@ -575,9 +565,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
-			"collector_number": "56",
+			"collector_number": "57",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/56_Forced Gaze.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/57_Forced Gaze.png"
 			}
 		},
 		{
@@ -631,16 +621,6 @@
 			}
 		},
 		{
-			"name": "Hero of the Plain",
-			"rarity": "rare",
-			"mana_cost": "{2}{R}",
-			"type": "Creature — Angel Soldier",
-			"collector_number": "132",
-			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/132_Hero of the Plain.png"
-			}
-		},
-		{
 			"name": "Cavern Terror",
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{U}",
@@ -665,9 +645,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}",
 			"type": "Creature — Horror",
-			"collector_number": "52",
+			"collector_number": "53",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/52_Eerie Murmur.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/53_Eerie Murmur.png"
 			}
 		},
 		{
@@ -1565,9 +1545,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Instant",
-			"collector_number": "50",
+			"collector_number": "51",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/50_Dismiss.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/51_Dismiss.png"
 			}
 		},
 		{
@@ -1645,9 +1625,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "53",
+			"collector_number": "54",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/53_Essencelessness.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/54_Essencelessness.png"
 			}
 		},
 		{
@@ -1905,9 +1885,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact — Equipment",
-			"collector_number": "54",
+			"collector_number": "55",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/54_Fishing Rod.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/55_Fishing Rod.png"
 			}
 		},
 		{
@@ -1925,9 +1905,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Scout",
-			"collector_number": "51",
+			"collector_number": "52",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/51_Distant Expeditioner.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/52_Distant Expeditioner.png"
 			}
 		},
 		{
@@ -1935,9 +1915,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "49",
+			"collector_number": "50",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/49_Discreet Messenger.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/50_Discreet Messenger.png"
 			}
 		},
 		{
@@ -1958,16 +1938,6 @@
 			"collector_number": "234",
 			"image_uris": {
 				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/234_Full Kit.png"
-			}
-		},
-		{
-			"name": "Foreboding Winds",
-			"rarity": "common",
-			"mana_cost": "{U}",
-			"type": "Instant",
-			"collector_number": "57",
-			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/57_Foreboding Winds.png"
 			}
 		},
 		{
@@ -2111,26 +2081,6 @@
 			}
 		},
 		{
-			"name": "Natural Bemusements",
-			"rarity": "mythic",
-			"mana_cost": "{X}{X}{G}",
-			"type": "Sorcery",
-			"collector_number": "178",
-			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/178_Natural Bemusements.png"
-			}
-		},
-		{
-			"name": "Bemusement",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Enchantment — Aura",
-			"collector_number": "6",
-			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/6_Bemusement.png"
-			}
-		},
-		{
 			"name": "Vanguard's Light Armor",
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
@@ -2263,7 +2213,7 @@
 		{
 			"name": "Other Unto Other",
 			"rarity": "rare",
-			"mana_cost": "{2}{W}{W}",
+			"mana_cost": "{3}{W}",
 			"type": "Sorcery",
 			"collector_number": "22",
 			"image_uris": {
@@ -2541,16 +2491,6 @@
 			}
 		},
 		{
-			"name": "Sword of Solitary Expression",
-			"rarity": "rare",
-			"mana_cost": "{1}",
-			"type": "Artifact — Equipment",
-			"collector_number": "236",
-			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/236_Sword of Solitary Expression.png"
-			}
-		},
-		{
 			"name": "Faith's Fetters",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
@@ -2599,6 +2539,66 @@
 			"image_uris": {
 				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/208_Departed Existence.png"
 			}
+		},
+		{
+			"name": "Hero of the Plain",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Angel Soldier",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/132_Hero of the Plain.png"
+			}
+		},
+		{
+			"name": "Discern",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/49_Discern.png"
+			}
+		},
+		{
+			"name": "Sword of Solitary Expression",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/236_Sword of Solitary Expression.png"
+			}
+		},
+		{
+			"name": "Dignity in Arms",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Instant",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/210_Dignity in Arms.png"
+			}
+		},
+		{
+			"name": "Natural Bemusements",
+			"rarity": "mythic",
+			"mana_cost": "{X}{X}{G}",
+			"type": "Sorcery",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/178_Natural Bemusements.png"
+			}
+		},
+		{
+			"name": "Bemusement",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment — Aura",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/6_Bemusement.png"
+			}
 		}
 	]
 
@@ -2626,7 +2626,6 @@
 	5 Radiant Binder
 	5 Gaiety
 	5 Wade Through Starlight
-	5 Hero of the Plain
 	5 Cavern Terror
 	5 Prayers for a New Deity
 	5 Eerie Murmur
@@ -2664,7 +2663,6 @@
 	5 Worldly Illogic
 	5 Insectoid Spawner
 	5 Muted Mutterer
-	5 Natural Bemusements
 	5 Reflect Upon the Stars
 	5 Nimble Pathfinder
 	5 Other Unto Other
@@ -2684,9 +2682,11 @@
 	5 Wavering Sanctifier
 	5 Radiant Bliss
 	5 Absolute, Comprehension
-	5 Sword of Solitary Expression
 	5 Adamant Firebrand
 	5 Departed Existence
+	5 Hero of the Plain
+	5 Sword of Solitary Expression
+	5 Natural Bemusements
 [uncommon(3)]
 	5 Descent from Divinity
 	5 Angelic Dignity
@@ -2696,7 +2696,6 @@
 	5 Unaware Fisher
 	5 Display of Valor
 	5 Seeking Elk
-	5 Dignity in Arms
 	5 Merry Meetings
 	5 Seer of Loosened Reality
 	5 Repetitive Production
@@ -2756,6 +2755,7 @@
 	5 Alpine Navigator
 	5 Show of Strength
 	5 Faith's Fetters
+	5 Dignity in Arms
 [common(10)]
 	5 Bloodlet Ritualist
 	5 Gaze Upon Hope
@@ -2835,7 +2835,6 @@
 	5 Discreet Messenger
 	5 Traveler's Cloak
 	5 Full Kit
-	5 Foreboding Winds
 	5 Harmonious Beasts
 	5 Natural Ending
 	5 Bitter Beetle
@@ -2852,3 +2851,4 @@
 	5 Regal Predator
 	5 Instinctive Combatant
 	5 Impressionable Traveler
+	5 Discern

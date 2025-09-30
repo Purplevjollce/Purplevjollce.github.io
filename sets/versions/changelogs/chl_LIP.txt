@@ -1,4 +1,109 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+Discern added.
+
+Foreboding Winds removed.
+
+Floating Vagrant
+
+Lonely Journey
+rules_text: Empty [i](As this enters, it loses all abilities until your next turn.)[/i]
+Whenever a creature you control attacks alone, you may search your library for up to two lands cards, put them onto the battlefield tapped, then shuffle. => Empty [i](As this enters, it loses all abilities until your next turn.)[/i]
+Whenever a creature you control attacks alone, you may search your library for up to two land cards, put them onto the battlefield tapped, then shuffle.
+
+Lamech, Bound by History
+rules_text: Empty [i](As this enters, it loses all abilities until your next turn.)[/i]
+[-1]: Target player draws three cards.
+[-3]: Each player shuffles their hand and graveyard into their library, then draws seven cards.
+[-10]: Until end of turn, you may cast spells from your hand without paying their mana costs. => Empty [i](As this enters, it loses all abilities until your next turn.)[/i]
+[-1]: Target player draws three cards.
+[-4]: Gain control of target creature.
+[-7]: Return each nonland permanent you don't control to its owner's hand.
+[-10]: You may cast spells from your hand without paying their mana costs this turn.
+special_text: Empty [i](As this enters, it loses all abilities until your next turn.)[/i]
+[-1]: Target player draws three cards.
+[-3]: Each player shuffles their hand and graveyard into their library, then draws seven cards.
+[-10]: Until end of turn, you may cast spells from your hand without paying their mana costs. => Empty [i](As this enters, it loses all abilities until your next turn.)[/i]
+[-1]: Target player draws three cards.
+[-4]: Gain control of target creature.
+[-7]: Return each nonland permanent you don't control to its owner's hand.
+[-10]: You may cast spells from your hand without paying their mana costs this turn.
+
+Forced Gaze
+
+Eerie Murmur
+
+Watching, Emptiness
+rules_text: Protection from instants
+Once each turn, when a creature token you control dies, draw a card, then you may sacrifice Watching. If you do, create Witness, a legendary 6/6 green Avatar creature token. => Hexproof from instants
+Once each turn, when a creature token you control dies, draw a card, then you may sacrifice Watching. If you do, create Witness, a legendary 6/6 green Avatar creature token.
+
+The Dreamer, Ideoclast
+rules_text: The Dreamer can only attack alone.
+The Dreamer can't be blocked by creatures with power 1 or less.
+The Dreamer must be blocked if able.
+{R}: The Dreamer gets +1/+0 until end of turn. => The Dreamer can only attack alone.
+The Dreamer must be blocked by a creature with power 2 or more if able.
+{R}: The Dreamer gets +1/+0 until end of turn.
+
+Truthseeker
+rules_text: When Truthseeker enters, target opponent gets a poison counter.
+When Truthseeker deals combat damage to a player, you may sacrifice it. If you do, exile cards from the top of your library equal to the number of poison counters opponents have. You may play those cards this turn. => When Truthseeker enters, target opponent gets a poison counter. [i](A player with ten or more loses the game.)[/i]
+When Truthseeker deals combat damage to a player, you may sacrifice it. If you do, exile cards from the top of your library equal to the number of poison counters opponents have. You may play those cards this turn.
+
+Dismiss
+
+Essencelessness
+rules_text: Flash
+Enchant creature
+Enchanted creature gets -2/-0.
+As long as enchanted creature has power 0 or less, it loses all abilities. => Flash
+Enchant creature
+Enchanted creature gets -2/-0.
+If enchanted creature has mana value 2 or less, it loses all abilities.
+
+Dreams Beyond the End
+rules_text: Exile the top three cards of your library. Until end of turn, you may play cards you own exiled with cards named Dreams Beyond the End. => Exile the top three cards of your library with dream counters on them. Until end of turn, you may play cards you own exiled with dream counters on them.
+
+Fishing Rod
+
+Distant Expeditioner
+
+Discreet Messenger
+
+Other Unto Other
+cost: {2}{W}{W} => {3}{W}
+
+Deep Looker
+rules_text: Ward {2}
+Creatures opponents control enter tapped. => Ward {2}
+Creatures your opponents control enter tapped.
+
+Hero of the Plain
+pt: 2/2 => 2/1
+
+Sword of Solitary Expression
+rules_text: Equipped creature has protection from triggered abilities.
+Whenever equipped creature deals combat damage to a player, when you next trigger an ability this turn that isn't a mana ability, copy it. You may choose new targets for the copy.
+Equip {1} => Equipped creature has protection from triggered abilities.
+Whenever equipped creature deals combat damage to a player, when you next trigger one or more abilities that aren't mana abilities this turn, copy one of them. You may choose new targets for the copy.
+Equip {1}
+
+Dignity in Arms
+rules_text: Counter target spell if it's the first spell its controller cast this turn.
+If you control an equipped creature, that spell's controller can't cast spells this turn. => Counter target spell if it's the first spell its controller cast this turn or if you control an equipped creature.
+
+Natural Bemusements
+rules_text: Create X 1/1 green Scout creature tokens, then for each of those tokens, create and attach a green Aura enchantment token named Bemusement with enchant creature and “Enchanted creature gets +1/+1 for each Aura you control.” => Create X 1/1 green Scout creature tokens, then for each of those tokens, create and attach a green Aura enchantment token named Bemusement with enchant creature and “Enchanted creature gets +1/+1 for each other Aura you control.”
+
+Bemusement
+rules_text: Enchant creature
+Enchanted creature gets +1/+1 for each Aura you control. => Enchant creature
+Enchanted creature gets +1/+1 for each other Aura you control.
+
+
+VERSION 8 CHANGELOG
 ====================
 
 
