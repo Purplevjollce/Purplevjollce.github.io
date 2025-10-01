@@ -19,7 +19,7 @@
     },
     {
         "card_name": "The Dreamer, Ideoclast",
-        "number": 125,
+        "number": 126,
         "shape": "normal",
         "set": "LIP"
     },
@@ -49,7 +49,7 @@
     },
     {
         "card_name": "Imperious, Demand",
-        "number": 133,
+        "number": 134,
         "shape": "normal",
         "set": "LIP"
     },
@@ -138,8 +138,8 @@
         "set": "LIP"
     },
     {
-        "card_name": "Hero of the Plain",
-        "number": 132,
+        "card_name": "Dragonspotting",
+        "number": 125,
         "shape": "normal",
         "set": "LIP"
     },
@@ -168,8 +168,8 @@
         "set": "LIP"
     },
     {
-        "card_name": "Lurid Battlemaster",
-        "number": 137,
+        "card_name": "Hero of the Plain",
+        "number": 133,
         "shape": "normal",
         "set": "LIP"
     },
@@ -198,8 +198,8 @@
         "set": "LIP"
     },
     {
-        "card_name": "Radiant Bliss",
-        "number": 143,
+        "card_name": "Lurid Battlemaster",
+        "number": 138,
         "shape": "normal",
         "set": "LIP"
     },
@@ -210,7 +210,7 @@
         "set": "LIP"
     },
     {
-        "card_name": "Radiant Binder",
+        "card_name": "Radiant Enforcer",
         "number": 27,
         "shape": "normal",
         "set": "LIP"
@@ -439,7 +439,7 @@
     },
     {
         "card_name": "Indiscriminate Terror",
-        "number": 135,
+        "number": 136,
         "shape": "normal",
         "set": "LIP"
     },
@@ -469,7 +469,7 @@
     },
     {
         "card_name": "Lurid Lucidity",
-        "number": 138,
+        "number": 139,
         "shape": "normal",
         "set": "LIP"
     },
@@ -499,7 +499,7 @@
     },
     {
         "card_name": "Merry Meetings",
-        "number": 139,
+        "number": 140,
         "shape": "normal",
         "set": "LIP"
     },
@@ -528,8 +528,8 @@
         "set": "LIP"
     },
     {
-        "card_name": "Mountainside Predator",
-        "number": 140,
+        "card_name": "Pure Flame",
+        "number": 142,
         "shape": "normal",
         "set": "LIP"
     },
@@ -558,8 +558,8 @@
         "set": "LIP"
     },
     {
-        "card_name": "Pure Flame",
-        "number": 141,
+        "card_name": "Regal Predator",
+        "number": 145,
         "shape": "normal",
         "set": "LIP"
     },
@@ -678,7 +678,7 @@
         "set": "LIP"
     },
     {
-        "card_name": "Bloodlet Ritualist",
+        "card_name": "Avaricious Youth",
         "number": 121,
         "shape": "normal",
         "set": "LIP"
@@ -739,7 +739,7 @@
     },
     {
         "card_name": "Dreams Beyond the End",
-        "number": 126,
+        "number": 127,
         "shape": "normal",
         "set": "LIP"
     },
@@ -769,7 +769,7 @@
     },
     {
         "card_name": "Errant's Demand",
-        "number": 127,
+        "number": 128,
         "shape": "normal",
         "set": "LIP"
     },
@@ -799,7 +799,7 @@
     },
     {
         "card_name": "Failure of Piety",
-        "number": 128,
+        "number": 129,
         "shape": "normal",
         "set": "LIP"
     },
@@ -829,7 +829,7 @@
     },
     {
         "card_name": "Fanatical Charger",
-        "number": 129,
+        "number": 130,
         "shape": "normal",
         "set": "LIP"
     },
@@ -859,7 +859,7 @@
     },
     {
         "card_name": "Frightening Instructor",
-        "number": 130,
+        "number": 131,
         "shape": "normal",
         "set": "LIP"
     },
@@ -889,7 +889,7 @@
     },
     {
         "card_name": "Ghastly Mind",
-        "number": 131,
+        "number": 132,
         "shape": "normal",
         "set": "LIP"
     },
@@ -919,7 +919,7 @@
     },
     {
         "card_name": "Impressionable Traveler",
-        "number": 134,
+        "number": 135,
         "shape": "normal",
         "set": "LIP"
     },
@@ -949,7 +949,7 @@
     },
     {
         "card_name": "Instinctive Combatant",
-        "number": 136,
+        "number": 137,
         "shape": "normal",
         "set": "LIP"
     },
@@ -978,8 +978,8 @@
         "set": "LIP"
     },
     {
-        "card_name": "Purge Heretical Thoughts",
-        "number": 142,
+        "card_name": "Mountainside Predator",
+        "number": 141,
         "shape": "normal",
         "set": "LIP"
     },
@@ -1008,8 +1008,8 @@
         "set": "LIP"
     },
     {
-        "card_name": "Raw Force",
-        "number": 144,
+        "card_name": "Purge Heretical Thoughts",
+        "number": 143,
         "shape": "normal",
         "set": "LIP"
     },
@@ -1038,8 +1038,8 @@
         "set": "LIP"
     },
     {
-        "card_name": "Regal Predator",
-        "number": 145,
+        "card_name": "Raw Force",
+        "number": 144,
         "shape": "normal",
         "set": "LIP"
     },
@@ -1663,6 +1663,12 @@
     },
     "a->token",
     {
+        "card_name": "Treasure",
+        "number": 9,
+        "shape": "token",
+        "set": "LIP"
+    },
+    {
         "card_name": "Angel",
         "number": 1,
         "shape": "token",
@@ -1709,9 +1715,6 @@
         "number": 8,
         "shape": "token",
         "set": "LIP"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"

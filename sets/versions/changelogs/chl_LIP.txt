@@ -1,4 +1,95 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+Dragonspotting added.
+Treasure added.
+Avaricious Youth added.
+Radiant Enforcer added.
+
+Bloodlet Ritualist removed.
+Radiant Binder removed.
+Radiant Bliss removed.
+
+Lurid Battlemaster
+
+Fanatical Charger
+
+Imperious, Demand
+
+Merry Meetings
+
+Errant's Demand
+
+Overbearing Majesty
+cost: {2}{W}{W} => {1}{W}{W}{W}
+
+Mountainside Predator
+cost: {3}{R}{R} => {5}{R}{R}
+rules_text: Flying
+At the beginning of your end step, if you've seen signs this turn, each opponent sacrifices a permanent. [i](You've seen signs if two or more cards types entered your graveyard.)[/i] => This spell costs {2} less to cast if you control a creature with power 4 or greater.
+Flying
+When Mountainside Predator enters, it deals 1 damage to each creature your opponents control.
+pt: 4/4 => 4/3
+
+Pure Flame
+
+The Dreamer, Ideoclast
+
+Lurid Lucidity
+
+Share in Humanity
+cost: {3}{R} => {2}{R}
+rules_text: This spell costs {2} less to cast if you control a creature token.
+Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. => If you control a creature token, create a Treasure token.
+Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.
+
+Ghastly Mind
+cost: {3}{R} => {2}{R}
+rules_text: When Ghastly Mind enters, discard two cards.
+When Ghastly Mind dies, exile the top two cards of your library. Until the end of your next turn, you may play those cards. => When Ghastly Mind enters, discard a card unless you've seen signs this turn. [i](You've seen signs if two or more cards types entered your graveyard.)[/i]
+When Ghastly Mind dies, exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+pt: 4/2 => 2/1
+
+Failure of Piety
+
+Dreams Beyond the End
+
+Costly Victory
+cost: {3}{R}{R} => {4}{R}{R}
+rules_text: As an additional cost to cast this spell, sacrifice two lands and/or creatures.
+Costly Victory deals 6 damage to target creature. Draw a card. => As an additional cost to cast this spell, sacrifice two lands and/or creatures.
+Costly Victory deals 6 damage to target creature. Draw two cards.
+
+Frightening Instructor
+
+Pretty Beetle
+rules_text: Empty [i](As this enters, it loses all abilities until your next turn.)[/i]
+Flying
+When Pretty Beetle dies, you may return target creature card with mana value 1 from your graveyard to your hand. => Flying
+At the beginning of your end step, if you've seen signs this turn, you may pay {B}. If you do, return Pretty Beetle from your graveyard to your hand. [i](You've seen signs if two or more cards types entered your graveyard.)[/i]
+
+Purge Heretical Thoughts
+
+Indiscriminate Terror
+
+Regal Predator
+rules_text: Flying
+When Regal Predator enters, return target creature card with mana value 3 or less from your graveyard to the battlefield. It gains haste. Sacrifice it at end of turn. => Flying
+At the beginning of combat on your turn, if you've seen signs this turn, return target creature card with mana value 3 or less from your graveyard to the battlefield. It gains haste. Sacrifice it at end of turn. [i](You've seen signs if two or more cards types entered your graveyard.)[/i]
+pt: 3/3 => 4/4
+
+Instinctive Combatant
+cost: {2}{R} => {3}{R}
+rules_text: Instinctive Combatant gets +1/+2 as long as you have one or fewer cards in hand. => Trample
+Instinctive Combatant gets +2/+1 as long as you have one or fewer cards in hand.
+pt: 3/2 => 3/3
+
+Impressionable Traveler
+
+Hero of the Plain
+
+
+VERSION 9 CHANGELOG
 ====================
 
 Discern added.

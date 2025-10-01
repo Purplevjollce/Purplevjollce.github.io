@@ -1,16 +1,6 @@
 ﻿[CustomCards]
 	[
 		{
-			"name": "Bloodlet Ritualist",
-			"rarity": "common",
-			"mana_cost": "{2}{R}",
-			"type": "Creature — Human Shaman",
-			"collector_number": "121",
-			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/121_Bloodlet Ritualist.png"
-			}
-		},
-		{
 			"name": "Descent from Divinity",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{B}",
@@ -45,9 +35,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{R}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "137",
+			"collector_number": "138",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/137_Lurid Battlemaster.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/138_Lurid Battlemaster.png"
 			}
 		},
 		{
@@ -275,9 +265,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "129",
+			"collector_number": "130",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/129_Fanatical Charger.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/130_Fanatical Charger.png"
 			}
 		},
 		{
@@ -315,9 +305,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{R}{R}{R}",
 			"type": "Legendary Creature — Dragon Avatar",
-			"collector_number": "133",
+			"collector_number": "134",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/133_Imperious, Demand.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/134_Imperious, Demand.png"
 			}
 		},
 		{
@@ -355,9 +345,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "139",
+			"collector_number": "140",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/139_Merry Meetings.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/140_Merry Meetings.png"
 			}
 		},
 		{
@@ -455,9 +445,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "127",
+			"collector_number": "128",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/127_Errant's Demand.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/128_Errant's Demand.png"
 			}
 		},
 		{
@@ -553,7 +543,7 @@
 		{
 			"name": "Overbearing Majesty",
 			"rarity": "rare",
-			"mana_cost": "{2}{W}{W}",
+			"mana_cost": "{1}{W}{W}{W}",
 			"type": "Sorcery",
 			"collector_number": "23",
 			"image_uris": {
@@ -588,16 +578,6 @@
 			"collector_number": "199",
 			"image_uris": {
 				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/199_Angel of Natural Guise.png"
-			}
-		},
-		{
-			"name": "Radiant Binder",
-			"rarity": "rare",
-			"mana_cost": "{3}{W}",
-			"type": "Creature — Angel Soldier",
-			"collector_number": "27",
-			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/27_Radiant Binder.png"
 			}
 		},
 		{
@@ -692,12 +672,12 @@
 		},
 		{
 			"name": "Mountainside Predator",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{R}{R}",
+			"rarity": "common",
+			"mana_cost": "{5}{R}{R}",
 			"type": "Creature — Dragon",
-			"collector_number": "140",
+			"collector_number": "141",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/140_Mountainside Predator.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/141_Mountainside Predator.png"
 			}
 		},
 		{
@@ -775,9 +755,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
-			"collector_number": "141",
+			"collector_number": "142",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/141_Pure Flame.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/142_Pure Flame.png"
 			}
 		},
 		{
@@ -995,9 +975,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{R}",
 			"type": "Legendary Creature — Human",
-			"collector_number": "125",
+			"collector_number": "126",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/125_The Dreamer, Ideoclast.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/126_The Dreamer, Ideoclast.png"
 			}
 		},
 		{
@@ -1345,9 +1325,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "138",
+			"collector_number": "139",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/138_Lurid Lucidity.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/139_Lurid Lucidity.png"
 			}
 		},
 		{
@@ -1463,7 +1443,7 @@
 		{
 			"name": "Share in Humanity",
 			"rarity": "common",
-			"mana_cost": "{3}{R}",
+			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
 			"collector_number": "149",
 			"image_uris": {
@@ -1553,11 +1533,11 @@
 		{
 			"name": "Ghastly Mind",
 			"rarity": "common",
-			"mana_cost": "{3}{R}",
+			"mana_cost": "{2}{R}",
 			"type": "Creature — Human",
-			"collector_number": "131",
+			"collector_number": "132",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/131_Ghastly Mind.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/132_Ghastly Mind.png"
 			}
 		},
 		{
@@ -1715,9 +1695,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Sorcery",
-			"collector_number": "128",
+			"collector_number": "129",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/128_Failure of Piety.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/129_Failure of Piety.png"
 			}
 		},
 		{
@@ -1765,15 +1745,15 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "126",
+			"collector_number": "127",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/126_Dreams Beyond the End.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/127_Dreams Beyond the End.png"
 			}
 		},
 		{
 			"name": "Costly Victory",
 			"rarity": "common",
-			"mana_cost": "{3}{R}{R}",
+			"mana_cost": "{4}{R}{R}",
 			"type": "Sorcery",
 			"collector_number": "122",
 			"image_uris": {
@@ -1815,9 +1795,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "130",
+			"collector_number": "131",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/130_Frightening Instructor.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/131_Frightening Instructor.png"
 			}
 		},
 		{
@@ -1875,9 +1855,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "142",
+			"collector_number": "143",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/142_Purge Heretical Thoughts.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/143_Purge Heretical Thoughts.png"
 			}
 		},
 		{
@@ -2125,9 +2105,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Creature — Dragon",
-			"collector_number": "135",
+			"collector_number": "136",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/135_Indiscriminate Terror.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/136_Indiscriminate Terror.png"
 			}
 		},
 		{
@@ -2452,7 +2432,7 @@
 		},
 		{
 			"name": "Regal Predator",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Creature — Dragon",
 			"collector_number": "145",
@@ -2468,16 +2448,6 @@
 			"collector_number": "39",
 			"image_uris": {
 				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/39_Wavering Sanctifier.png"
-			}
-		},
-		{
-			"name": "Radiant Bliss",
-			"rarity": "rare",
-			"mana_cost": "{3}{R}",
-			"type": "Enchantment",
-			"collector_number": "143",
-			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/143_Radiant Bliss.png"
 			}
 		},
 		{
@@ -2503,11 +2473,11 @@
 		{
 			"name": "Instinctive Combatant",
 			"rarity": "common",
-			"mana_cost": "{2}{R}",
+			"mana_cost": "{3}{R}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "136",
+			"collector_number": "137",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/136_Instinctive Combatant.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/137_Instinctive Combatant.png"
 			}
 		},
 		{
@@ -2515,9 +2485,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Creature — Human Scout",
-			"collector_number": "134",
+			"collector_number": "135",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/134_Impressionable Traveler.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/135_Impressionable Traveler.png"
 			}
 		},
 		{
@@ -2545,9 +2515,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Angel Soldier",
-			"collector_number": "132",
+			"collector_number": "133",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/132_Hero of the Plain.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/133_Hero of the Plain.png"
 			}
 		},
 		{
@@ -2599,6 +2569,46 @@
 			"image_uris": {
 				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/6_Bemusement.png"
 			}
+		},
+		{
+			"name": "Dragonspotting",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/125_Dragonspotting.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/9_Treasure.png"
+			}
+		},
+		{
+			"name": "Avaricious Youth",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/121_Avaricious Youth.png"
+			}
+		},
+		{
+			"name": "Radiant Enforcer",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Angel Soldier",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/27_Radiant Enforcer.png"
+			}
 		}
 	]
 
@@ -2623,7 +2633,6 @@
 	5 Overbearing Majesty
 	5 Finder of Illuminated Ways
 	5 Angel of Natural Guise
-	5 Radiant Binder
 	5 Gaiety
 	5 Wade Through Starlight
 	5 Cavern Terror
@@ -2680,13 +2689,14 @@
 	5 Rallier's Plate
 	5 Deep Looker
 	5 Wavering Sanctifier
-	5 Radiant Bliss
 	5 Absolute, Comprehension
 	5 Adamant Firebrand
 	5 Departed Existence
 	5 Hero of the Plain
 	5 Sword of Solitary Expression
 	5 Natural Bemusements
+	5 Dragonspotting
+	5 Radiant Enforcer
 [uncommon(3)]
 	5 Descent from Divinity
 	5 Angelic Dignity
@@ -2705,7 +2715,6 @@
 	5 Frenzied Deployment
 	5 Hunter's Tactics
 	5 Woe's Grasp
-	5 Mountainside Predator
 	5 Pathseeker
 	5 Pure Flame
 	5 Establish Hierarchy
@@ -2754,10 +2763,10 @@
 	5 Dragonfire Devoted
 	5 Alpine Navigator
 	5 Show of Strength
+	5 Regal Predator
 	5 Faith's Fetters
 	5 Dignity in Arms
 [common(10)]
-	5 Bloodlet Ritualist
 	5 Gaze Upon Hope
 	5 Floating Vagrant
 	5 Unspool Creation
@@ -2780,6 +2789,7 @@
 	5 Territorial Strike
 	5 Otherside Encounter
 	5 Forced Gaze
+	5 Mountainside Predator
 	5 Self-Doubt
 	5 Piercing Gaze
 	5 Adaptive Endpoint
@@ -2848,7 +2858,7 @@
 	5 Treacherous Barrenlands
 	5 Resilient Scrubland
 	5 Amicable Traveler
-	5 Regal Predator
 	5 Instinctive Combatant
 	5 Impressionable Traveler
 	5 Discern
+	5 Avaricious Youth
