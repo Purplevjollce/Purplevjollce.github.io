@@ -1,4 +1,351 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+Death Unto Death added.
+Life Unto Life added.
+Belittling Dismissal added.
+Abscond Mortal Limits added.
+Foreboding Winds added.
+Lackadaisical Whelp added.
+Culivator Grub added.
+Wayward Journey added.
+Wildlands Hunter added.
+Invasive Crawler added.
+Domineering Parasite added.
+Compulsive Watcher added.
+Entrancing Lantern added.
+Obsessive Seeker added.
+Zealot's Lance added.
+Abandon Nagging Ideals added.
+
+Lonely Journey removed.
+Dark Forest Hunter removed.
+Decay Unto Decay removed.
+Zeal Unto Zeal removed.
+Thoughtless Thoughts removed.
+Ancient Progenitor removed.
+Inquisitive Glider removed.
+Heirloom Bauble removed.
+Dismiss removed.
+Mask of Communion removed.
+Hunting Mantis removed.
+Reflect Upon the Stars removed.
+Estranged Elder removed.
+Faith's Fetters removed.
+Discern removed.
+Avaricious Youth removed.
+
+Gaze Upon Hope
+
+Wasteland Crier
+pt: 2/1 => 2/2
+
+Lurid Battlemaster
+cost: {R}{R} => {1}{R}
+rules_text: Lurid Battlemaster has double strike as long as a creature you control died this turn.
+{2}{R}{R}, Sacrifice another creature: Lurid Battlemaster deals 2 damage to target creature. Activate only as a sorcery. => As long as it's your turn, Lurid Battlemaster has first strike. It has double strike instead if a creature you control died this turn.
+{2}{R}{R}, Sacrifice another creature: Lurid Battlemaster deals 2 damage to target creature. Activate only as a sorcery.
+
+Floating Vagrant
+
+Boardwalk Terror
+
+Resigned Vanguard
+
+Horror of Humanity
+cost: {2}{W} => {1}{W}
+
+Calm Journeys
+
+Tortured Dweller
+rules_text: Whenever Tortured Dweller attacks, you may draw two cards, then discard two cards. => Whenever Tortured Dweller or another Horror you control enters, you may draw a card, then discard a card.
+
+Roaming Grizzly
+
+Awed Hush
+rules_text: If you've seen signs this turn, you may search your library for ten cards, exile them, then shuffle. [i](You've seen signs if two or more cards types entered your graveyard.)[/i]
+Each player mills ten cards. => If you've seen signs this turn, you may search your library for up to ten cards, exile them, then shuffle. [i](You've seen signs if two or more cards types entered your graveyard.)[/i]
+You mill ten cards.
+
+Pure Form
+
+Merry Meetings
+
+Way of the World
+
+Mystic Communion
+
+Solitary Scout
+
+Errant's Demand
+rules_text: Target creature gains first strike until end of turn and must be blocked this turn if able.
+Flashback {1}{R} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Until end of turn, target creature gets +2/+0, gains first strike, and must be blocked this turn if able.
+Flashback {2}{R} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Nature's Call
+
+Promise of Tranquility
+
+Territorial Strike
+
+Wings of the Lance
+cost: {1}{W} => {3}{W}
+rules_text: Flying
+As long as Wings of the Lance is equipped, it gets +2/+0. => Flying
+As long as Wings of the Lance is equipped, it gets +3/+0.
+pt: 1/2 => 2/4
+
+Frenzied Deployment
+
+Overbearing Majesty
+
+Forced Gaze
+
+Wade Through Starlight
+
+Cavern Terror
+
+Ruin of the Feeble
+
+Mountainside Predator
+
+Pathseeker
+rules_text: At the beginning of combat on your turn, Pathseeker gains flying until end of turn if another creature you control has flying. The same is true for deathtouch, menace, trample, and vigilance. => At the beginning of combat on your turn, Pathseeker gains flying until end of turn if another creature you control has flying. The same is true for first strike, deathtouch, menace, and trample.
+
+Pure Flame
+
+Rouse Ancient Strength
+
+In Horror's Thrall
+
+Slayer's Mantle
+
+Watching, Emptiness
+
+Beseech the Waves
+
+Resting Vanguard
+
+Ventured Land
+cost: {3}{G} => {G}
+rules_text: Enchant land
+When Ventured Land enters, create two 1/1 green Scout creature tokens.
+Enchanted land has “{G}, {T}, Sacrifice a creature: Draw a card.” => Enchant land
+When Ventured Land enters, create a 1/1 green Scout creature token.
+Enchanted land has “{T}: Put a +1/+1 counter on each Scout you control that entered this turn.”
+
+Scout's Demise
+
+Rallied Purifier
+
+Vicious Orator
+
+Scouting Corridor
+rules_text: {T}: Add {C}. You may spend this mana as though it was {G} to cast Scout spells or if you control a Scout.
+{1}{G}, {T}, Sacrifice Scouting Corridor: Create two 1/1 green Scout creature tokens. Activate only if a Scout died under your control this turn. => {T}: Add {C}. You may spend this mana as though it was {G} to cast Scout spells or if you control a Scout.
+{1}{G}, {T}, Sacrifice Scouting Corridor: Create two 1/1 green Scout creature tokens. Activate only if a Scout attacked this turn.
+
+Unfortunate Encounter
+
+Skyblessed Traveler
+
+Truthseeker
+
+Enigmatic Encounter
+rules_text: Up to two target creatures you control each get +2/+1 until end of turn. If both of those creatures are tokens, draw a card. => Up to two target creatures you control each get +2/+1 until end of turn. If those creatures share a creature type, they each get an additional +2/+1 until end of turn.
+
+Lurid Lucidity
+
+Fatigued Hero
+
+Communed Hunter
+type: Creature — Human Shaman => Creature — Human Scout
+
+Among the Greenery
+
+Radical Purist
+
+Foreboding Shoreline
+rules_text: {T}: Add {C}. You may spend this mana as though it was {U} to cast Horror spells or if you control a Horror.
+{2}{U}, {T}, Sacrifice Foreboding Shoreline: Create a token that's a copy of target Horror you control that dealt combat damage to an opponent this turn. => {T}: Add {C}. You may spend this mana as though it was {U} to cast Horror spells or if you control a Horror.
+{1}{U}, {T}, Sacrifice Foreboding Shoreline: Exchange control of target Horror you control that dealt combat damage to a player this turn and target creature with mana value 4 or less.
+
+Share in Humanity
+
+Watch the Wildlife
+rules_text: Target creature gets +2/+2 until end of turn. If you control another creature with flying, it also gains flying until end of turn. The same is true for deathtouch, menace, trample, and vigilance. => Target creature gets +2/+2 and gains hexproof until end of turn. If you control another creature with flying, it also gains flying until end of turn. The same is true for first strike, deathtouch, menace, and trample.
+
+Foul Omen Fishers
+cost: {2}{U}{U} => {2}{U}
+rules_text: Flash
+Flying
+When Foul Omen Fishers enters, if you've seen signs this turn, target nonland permanent's owner puts it on their choice of the top or bottom of their library. [i](You've seen signs if two or more cards types entered your graveyard.)[/i] => Flying
+When Foul Omen Fishers enters, if you've seen signs this turn, target nonland permanent's owner puts it on their choice of the top or bottom of their library. [i](You've seen signs if two or more cards types entered your graveyard.)[/i]
+
+Soulful Flower
+
+Essencelessness
+
+Advance Party
+cost: {3}{W} => {1}{W}
+rules_text: At the beginning of combat on your turn, you may pay 2 life. When you do, target creature you control gains indestructible until end of turn.
+As long as you have 10 or less life, creatures opponents control enter tapped. => At the beginning of combat on your turn, you may pay 3 life. If you do, Advance Party gains indestructible until end of turn.
+{T}: Tap target creature. Activate only if you have 10 or less life.
+pt: 4/2 => 3/1
+
+Quell Unrest
+
+Reckon Mortality
+
+Solitary Thinker
+
+Raw Force
+rules_text: Target creature token gets +2/+2 and gains trample until end of turn.
+Draw a card. => Target creature gets +3/+1 until end of turn. If it's a token, draw a card.
+
+Deathshroud Beetle
+
+Purge Heretical Thoughts
+
+Fishing Rod
+
+Mindless Skimmer
+
+Distant Expeditioner
+rules_text: Empty [i](As this enters, it loses all abilities until your next turn.)[/i]
+When Distant Expeditioner dies, untap up to two lands. => Whenever you cast a noncreature spell, Distant Expeditioner gets +1/+1 until end of turn. If you have one or fewer cards in hand, it gets an additional +1/+1 until end of turn.
+
+Discreet Messenger
+
+Natural Ending
+
+Singular Radiance
+
+Worldly Illogic
+rules_text: Counter target spell if you have X or fewer cards in hand. => Counter target spell if a player has X or fewer cards in hand.
+
+Insectoid Spawner
+
+Muted Mutterer
+
+Relaxed Admirer
+
+Nimble Pathfinder
+
+Addled Flamechaser
+rules_text: Whenever a Dragon enters under your control, you may sacrifice Addled Flamechaser. When you do, it deals 4 damage to up to one target creature.
+{R}, Sacrifice Addled Flamechaser: Destroy target artifact. => Whenever a Dragon enters under your control, you may sacrifice Addled Flamechaser. When you do, it deals 4 damage to up to one target creature.
+{1}, Sacrifice Addled Flamechaser: Destroy target artifact.
+
+Alpine Navigator
+
+Unnatural Acceptance
+
+Other Unto Other
+
+Show of Strength
+
+Volcanic Dominant
+
+Yuil, Troubled Companion
+
+Dias, Storied Apocalypse
+rules_text: Once during each of your turns, you may activate an additional loyalty ability of Dias by sacrificing a creature rather than paying its loyalty cost.
+[+1]: Each opponent loses 3 life.
+[0]: Each opponent discards a card.
+[-2]: Each opponent sacrifices a creature. => Once during each of your turns, you may activate an additional loyalty ability of Dias by sacrificing a creature in addition to paying its loyalty cost.
+[+1]: Target opponent discards a card. If they can't, you draw a card.
+[-2]: Target opponent sacrifices a creature. If they can't, return a creature card with mana value 4 or less from your graveyard to the battlefield.
+special_text: Once during each of your turns, you may activate an additional loyalty ability of Dias by sacrificing a creature rather than paying its loyalty cost.
+[+1]: Each opponent loses 3 life.
+[0]: Each opponent discards a card.
+[-2]: Each opponent sacrifices a creature. => Once during each of your turns, you may activate an additional loyalty ability of Dias by sacrificing a creature in addition to paying its loyalty cost.
+[+1]: Target opponent discards a card. If they can't, you draw a card.
+[-2]: Target opponent sacrifices a creature. If they can't, return a creature card with mana value 4 or less from your graveyard to the battlefield.
+loyalty: 3 => 5
+
+Amicable Traveler
+
+Regal Predator
+
+Wavering Sanctifier
+
+Natural Bemusements
+
+Treasure
+
+Radiant Enforcer
+
+Finder of Illuminated Ways
+rules_text: Once each turn, when Finder of Illuminated Ways or another creature enters under your control, target creature you control gains “Whenever this creature deals combat damage to a player or planeswalker this turn, draw a card” until end of turn.
+{T}: Add {G}. => Once each turn, when another creature enters under your control, target creature you control gains “Whenever this creature deals combat damage to a player, draw a card” until end of turn.
+{T}: Add one mana of any color.
+pt: 0/1 => 0/2
+
+Rallier's Plate
+rules_text: When Rallier's Plate enters, return target creature card with mana value 3 or less from your graveyard to the battlefield, then attach Rallier's Plate to that creature.
+Whenever equipped creature attacks, creatures you control get +1/+1 until end of turn.
+Equip {2} => When Rallier's Plate enters, return target creature card with mana value 3 or less from your graveyard to the battlefield, then attach Rallier's Plate to that creature.
+Whenever equipped creature attacks, attacking creatures get +1/+1 until end of turn.
+Equip {2}
+
+Deep Looker
+cost: {1}{U} => {2}{U}
+rules_text: Ward {2}
+Creatures your opponents control enter tapped. => When Deep Looker enters, return up to one target creature with mana value less than or equal to the number of Horrors you control to its owner's hand.
+Creatures your opponents control enter tapped.
+pt: 2/1 => 3/2
+
+Infirm Self
+rules_text: At the beginning of your end step, you may sacrifice Infirm Self. If you do, create two tapped X/X blue Horror creature tokens, where X is the total amount of life lost by players this turn. => Menace
+At the beginning of your end step, you may sacrifice Infirm Self. If you do, for each player with 10 or less life, create a X/X blue Horror creature token, where X is 11 minus their life total.
+
+Departed Existence
+cost: {1}{U}{B} => {U}{B}
+
+Woe's Grasp
+cost: {1}{U}{B} => {U}{B}
+rules_text: Return target nonland permanent an opponent controls to its owner's hand.
+If you've seen signs this turn, that permanent's controller reveals their hand and discards a nonland card. [i](You've seen signs if two or more cards types entered your graveyard.)[/i] => Each player sacrifices a creature.
+If you've seen signs this turn, draw a card. [i](You've seen signs if two or more cards types entered your graveyard.)[/i]
+
+Unwavering Behemoth
+rules_text: Emerge {4}{G}{G} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+This spell can't be countered.
+Protection from mana values among cards in your graveyard. => Emerge {4}{G}{G} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+This spell can't be countered.
+Protection from mana values among creatures you control.
+
+Seeking Elk
+type: Creature — Elk => Creature — Elk Scout
+cost: {1}{G} => {2}{G}
+rules_text: {G}, {T}: Search your library for a basic land card, reveal it, put it into your hand, then shuffle. Activate only if you've seen signs this turn. [i](You've seen signs if two or more cards types entered your graveyard.)[/i] => At the beginning of your end step, if you've seen signs this turn, search your library for a basic land card, reveal it, put it into your hand, then shuffle. [i](You've seen signs if two or more cards types entered your graveyard.)[/i]
+pt: 2/2 => 2/4
+
+Birth Unto Birth
+cost: {G}{G} => {G}
+rules_text: As an additional cost to cast this spell, sacrifice a creature.
+Search your library for a creature card with mana value equal to the sacrificed creature's mana value minus 1, put it onto the battlefield, then shuffle.
+Flashback {3}{G}{G} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Destroy target noncreature, nonland permanent. Its controller creates a 3/3 green Beast creature token.
+Flashback {1}{G}{G} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Anguished Deadpit
+rules_text: {T}: Add {C}. You may spend this mana as though it was {B} to cast Insect spells or if you control a Insect.
+{B}, {T}, Sacrifice Anguished Deadpit: Draw a card for each Insect that died under your control this turn. => {T}: Add {C}. You may spend this mana as though it was {B} to cast Insect spells or if you control a Insect.
+{B}, {T}, Sacrifice Anguished Deadpit and an Insect: Target player discards a card. Activate only as a sorcery.
+
+Change Lost to the Stars
+rules_text: Choose a nonland card name. Exile all permanents with that name. Search target player's graveyard, hand, and library for any number of cards with that name and exile them. That player shuffles, then draws a card for each card exiled from their hand this way. => Choose one, then choose a nonland card name. [i](Tokens aren't cards.)[/i]
+• Exile all permanents with that name. 
+• Search target player's graveyard, hand, and library for any number of cards with that name and exile them. That player shuffles, then draws a card for each card exiled from their hand this way.
+
+Illuminated Thoughts
+rules_text: Choose one —
+• Target creature gets +2/+2 until end of turn.
+• Draw a card. => Target creature gets +2/+2 until end of turn. If an opponent has 10 or less life, it gets an additional +2/+0 and gains first strike until end of turn. If you have 10 or less life, it gains lifelink until end of turn.
+
+
+VERSION 10 CHANGELOG
 ====================
 
 Dragonspotting added.
