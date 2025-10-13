@@ -953,7 +953,7 @@
 		{
 			"name": "Caller of the Ideal",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{B}{G}",
+			"mana_cost": "{B}{G}",
 			"type": "Creature — Human Shaman",
 			"collector_number": "204",
 			"image_uris": {
@@ -2574,7 +2574,7 @@
 			"name": "Obsessive Seeker",
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{U}",
-			"type": "Creature — Dragon",
+			"type": "Creature — Dragon Scout",
 			"collector_number": "65",
 			"image_uris": {
 				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/65_Obsessive Seeker.png"
