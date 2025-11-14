@@ -1,4 +1,18 @@
-﻿VERSION 13 CHANGELOG
+﻿VERSION 14 CHANGELOG
+====================
+
+
+
+Hulking Creeper
+
+Relaxed Admirer
+
+Resilient Scrubland
+
+Absolute, Comprehension
+
+
+VERSION 13 CHANGELOG
 ====================
 
 Vindictive Angel added.
