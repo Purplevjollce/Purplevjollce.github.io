@@ -1,4 +1,10 @@
 ﻿{
+    "name": "Lost in Place",
+    "formats": "",
+    "trimmed": "n",
+    "image_type": "png",
+    "draft_structure": "draft booster",
+    "unpreviewed": "card back",
     "cards": [
         {
             "card_name": "Descent from Divinity",
@@ -17,8 +23,7 @@
             "loyalty": "",
             "artist": "Florian Herold",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Gaze Upon Hope",
@@ -37,14 +42,13 @@
             "loyalty": "",
             "artist": "Ambra Brambilla",
             "alias": "",
-            "notes": "prev: With no god to turn to, humanity turned to its creations for guidance.\nTBC",
-            "image_type": "png"
+            "notes": "prev: With no god to turn to, humanity turned to its creations for guidance.\nTBC"
         },
         {
             "card_name": "Wasteland Crier",
             "color": "R",
             "rarity": "rare",
-            "type": "Creature \u2013 Horror",
+            "type": "Creature \u2014 Horror",
             "number": 156,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -57,14 +61,13 @@
             "loyalty": "",
             "artist": "Nino Is",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Lurid Battlemaster",
             "color": "R",
             "rarity": "rare",
-            "type": "Creature \u2013 Human Soldier",
+            "type": "Creature \u2014 Human Soldier",
             "number": 143,
             "color_identity": "R",
             "cost": "{R}{R}",
@@ -77,14 +80,13 @@
             "loyalty": "",
             "artist": "NeryaDarkk",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Floating Vagrant",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Horror",
+            "type": "Creature \u2014 Horror",
             "number": 54,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -97,8 +99,7 @@
             "loyalty": "",
             "artist": "Bugra Dikmenli",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Angelic Dignity",
@@ -117,8 +118,7 @@
             "loyalty": "",
             "artist": "Akiy",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Unspool Creation",
@@ -137,14 +137,13 @@
             "loyalty": "",
             "artist": "Harshanand Singh",
             "alias": "",
-            "notes": "prev: With power over creation, Dias began to unravel those mired in the old ways.",
-            "image_type": "png"
+            "notes": "prev: With power over creation, Dias began to unravel those mired in the old ways."
         },
         {
             "card_name": "Boardwalk Terror",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Horror",
+            "type": "Creature \u2014 Horror",
             "number": 42,
             "color_identity": "U",
             "cost": "{4}{U}",
@@ -157,14 +156,13 @@
             "loyalty": "",
             "artist": "Eryk Szczygiel",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Resigned Vanguard",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Human Scout",
+            "type": "Creature \u2014 Human Scout",
             "number": 151,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -177,14 +175,13 @@
             "loyalty": "",
             "artist": "Andy Walsh",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Bared Seeker",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Horror Scout",
+            "type": "Creature \u2014 Horror Scout",
             "number": 80,
             "color_identity": "B",
             "cost": "{3}{B}",
@@ -197,14 +194,13 @@
             "loyalty": "",
             "artist": "Lautrec Attilius",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Pestilent Scavenger",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Bird",
+            "type": "Creature \u2014 Bird",
             "number": 108,
             "color_identity": "B",
             "cost": "{2}{B}",
@@ -217,18 +213,17 @@
             "loyalty": "",
             "artist": "Anastasia Balakchina",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Absolver of Transgression",
             "color": "WB",
             "rarity": "rare",
-            "type": "Creature \u2013 Angel Cleric",
+            "type": "Creature \u2014 Angel Cleric",
             "number": 197,
             "color_identity": "WB",
             "cost": "{1}{W}{B}",
-            "rules_text": "Flying\nWhen Absolver of Transgression enters, choose one \u2013\n\u2022 Target player exiles a card from their hand.\n\u2022 Exile any number of target cards in exile.\n\u2022 Exile target permanent with mana value 1.",
+            "rules_text": "Flying\nWhen Absolver of Transgression enters, choose one \u2014\n\u2022 Target player exiles a card from their hand.\n\u2022 Exile any number of target cards in exile.\n\u2022 Exile target permanent with mana value 1.",
             "flavor_text": "[i]\u201cLet your sins rest.\u201d[/i]",
             "pt": "2/1",
             "special_text": "",
@@ -237,8 +232,7 @@
             "loyalty": "",
             "artist": "Aaref Ghassemi",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Brutality's Way",
@@ -248,7 +242,7 @@
             "number": 202,
             "color_identity": "RG",
             "cost": "{R}{G}",
-            "rules_text": "Choose one \u2013\n\u2022 Destroy target artifact or enchantment with mana value 3 or less.\n\u2022 Brutality's Way deals 3 damage to target creature or planeswalker.\n\u2022 Target creature gets +3/+3 and gains trample until end of turn.",
+            "rules_text": "Choose one \u2014\n\u2022 Destroy target artifact or enchantment with mana value 3 or less.\n\u2022 Brutality's Way deals 3 damage to target creature or planeswalker.\n\u2022 Target creature gets +3/+3 and gains trample until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -257,14 +251,13 @@
             "loyalty": "",
             "artist": "Oneirolithic",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Angel",
             "color": "W",
             "rarity": "common",
-            "type": "Token Creature \u2013 Angel",
+            "type": "Token Creature \u2014 Angel",
             "number": 1,
             "color_identity": "W",
             "cost": "",
@@ -277,8 +270,7 @@
             "loyalty": "",
             "artist": "Jan Trnen\u00fd",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Horror of Humanity",
@@ -297,8 +289,7 @@
             "loyalty": "",
             "artist": "Valentina Nartsissova",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Rejection of Divinity",
@@ -317,14 +308,13 @@
             "loyalty": "",
             "artist": "Jukrek Kuj",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Moonlit Ruminator",
             "color": "B",
             "rarity": "rare",
-            "type": "Creature \u2013 Human Scout",
+            "type": "Creature \u2014 Human Scout",
             "number": 103,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -337,18 +327,17 @@
             "loyalty": "",
             "artist": "Matthew Derrick",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Deadpit Skitterer",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Insect",
+            "type": "Creature \u2014 Insect",
             "number": 85,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "Flash\nWhen Deadpit Skitterer enters, choose one \u2013\n\u2022 Exile target card from a graveyard.\n\u2022 You draw a card and lose 2 life.\n\u2022 Deadpit Skitterer deals 1 damage to any target.",
+            "rules_text": "Flash\nWhen Deadpit Skitterer enters, choose one \u2014\n\u2022 Exile target card from a graveyard.\n\u2022 You draw a card and lose 2 life.\n\u2022 Deadpit Skitterer deals 1 damage to any target.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -357,8 +346,7 @@
             "loyalty": "",
             "artist": "Thib.Art",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Calm Journeys",
@@ -368,7 +356,7 @@
             "number": 43,
             "color_identity": "U",
             "cost": "{1}{U}{U}",
-            "rules_text": "Choose one \u2013\n\u2022 Counter target spell.\n\u2022 Return target creature you control to its owner's hand. Draw a card.",
+            "rules_text": "Choose one \u2014\n\u2022 Counter target spell.\n\u2022 Return target creature you control to its owner's hand. Draw a card.",
             "flavor_text": "[i]Under Her watchful gaze all is safe.[/i]",
             "pt": "",
             "special_text": "",
@@ -377,8 +365,7 @@
             "loyalty": "",
             "artist": "Satchel Mulherin-Paquette",
             "alias": "",
-            "notes": "prev: \u201cBelief here makes illusions of reality. But those illusions of godhood have power to alter reality itself...\u201d\nprev: In the stillness you can almost imagine nothing there. Nothing in the way.",
-            "image_type": "png"
+            "notes": "prev: \u201cBelief here makes illusions of reality. But those illusions of godhood have power to alter reality itself...\u201d\nprev: In the stillness you can almost imagine nothing there. Nothing in the way."
         },
         {
             "card_name": "Display of Valor",
@@ -397,14 +384,13 @@
             "loyalty": "",
             "artist": "Ruberman Rodriguez",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Diminished Angel",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Alien Angel",
+            "type": "Creature \u2014 Alien Angel",
             "number": 13,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -417,14 +403,13 @@
             "loyalty": "",
             "artist": "ChrisNazgul",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Charging Lance",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Human Knight",
+            "type": "Creature \u2014 Human Knight",
             "number": 11,
             "color_identity": "W",
             "cost": "{3}{W}{W}",
@@ -437,14 +422,13 @@
             "loyalty": "",
             "artist": "L J Koh",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Tortured Dweller",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Horror",
+            "type": "Creature \u2014 Horror",
             "number": 73,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -457,14 +441,13 @@
             "loyalty": "",
             "artist": "Matheus Calza",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Roaming Grizzly",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Bear",
+            "type": "Creature \u2014 Bear",
             "number": 184,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -477,14 +460,13 @@
             "loyalty": "",
             "artist": "Juan Duarte",
             "alias": "",
-            "notes": "prev:It seeks, it finds, it sleeps.",
-            "image_type": "png"
+            "notes": "prev:It seeks, it finds, it sleeps."
         },
         {
             "card_name": "Imperious, Demand",
             "color": "R",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Dragon Avatar",
+            "type": "Legendary Creature \u2014 Dragon Avatar",
             "number": 136,
             "color_identity": "R",
             "cost": "{4}{R}{R}{R}",
@@ -497,8 +479,7 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Merry Meetings",
@@ -517,14 +498,13 @@
             "loyalty": "",
             "artist": "Eryk Szczygiel",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Seer of Loosened Reality",
             "color": "UR",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Cyclops Shaman",
+            "type": "Creature \u2014 Cyclops Shaman",
             "number": 228,
             "color_identity": "UR",
             "cost": "{1}{U}{R}",
@@ -537,8 +517,7 @@
             "loyalty": "",
             "artist": "Vojt\u011bch Petr\u017e\u00edlek",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Way of the World",
@@ -557,14 +536,13 @@
             "loyalty": "",
             "artist": "Flora Silve",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Light Smotherer",
             "color": "B",
             "rarity": "rare",
-            "type": "Creature \u2013 Insect Horror",
+            "type": "Creature \u2014 Insect Horror",
             "number": 101,
             "color_identity": "B",
             "cost": "{B}",
@@ -577,8 +555,7 @@
             "loyalty": "",
             "artist": "Marcin Tyrakowski",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Beckon Vastness",
@@ -597,8 +574,7 @@
             "loyalty": "",
             "artist": "Lea Dickert",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Mystic Communion",
@@ -617,14 +593,13 @@
             "loyalty": "",
             "artist": "Lea Dickert",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Solitary Scout",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Human Scout",
+            "type": "Creature \u2014 Human Scout",
             "number": 32,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -637,14 +612,13 @@
             "loyalty": "",
             "artist": "Murielle und Karin Regenass",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Lamech, Bound by History",
             "color": "U",
             "rarity": "mythic",
-            "type": "Legendary Planeswalker \u2013 Lamech",
+            "type": "Legendary Planeswalker \u2014 Lamech",
             "number": 59,
             "color_identity": "U",
             "cost": "{4}{U}{U}{U}",
@@ -657,8 +631,7 @@
             "loyalty": "12",
             "artist": "Alpharde",
             "alias": "",
-            "notes": "alt: Until your next turn, whenever another player casts a spell, copy it. You may choose new targets for the copy.",
-            "image_type": "png"
+            "notes": "alt: Until your next turn, whenever another player casts a spell, copy it. You may choose new targets for the copy."
         },
         {
             "card_name": "Repetitive Production",
@@ -677,8 +650,7 @@
             "loyalty": "",
             "artist": "Adam Gos\u0142awski",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Sinful Temptations",
@@ -697,8 +669,7 @@
             "loyalty": "",
             "artist": "Bagas Zella",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Errant's Demand",
@@ -717,8 +688,7 @@
             "loyalty": "",
             "artist": "Francesco Mammetti",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Nature's Call",
@@ -737,8 +707,7 @@
             "loyalty": "",
             "artist": "Peter Kra\u0161evec",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Promise of Tranquility",
@@ -757,8 +726,7 @@
             "loyalty": "",
             "artist": "Zaid Abdul",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Territorial Strike",
@@ -777,14 +745,13 @@
             "loyalty": "",
             "artist": "Xenia Istomina",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Wings of the Lance",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Angel Solider",
+            "type": "Creature \u2014 Angel Solider",
             "number": 39,
             "color_identity": "W",
             "cost": "{3}{W}",
@@ -797,14 +764,13 @@
             "loyalty": "",
             "artist": "Fran\u00e7ois Dujardin",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Otherside Encounter",
             "color": "B",
             "rarity": "common",
-            "type": "Enchantment \u2013 Aura",
+            "type": "Enchantment \u2014 Aura",
             "number": 105,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -817,8 +783,7 @@
             "loyalty": "",
             "artist": "Calder Moore",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Frenzied Deployment",
@@ -837,14 +802,13 @@
             "loyalty": "",
             "artist": "Fran\u00e7ois Dujardin",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Simple Majesty",
             "color": "RG",
             "rarity": "rare",
-            "type": "Creature \u2013 Beast",
+            "type": "Creature \u2014 Beast",
             "number": 229,
             "color_identity": "RG",
             "cost": "{1}{R}{G}",
@@ -857,8 +821,7 @@
             "loyalty": "",
             "artist": "Rayven Studios",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Narrow Sanity",
@@ -877,8 +840,7 @@
             "loyalty": "",
             "artist": "Tommaso Pandolfo",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Forced Gaze",
@@ -897,14 +859,13 @@
             "loyalty": "",
             "artist": "Michal Grzeskow",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Angel of Natural Guise",
             "color": "WG",
             "rarity": "rare",
-            "type": "Creature \u2013 Angel Scout",
+            "type": "Creature \u2014 Angel Scout",
             "number": 198,
             "color_identity": "WG",
             "cost": "{G}{W}",
@@ -917,14 +878,13 @@
             "loyalty": "",
             "artist": "Sebastian Horoszko",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Gaiety",
             "color": "BG",
             "rarity": "rare",
-            "type": "Enchantment \u2013 Aura",
+            "type": "Enchantment \u2014 Aura",
             "number": 214,
             "color_identity": "BG",
             "cost": "{B}{G}",
@@ -937,8 +897,7 @@
             "loyalty": "",
             "artist": "Tom Vernon Field",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Prayers for a New Deity",
@@ -957,14 +916,13 @@
             "loyalty": "",
             "artist": "Themis",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Eerie Murmur",
             "color": "U",
             "rarity": "rare",
-            "type": "Creature \u2013 Horror",
+            "type": "Creature \u2014 Horror",
             "number": 51,
             "color_identity": "U",
             "cost": "{U}",
@@ -977,14 +935,13 @@
             "loyalty": "",
             "artist": "Grim Gaze Galleries \u9670\u7768\u753b\u5eca",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Hunter's Tactics",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Enchantment \u2013 Aura",
+            "type": "Enchantment \u2014 Aura",
             "number": 175,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -997,14 +954,13 @@
             "loyalty": "",
             "artist": "Rick Troula",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Grueling, Anticipation",
             "color": "UB",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Horror Avatar",
+            "type": "Legendary Creature \u2014 Horror Avatar",
             "number": 215,
             "color_identity": "UB",
             "cost": "{3}{U}{B}",
@@ -1017,14 +973,13 @@
             "loyalty": "",
             "artist": "Marcin Tyrakowski",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Mountainside Predator",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Dragon",
+            "type": "Creature \u2014 Dragon",
             "number": 146,
             "color_identity": "R",
             "cost": "{4}{R}{R}",
@@ -1037,14 +992,13 @@
             "loyalty": "",
             "artist": "Satoru Wada",
             "alias": "",
-            "notes": "prev: While fearsome, dragons can be felled. However, to suggest the same of The Tyrant is unthinkable.",
-            "image_type": "png"
+            "notes": "prev: While fearsome, dragons can be felled. However, to suggest the same of The Tyrant is unthinkable."
         },
         {
             "card_name": "Self-Doubt",
             "color": "B",
             "rarity": "common",
-            "type": "Enchantment \u2013 Aura",
+            "type": "Enchantment \u2014 Aura",
             "number": 114,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -1057,14 +1011,13 @@
             "loyalty": "",
             "artist": "Christophe Vacher",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Domineering Regent",
             "color": "R",
             "rarity": "rare",
-            "type": "Creature \u2013 Dragon",
+            "type": "Creature \u2014 Dragon",
             "number": 123,
             "color_identity": "R",
             "cost": "{4}{R}{R}",
@@ -1077,14 +1030,13 @@
             "loyalty": "",
             "artist": "Anthony Catillaz",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Pathseeker",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Horror",
+            "type": "Creature \u2014 Horror",
             "number": 183,
             "color_identity": "G",
             "cost": "{2}{G}{G}",
@@ -1097,8 +1049,7 @@
             "loyalty": "",
             "artist": "Luka Brico",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Death Unto Death",
@@ -1117,8 +1068,7 @@
             "loyalty": "",
             "artist": "Calder Moore",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Thought Unto Thought",
@@ -1137,8 +1087,7 @@
             "loyalty": "",
             "artist": "Darren Paul Lewis",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Life Unto Life",
@@ -1157,8 +1106,7 @@
             "loyalty": "",
             "artist": "Jaromir Hrivnac",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Pure Flame",
@@ -1177,14 +1125,13 @@
             "loyalty": "",
             "artist": "Xebelion",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Rouse Ancient Strength",
             "color": "G",
             "rarity": "rare",
-            "type": "Enchantment \u2013 Aura",
+            "type": "Enchantment \u2014 Aura",
             "number": 185,
             "color_identity": "G",
             "cost": "{4}{G}{G}{G}",
@@ -1197,8 +1144,7 @@
             "loyalty": "",
             "artist": "Kitt Lape\u00f1a",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Establish Hierarchy",
@@ -1217,14 +1163,13 @@
             "loyalty": "",
             "artist": "Imad Awan",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Vindictive Angel",
             "color": "WB",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Angel",
+            "type": "Creature \u2014 Angel",
             "number": 231,
             "color_identity": "WB",
             "cost": "{1}{W}{B}",
@@ -1237,14 +1182,13 @@
             "loyalty": "",
             "artist": "Grim Gaze Galleries \u9670\u7768\u753b\u5eca",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Marked by the Night",
             "color": "B",
             "rarity": "rare",
-            "type": "Enchantment \u2013 Aura",
+            "type": "Enchantment \u2014 Aura",
             "number": 102,
             "color_identity": "B",
             "cost": "{B}",
@@ -1257,14 +1201,13 @@
             "loyalty": "",
             "artist": "Federico Cimini",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Piercing Gaze",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Enchantment \u2013 Aura Curse",
+            "type": "Enchantment \u2014 Aura Curse",
             "number": 109,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -1277,14 +1220,13 @@
             "loyalty": "",
             "artist": "Wolperndath",
             "alias": "",
-            "notes": "prev: With clear sight, the mind of a Cyclopes is unburdened from worldly duplicity.\nprev: A single eye sees truth when two do not.",
-            "image_type": "png"
+            "notes": "prev: With clear sight, the mind of a Cyclopes is unburdened from worldly duplicity.\nprev: A single eye sees truth when two do not."
         },
         {
             "card_name": "Long Lived Scuttler",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Crab Horror",
+            "type": "Creature \u2014 Crab Horror",
             "number": 60,
             "color_identity": "U",
             "cost": "{4}{U}{U}",
@@ -1297,14 +1239,13 @@
             "loyalty": "",
             "artist": "Francisco Chinchilla",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Perverse Learner",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Insect Horror",
+            "type": "Creature \u2014 Insect Horror",
             "number": 65,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -1317,8 +1258,7 @@
             "loyalty": "",
             "artist": "Antonio J. Manzanedo",
             "alias": "",
-            "notes": "prev: Seeking essence, yet never found.",
-            "image_type": "png"
+            "notes": "prev: Seeking essence, yet never found."
         },
         {
             "card_name": "Angelic Dwellings",
@@ -1337,14 +1277,13 @@
             "loyalty": "",
             "artist": "Flora Silve",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Watching, Emptiness",
             "color": "G",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Human Avatar",
+            "type": "Legendary Creature \u2014 Human Avatar",
             "number": 194,
             "color_identity": "G",
             "cost": "{1}{G}{G}",
@@ -1357,14 +1296,13 @@
             "loyalty": "",
             "artist": "Andy Aslamov",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Hopeless Sinner",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Angel Horror",
+            "type": "Creature \u2014 Angel Horror",
             "number": 96,
             "color_identity": "B",
             "cost": "{3}{B}{B}",
@@ -1377,14 +1315,13 @@
             "loyalty": "",
             "artist": "Asya Yordanova",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Vacant, Indecision",
             "color": "",
             "rarity": "uncommon",
-            "type": "Legendary Creature \u2013 Horror Avatar",
+            "type": "Legendary Creature \u2014 Horror Avatar",
             "number": 1,
             "color_identity": "C",
             "cost": "{3}",
@@ -1397,8 +1334,7 @@
             "loyalty": "",
             "artist": "Asya Yordanova",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Beseech the Waves",
@@ -1417,14 +1353,13 @@
             "loyalty": "",
             "artist": "Col Price",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "The Dreamer, Ideoclast",
             "color": "R",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Human",
+            "type": "Legendary Creature \u2014 Human",
             "number": 126,
             "color_identity": "R",
             "cost": "{R}",
@@ -1437,14 +1372,13 @@
             "loyalty": "",
             "artist": "Matthew Derrick",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Resting Vanguard",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Human Scout",
+            "type": "Creature \u2014 Human Scout",
             "number": 28,
             "color_identity": "W",
             "cost": "{3}{W}",
@@ -1457,14 +1391,13 @@
             "loyalty": "",
             "artist": "MIRRA KAN | Servia D.",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Banished Heretic",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Alien Scout",
+            "type": "Creature \u2014 Alien Scout",
             "number": 161,
             "color_identity": "G",
             "cost": "{5}{G}",
@@ -1477,14 +1410,13 @@
             "loyalty": "",
             "artist": "Lumen Hestoire",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Tunnel Pincer",
             "color": "BR",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Insect",
+            "type": "Creature \u2014 Insect",
             "number": 230,
             "color_identity": "BR",
             "cost": "{2}{B}{R}",
@@ -1497,14 +1429,13 @@
             "loyalty": "",
             "artist": "Thomas Ricci",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Mental Shaper",
             "color": "UB",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Horror Shaman",
+            "type": "Creature \u2014 Horror Shaman",
             "number": 217,
             "color_identity": "UB",
             "cost": "{U}{B}",
@@ -1517,14 +1448,13 @@
             "loyalty": "",
             "artist": "Sebastian Barth",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Listless Pollinator",
             "color": "UG",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Insect",
+            "type": "Creature \u2014 Insect",
             "number": 216,
             "color_identity": "UG",
             "cost": "{G}{U}",
@@ -1537,14 +1467,13 @@
             "loyalty": "",
             "artist": "Ivan Jengi\u0107",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Bearer of Natural Whims",
             "color": "RG",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Boar",
+            "type": "Creature \u2014 Boar",
             "number": 200,
             "color_identity": "RG",
             "cost": "{3}{R}{G}",
@@ -1557,14 +1486,13 @@
             "loyalty": "",
             "artist": "Gauvin REMY",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Blessed Vanguard",
             "color": "WG",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Scout",
+            "type": "Creature \u2014 Human Scout",
             "number": 201,
             "color_identity": "WG",
             "cost": "{3}{G}{W}",
@@ -1577,14 +1505,13 @@
             "loyalty": "",
             "artist": "Daria Naumova",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Caller of the Ideal",
             "color": "BG",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Shaman",
+            "type": "Creature \u2014 Human Shaman",
             "number": 203,
             "color_identity": "BG",
             "cost": "{B}{G}",
@@ -1597,14 +1524,13 @@
             "loyalty": "",
             "artist": "Anton Medvedev",
             "alias": "",
-            "notes": "prev: Doubt asks many questions and consumes all of the self. Truth asks no questions and fortifies the self.",
-            "image_type": "png"
+            "notes": "prev: Doubt asks many questions and consumes all of the self. Truth asks no questions and fortifies the self."
         },
         {
             "card_name": "Height of Communion",
             "color": "G",
             "rarity": "common",
-            "type": "Enchantment \u2013 Aura",
+            "type": "Enchantment \u2014 Aura",
             "number": 173,
             "color_identity": "G",
             "cost": "{3}{G}{G}",
@@ -1617,14 +1543,13 @@
             "loyalty": "",
             "artist": "Rick Troula",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Scout's Demise",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Dragon",
+            "type": "Creature \u2014 Dragon",
             "number": 152,
             "color_identity": "R",
             "cost": "{4}{R}",
@@ -1637,8 +1562,7 @@
             "loyalty": "",
             "artist": "Antonio J. Manzanedo",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Channel of Instability",
@@ -1657,8 +1581,7 @@
             "loyalty": "",
             "artist": "Timi Honkanen",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Diminish to Humanity",
@@ -1668,7 +1591,7 @@
             "number": 12,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Choose one \u2013\n\u2022 Destroy target creature with power 2 or less.\n\u2022 Destroy target Equipment.\n\u2022 Destroy target Aura.",
+            "rules_text": "Choose one \u2014\n\u2022 Destroy target creature with power 2 or less.\n\u2022 Destroy target Equipment.\n\u2022 Destroy target Aura.",
             "flavor_text": "[i]\u201cMan dresses up in armors and ideals, yet there is no compare to angelic glory.\u201d[/i]",
             "pt": "",
             "special_text": "",
@@ -1677,14 +1600,13 @@
             "loyalty": "",
             "artist": "Dominik Mayer",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Deadpit Swarm",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Insect",
+            "type": "Creature \u2014 Insect",
             "number": 86,
             "color_identity": "B",
             "cost": "{2}{B}",
@@ -1697,14 +1619,13 @@
             "loyalty": "",
             "artist": "Skeletonid",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Second Chances",
             "color": "BG",
             "rarity": "uncommon",
-            "type": "Enchantment \u2013 Aura",
+            "type": "Enchantment \u2014 Aura",
             "number": 227,
             "color_identity": "BG",
             "cost": "{2}{B}{G}",
@@ -1717,14 +1638,13 @@
             "loyalty": "",
             "artist": "Julianna Draga",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Jewel Bug",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Insect",
+            "type": "Creature \u2014 Insect",
             "number": 177,
             "color_identity": "G",
             "cost": "{G}",
@@ -1737,14 +1657,13 @@
             "loyalty": "",
             "artist": "Maciej Ptasinski",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Stumbling Walker",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Horror",
+            "type": "Creature \u2014 Horror",
             "number": 117,
             "color_identity": "B",
             "cost": "{2}{B}",
@@ -1757,14 +1676,13 @@
             "loyalty": "",
             "artist": "Jesse Keisala",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Depraved Mind",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Horror",
+            "type": "Creature \u2014 Horror",
             "number": 90,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -1777,8 +1695,7 @@
             "loyalty": "",
             "artist": "Jesse Keisala",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Mortal Insight",
@@ -1797,8 +1714,7 @@
             "loyalty": "",
             "artist": "Louise Goalby",
             "alias": "",
-            "notes": "prev: The beasts know the world is still in motion. But what is the drift of the land to those who take such small steps?",
-            "image_type": "png"
+            "notes": "prev: The beasts know the world is still in motion. But what is the drift of the land to those who take such small steps?"
         },
         {
             "card_name": "Reckon the Past",
@@ -1817,8 +1733,7 @@
             "loyalty": "",
             "artist": "Joseph Richard",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Piercing Thoughts",
@@ -1837,14 +1752,13 @@
             "loyalty": "",
             "artist": "Cecilie Noctique",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Skyblessed Traveler",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Human Scout",
+            "type": "Creature \u2014 Human Scout",
             "number": 188,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -1857,14 +1771,13 @@
             "loyalty": "",
             "artist": "SephiriaArts",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Experienced Plotter",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Human Scout",
+            "type": "Creature \u2014 Human Scout",
             "number": 170,
             "color_identity": "G",
             "cost": "{3}{G}",
@@ -1877,8 +1790,7 @@
             "loyalty": "",
             "artist": "jacquelin villagomez",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Enigmatic Encounter",
@@ -1897,8 +1809,7 @@
             "loyalty": "",
             "artist": "Joseph Feely",
             "alias": "",
-            "notes": "flash",
-            "image_type": "png"
+            "notes": "flash"
         },
         {
             "card_name": "Mourning Stone",
@@ -1917,14 +1828,13 @@
             "loyalty": "",
             "artist": "Martin Maravattickal",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Barrenland Pest",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Insect",
+            "type": "Creature \u2014 Insect",
             "number": 81,
             "color_identity": "B",
             "cost": "{B}",
@@ -1937,14 +1847,13 @@
             "loyalty": "",
             "artist": "Vladimir Matyukhin",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Nascent Spawn",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Insect",
+            "type": "Creature \u2014 Insect",
             "number": 104,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -1957,8 +1866,7 @@
             "loyalty": "",
             "artist": "Sebastian Barth",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Lurid Lucidity",
@@ -1977,14 +1885,13 @@
             "loyalty": "",
             "artist": "Julianna Draga",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Weary Soldier",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Human Soldier",
+            "type": "Creature \u2014 Human Soldier",
             "number": 38,
             "color_identity": "W",
             "cost": "{W}",
@@ -1997,14 +1904,13 @@
             "loyalty": "",
             "artist": "Julianna Draga",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Determined Veteran",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Human Scout",
+            "type": "Creature \u2014 Human Scout",
             "number": 167,
             "color_identity": "G",
             "cost": "{3}{G}",
@@ -2017,14 +1923,13 @@
             "loyalty": "",
             "artist": "Arthur Parreira",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Communed Hunter",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Scout",
+            "type": "Creature \u2014 Human Scout",
             "number": 164,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -2037,14 +1942,13 @@
             "loyalty": "",
             "artist": "Limooon228",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Among the Greenery",
             "color": "G",
             "rarity": "common",
-            "type": "Enchantment \u2013 Aura",
+            "type": "Enchantment \u2014 Aura",
             "number": 160,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -2057,14 +1961,13 @@
             "loyalty": "",
             "artist": "Shannon Nichols",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Astrayed Wisps",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Horror Scout",
+            "type": "Creature \u2014 Horror Scout",
             "number": 6,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -2077,14 +1980,13 @@
             "loyalty": "",
             "artist": "Moonroot Art",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Passive Witness",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Human",
+            "type": "Creature \u2014 Human",
             "number": 107,
             "color_identity": "B",
             "cost": "{3}{B}",
@@ -2097,14 +1999,13 @@
             "loyalty": "",
             "artist": "Ira Robinson",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Deluded Angel",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Angel Horror",
+            "type": "Creature \u2014 Angel Horror",
             "number": 89,
             "color_identity": "B",
             "cost": "{3}{B}",
@@ -2117,14 +2018,13 @@
             "loyalty": "",
             "artist": "Vladimir Matyukhin",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Lapse of Self",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Enchantment \u2013 Aura",
+            "type": "Enchantment \u2014 Aura",
             "number": 100,
             "color_identity": "B",
             "cost": "{3}{B}{B}",
@@ -2137,14 +2037,13 @@
             "loyalty": "",
             "artist": "Antonio Opel",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Anro, Life's Lieutenant",
             "color": "WB",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Angel",
+            "type": "Legendary Creature \u2014 Angel",
             "number": 199,
             "color_identity": "WB",
             "cost": "{3}{W}{B}",
@@ -2157,8 +2056,7 @@
             "loyalty": "",
             "artist": "oscar perez",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Foreboding Shoreline",
@@ -2177,8 +2075,7 @@
             "loyalty": "",
             "artist": "Andy Walsh",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Environmental Selection",
@@ -2197,14 +2094,13 @@
             "loyalty": "",
             "artist": "Julie Sakai",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Patient Fishers",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Bird",
+            "type": "Creature \u2014 Bird",
             "number": 64,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -2217,14 +2113,13 @@
             "loyalty": "",
             "artist": "Lukas Hefti",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Soaring Ligaments",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Jellyfish Horror",
+            "type": "Creature \u2014 Jellyfish Horror",
             "number": 70,
             "color_identity": "U",
             "cost": "{U}",
@@ -2237,14 +2132,13 @@
             "loyalty": "",
             "artist": "Pietro Napoleone",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Unnerving Lunatic",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human",
+            "type": "Creature \u2014 Human",
             "number": 77,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -2257,14 +2151,13 @@
             "loyalty": "",
             "artist": "Guilo",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Unfulfilled Seeker",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Horror Scout",
+            "type": "Creature \u2014 Horror Scout",
             "number": 76,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -2277,14 +2170,13 @@
             "loyalty": "",
             "artist": "Maik Beiersdorf",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Wanderer's Trinkets",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Artifact \u2013 Equipment",
+            "type": "Artifact \u2014 Equipment",
             "number": 78,
             "color_identity": "U",
             "cost": "{3}{U}{U}",
@@ -2297,8 +2189,7 @@
             "loyalty": "",
             "artist": "Ryan T. Hancock",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Contemplate Insanity",
@@ -2317,14 +2208,13 @@
             "loyalty": "",
             "artist": "Antip",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Ghastly Mind",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Human",
+            "type": "Creature \u2014 Human",
             "number": 133,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -2337,8 +2227,7 @@
             "loyalty": "",
             "artist": "J Edward Neill",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Watch the Wildlife",
@@ -2357,14 +2246,13 @@
             "loyalty": "",
             "artist": "Natalia Bokova",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Foul Omen Fishers",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Bird",
+            "type": "Creature \u2014 Bird",
             "number": 57,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -2377,14 +2265,13 @@
             "loyalty": "",
             "artist": "Noah Stacey",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Timid Scout",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Human Scout",
+            "type": "Creature \u2014 Human Scout",
             "number": 72,
             "color_identity": "U",
             "cost": "{3}{U}",
@@ -2397,8 +2284,7 @@
             "loyalty": "",
             "artist": "Florian Herold",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Place Among the Stars",
@@ -2417,14 +2303,13 @@
             "loyalty": "",
             "artist": "Max Elmberg Sj\u00f6holm",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Soulful Flower",
             "color": "W",
             "rarity": "common",
-            "type": "Artifact \u2013 Equipment",
+            "type": "Artifact \u2014 Equipment",
             "number": 33,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -2437,8 +2322,7 @@
             "loyalty": "",
             "artist": "Sharon Audrey",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Drink of the World",
@@ -2457,14 +2341,13 @@
             "loyalty": "",
             "artist": "J Edward Neill",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Essencelessness",
             "color": "U",
             "rarity": "common",
-            "type": "Enchantment \u2013 Aura",
+            "type": "Enchantment \u2014 Aura",
             "number": 52,
             "color_identity": "U",
             "cost": "{U}",
@@ -2477,14 +2360,13 @@
             "loyalty": "",
             "artist": "J Edward Neill",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Advance Party",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Scout",
+            "type": "Creature \u2014 Human Scout",
             "number": 2,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -2497,14 +2379,13 @@
             "loyalty": "",
             "artist": "Elena Shvetsova",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Bloodied Armor",
             "color": "W",
             "rarity": "common",
-            "type": "Artifact \u2013 Equipment",
+            "type": "Artifact \u2014 Equipment",
             "number": 9,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -2517,14 +2398,13 @@
             "loyalty": "",
             "artist": "Daniel Brewer",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Angelic Tactician",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Angel Soldier",
+            "type": "Creature \u2014 Angel Soldier",
             "number": 5,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -2537,14 +2417,13 @@
             "loyalty": "",
             "artist": "Lu Calarota",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Bereaved Sanctifier",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Cleric",
+            "type": "Creature \u2014 Human Cleric",
             "number": 7,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -2557,8 +2436,7 @@
             "loyalty": "",
             "artist": "Florian Herold",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Quell Unrest",
@@ -2577,14 +2455,13 @@
             "loyalty": "",
             "artist": "Fran Vegas",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Cyclops",
             "color": "R",
             "rarity": "common",
-            "type": "Token Creature \u2013 Cyclops",
+            "type": "Token Creature \u2014 Cyclops",
             "number": 5,
             "color_identity": "R",
             "cost": "",
@@ -2597,14 +2474,13 @@
             "loyalty": "",
             "artist": "Sam Perin",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Beast",
             "color": "G",
             "rarity": "common",
-            "type": "Token Creature \u2013 Beast",
+            "type": "Token Creature \u2014 Beast",
             "number": 6,
             "color_identity": "G",
             "cost": "",
@@ -2617,14 +2493,13 @@
             "loyalty": "",
             "artist": "Tomasz Ryger",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Horror",
             "color": "U",
             "rarity": "common",
-            "type": "Token Creature \u2013 Horror",
+            "type": "Token Creature \u2014 Horror",
             "number": 4,
             "color_identity": "U",
             "cost": "",
@@ -2637,8 +2512,7 @@
             "loyalty": "",
             "artist": "Alex Kuhn",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Failure of Piety",
@@ -2657,14 +2531,13 @@
             "loyalty": "",
             "artist": "Bree H F Jammet",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Scout",
             "color": "G",
             "rarity": "common",
-            "type": "Token Creature \u2013 Scout",
+            "type": "Token Creature \u2014 Scout",
             "number": 9,
             "color_identity": "G",
             "cost": "",
@@ -2677,8 +2550,7 @@
             "loyalty": "",
             "artist": "Wesley Gardner",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Reckon Mortality",
@@ -2697,14 +2569,13 @@
             "loyalty": "",
             "artist": "Jasper Zhao",
             "alias": "",
-            "notes": "prev: Given a moment's rest the soldier realizes the enemy's horror is all too human.",
-            "image_type": "png"
+            "notes": "prev: Given a moment's rest the soldier realizes the enemy's horror is all too human."
         },
         {
             "card_name": "Soldier",
             "color": "W",
             "rarity": "common",
-            "type": "Token Creature \u2013 Soldier",
+            "type": "Token Creature \u2014 Soldier",
             "number": 2,
             "color_identity": "W",
             "cost": "",
@@ -2717,8 +2588,7 @@
             "loyalty": "",
             "artist": "Tomas Duchek",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Costly Victory",
@@ -2737,14 +2607,13 @@
             "loyalty": "",
             "artist": "Rayven Studios",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Solitary Thinker",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Human Horror",
+            "type": "Creature \u2014 Human Horror",
             "number": 153,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -2757,14 +2626,13 @@
             "loyalty": "",
             "artist": "Marcin Bicki",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Disposable Recruits",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Human Soldier",
+            "type": "Creature \u2014 Human Soldier",
             "number": 14,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -2777,8 +2645,7 @@
             "loyalty": "",
             "artist": "Rashed AlAkroka \u2726",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Raw Force",
@@ -2797,14 +2664,13 @@
             "loyalty": "",
             "artist": "Kelvin Liew",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Pretty Beetle",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Insect",
+            "type": "Creature \u2014 Insect",
             "number": 111,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -2817,18 +2683,17 @@
             "loyalty": "",
             "artist": "Foxofwonders",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Consumer of Continuum",
             "color": "B",
             "rarity": "rare",
-            "type": "Creature \u2013 Insect Horror",
+            "type": "Creature \u2014 Insect Horror",
             "number": 84,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "Ward\u2013Discard a card.\nWhenever Consumer of Continuum enters or attacks, exile up to one target card from a graveyard. If you've seen signs this turn, exile up to three target cards in graveyards instead. For each instant or sorcery card exiled this way, each opponent loses 1 life. [i](You've seen signs if two or more cards types entered your graveyard.)[/i]",
+            "rules_text": "Ward\u2014Discard a card.\nWhenever Consumer of Continuum enters or attacks, exile up to one target card from a graveyard. If you've seen signs this turn, exile up to three target cards in graveyards instead. For each instant or sorcery card exiled this way, each opponent loses 1 life. [i](You've seen signs if two or more cards types entered your graveyard.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -2837,14 +2702,13 @@
             "loyalty": "",
             "artist": "Bill Nuwen",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Bloodcrazed Slasher",
             "color": "B",
             "rarity": "rare",
-            "type": "Creature \u2013 Insect Berserker",
+            "type": "Creature \u2014 Insect Berserker",
             "number": 83,
             "color_identity": "B",
             "cost": "{3}{B}{B}",
@@ -2857,14 +2721,13 @@
             "loyalty": "",
             "artist": "Illya Starovoitenko",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Parasitic Swarm",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Insect Horror",
+            "type": "Creature \u2014 Insect Horror",
             "number": 106,
             "color_identity": "B",
             "cost": "{4}{B}",
@@ -2877,14 +2740,13 @@
             "loyalty": "",
             "artist": "Athavan(Ath)",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Deathshroud Beetle",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Insect",
+            "type": "Creature \u2014 Insect",
             "number": 88,
             "color_identity": "B",
             "cost": "{2}{B}",
@@ -2897,8 +2759,7 @@
             "loyalty": "",
             "artist": "Von Milano",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Purge Heretical Thoughts",
@@ -2917,14 +2778,13 @@
             "loyalty": "",
             "artist": "Maria Monticelli",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Fishing Rod",
             "color": "U",
             "rarity": "common",
-            "type": "Artifact \u2013 Equipment",
+            "type": "Artifact \u2014 Equipment",
             "number": 53,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -2937,14 +2797,13 @@
             "loyalty": "",
             "artist": "Anastasia Korzova",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Mindless Skimmer",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Horror",
+            "type": "Creature \u2014 Horror",
             "number": 61,
             "color_identity": "U",
             "cost": "{3}{U}",
@@ -2957,14 +2816,13 @@
             "loyalty": "",
             "artist": "Tarek Samaan",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Distant Expeditioner",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Human Scout",
+            "type": "Creature \u2014 Human Scout",
             "number": 50,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -2977,14 +2835,13 @@
             "loyalty": "",
             "artist": "Jakub Rozalski",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Discreet Messenger",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Human Rogue",
+            "type": "Creature \u2014 Human Rogue",
             "number": 49,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -2997,14 +2854,13 @@
             "loyalty": "",
             "artist": "Irvan Pradivta",
             "alias": "",
-            "notes": "fixfixfix",
-            "image_type": "png"
+            "notes": "fixfixfix"
         },
         {
             "card_name": "Traveler's Cloak",
             "color": "",
             "rarity": "common",
-            "type": "Artifact \u2013 Equipment",
+            "type": "Artifact \u2014 Equipment",
             "number": 238,
             "color_identity": "C",
             "cost": "{1}",
@@ -3017,14 +2873,13 @@
             "loyalty": "",
             "artist": "Galien",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Full Kit",
             "color": "",
             "rarity": "common",
-            "type": "Artifact \u2013 Equipment",
+            "type": "Artifact \u2014 Equipment",
             "number": 235,
             "color_identity": "C",
             "cost": "{3}",
@@ -3037,14 +2892,13 @@
             "loyalty": "",
             "artist": "Beto Lima",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Harmonious Beasts",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Shaman",
+            "type": "Creature \u2014 Human Shaman",
             "number": 172,
             "color_identity": "G",
             "cost": "{3}{G}",
@@ -3057,8 +2911,7 @@
             "loyalty": "",
             "artist": "\u0410\u043d\u044f \u0423\u0434\u043e\u0434",
             "alias": "",
-            "notes": "Artist: \u0410\u043d\u044f \u0423\u0434\u043e\u0434\nuser-6e0d319c87c63fc0.artstation.com",
-            "image_type": "png"
+            "notes": "Artist: \u0410\u043d\u044f \u0423\u0434\u043e\u0434\nuser-6e0d319c87c63fc0.artstation.com"
         },
         {
             "card_name": "Natural Ending",
@@ -3077,14 +2930,13 @@
             "loyalty": "",
             "artist": "Igor Dunaev",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Bitter Beetle",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Insect",
+            "type": "Creature \u2014 Insect",
             "number": 163,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -3097,8 +2949,7 @@
             "loyalty": "",
             "artist": "Janos Brumar",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Send Fishing",
@@ -3117,8 +2968,7 @@
             "loyalty": "",
             "artist": "Greg Rutkowski",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Singular Radiance",
@@ -3137,8 +2987,7 @@
             "loyalty": "",
             "artist": "Rochaku",
             "alias": "",
-            "notes": "story: \"In the beginning, there was victory.\"\nShe won, hence she was almighty.\nShe was almighty, hence she won.\nShe was almighty, hence she was almighty.",
-            "image_type": "png"
+            "notes": "story: \"In the beginning, there was victory.\"\nShe won, hence she was almighty.\nShe was almighty, hence she won.\nShe was almighty, hence she was almighty."
         },
         {
             "card_name": "Terramorphic Expanse",
@@ -3157,8 +3006,7 @@
             "loyalty": "",
             "artist": "Yanli Wang",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Grounding Stones",
@@ -3177,14 +3025,13 @@
             "loyalty": "",
             "artist": "Tony Le",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Weighted Armor",
             "color": "",
             "rarity": "rare",
-            "type": "Artifact \u2013 Equipment",
+            "type": "Artifact \u2014 Equipment",
             "number": 240,
             "color_identity": "C",
             "cost": "{2}",
@@ -3197,14 +3044,13 @@
             "loyalty": "",
             "artist": "Danerain",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Insectoid Spawner",
             "color": "B",
             "rarity": "mythic",
-            "type": "Creature \u2013 Insect",
+            "type": "Creature \u2014 Insect",
             "number": 98,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -3217,14 +3063,13 @@
             "loyalty": "",
             "artist": "SvS",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Muted Mutterer",
             "color": "U",
             "rarity": "mythic",
-            "type": "Creature \u2013 Horror",
+            "type": "Creature \u2014 Horror",
             "number": 62,
             "color_identity": "U",
             "cost": "{3}{U}",
@@ -3237,14 +3082,13 @@
             "loyalty": "",
             "artist": "Andrej Z.T.",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Vanguard's Light Armor",
             "color": "",
             "rarity": "uncommon",
-            "type": "Artifact \u2013 Equipment",
+            "type": "Artifact \u2014 Equipment",
             "number": 239,
             "color_identity": "C",
             "cost": "{2}",
@@ -3257,14 +3101,13 @@
             "loyalty": "",
             "artist": "Wesley Gardner",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Purging Blade",
             "color": "WU",
             "rarity": "uncommon",
-            "type": "Artifact \u2013 Equipment",
+            "type": "Artifact \u2014 Equipment",
             "number": 224,
             "color_identity": "WU",
             "cost": "{1}{W}{U}",
@@ -3277,14 +3120,13 @@
             "loyalty": "",
             "artist": "Jakub Jagoda",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Angelic Strikeleader",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Angel Soldier",
+            "type": "Creature \u2014 Angel Soldier",
             "number": 4,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -3297,14 +3139,13 @@
             "loyalty": "",
             "artist": "Manthos Lappas",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Strength's Tyranny",
             "color": "B",
             "rarity": "common",
-            "type": "Enchantment \u2013 Aura Curse",
+            "type": "Enchantment \u2014 Aura Curse",
             "number": 116,
             "color_identity": "B",
             "cost": "{2}{B}",
@@ -3317,14 +3158,13 @@
             "loyalty": "",
             "artist": "Imad Awan",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Indiscriminate Terror",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Dragon",
+            "type": "Creature \u2014 Dragon",
             "number": 138,
             "color_identity": "R",
             "cost": "{4}{R}{R}",
@@ -3337,8 +3177,7 @@
             "loyalty": "",
             "artist": "Krzysztof Porchowski Jr",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Abscond Mortal Limits",
@@ -3357,14 +3196,13 @@
             "loyalty": "",
             "artist": "Frostwork Chan",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Dragonfire Devoted",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Shaman",
+            "type": "Creature \u2014 Human Shaman",
             "number": 124,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -3377,14 +3215,13 @@
             "loyalty": "",
             "artist": "Ilya Vatutin",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Hulking Creeper",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Giant Horror",
+            "type": "Creature \u2014 Giant Horror",
             "number": 174,
             "color_identity": "G",
             "cost": "{5}{G}{G}",
@@ -3397,14 +3234,13 @@
             "loyalty": "",
             "artist": "Nino IS",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Intrusive Parasite",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Insect",
+            "type": "Creature \u2014 Insect",
             "number": 176,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -3417,14 +3253,13 @@
             "loyalty": "",
             "artist": "Rastislav Le",
             "alias": "",
-            "notes": "starred",
-            "image_type": "png"
+            "notes": "starred"
         },
         {
             "card_name": "Addled Flamechaser",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Human Soldier",
+            "type": "Creature \u2014 Human Soldier",
             "number": 121,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -3437,8 +3272,7 @@
             "loyalty": "",
             "artist": "EZ Holmes",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Fortunate Discovery",
@@ -3457,14 +3291,13 @@
             "loyalty": "",
             "artist": "Stephen Noble",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Unnatural Acceptance",
             "color": "G",
             "rarity": "common",
-            "type": "Enchantment \u2013 Aura",
+            "type": "Enchantment \u2014 Aura",
             "number": 190,
             "color_identity": "G",
             "cost": "{G}",
@@ -3477,8 +3310,7 @@
             "loyalty": "",
             "artist": "Asya Yordanova",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Show of Strength",
@@ -3497,14 +3329,13 @@
             "loyalty": "",
             "artist": "Ruslan",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Plains",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Plains",
+            "type": "Basic Land \u2014 Plains",
             "number": 250,
             "color_identity": "W",
             "cost": "",
@@ -3517,14 +3348,13 @@
             "loyalty": "",
             "artist": "Anthony Avon",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Island",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Island",
+            "type": "Basic Land \u2014 Island",
             "number": 251,
             "color_identity": "U",
             "cost": "",
@@ -3537,8 +3367,7 @@
             "loyalty": "",
             "artist": "Andrea Tarzia",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Treacherous Barrenlands",
@@ -3557,8 +3386,7 @@
             "loyalty": "",
             "artist": "Anthony Avon",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Resilient Scrubland",
@@ -3577,14 +3405,13 @@
             "loyalty": "",
             "artist": "Anthony Avon",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Perpetuous, Tenacity",
             "color": "WUB",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Angel Avatar",
+            "type": "Legendary Creature \u2014 Angel Avatar",
             "number": 221,
             "color_identity": "WUB",
             "cost": "{4}{W}{U}{B}",
@@ -3597,14 +3424,13 @@
             "loyalty": "",
             "artist": "Tomasz Ryger",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Blinding, Acceptance",
             "color": "W",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Bird Avatar",
+            "type": "Legendary Creature \u2014 Bird Avatar",
             "number": 8,
             "color_identity": "W",
             "cost": "{2}{W}{W}",
@@ -3617,14 +3443,13 @@
             "loyalty": "",
             "artist": "Cameron Suter",
             "alias": "",
-            "notes": "prev: Stare in awe, for it asks your attention.",
-            "image_type": "png"
+            "notes": "prev: Stare in awe, for it asks your attention."
         },
         {
             "card_name": "Yuil, Troubled Companion",
             "color": "R",
             "rarity": "rare",
-            "type": "Legendary Creature \u2013 Cyclops Monk",
+            "type": "Legendary Creature \u2014 Cyclops Monk",
             "number": 157,
             "color_identity": "R",
             "cost": "{1}{R}{R}",
@@ -3637,14 +3462,13 @@
             "loyalty": "",
             "artist": "Rayven Studios",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Essence Cloak",
             "color": "",
             "rarity": "rare",
-            "type": "Artifact \u2013 Equipment",
+            "type": "Artifact \u2014 Equipment",
             "number": 234,
             "color_identity": "C",
             "cost": "{2}",
@@ -3657,14 +3481,13 @@
             "loyalty": "",
             "artist": "Jakub Jagoda",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Passive, Witness",
             "color": "G",
             "rarity": "common",
-            "type": "Token Legendary Creature \u2013 Avatar",
+            "type": "Token Legendary Creature \u2014 Avatar",
             "number": 8,
             "color_identity": "G",
             "cost": "",
@@ -3677,14 +3500,13 @@
             "loyalty": "",
             "artist": "Ryan Anelowe",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Enchanted Prancer",
             "color": "UG",
             "rarity": "rare",
-            "type": "Creature \u2013 Human",
+            "type": "Creature \u2014 Human",
             "number": 212,
             "color_identity": "UG",
             "cost": "{2}{G}{U}",
@@ -3697,14 +3519,13 @@
             "loyalty": "",
             "artist": "Kirk DouPonce",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Amicable Traveler",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Human Scout",
+            "type": "Creature \u2014 Human Scout",
             "number": 159,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -3717,14 +3538,13 @@
             "loyalty": "",
             "artist": "Nathan Humphrey",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Regal Predator",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Dragon",
+            "type": "Creature \u2014 Dragon",
             "number": 150,
             "color_identity": "R",
             "cost": "{3}{R}{R}",
@@ -3737,14 +3557,13 @@
             "loyalty": "",
             "artist": "Coliandre",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Wavering Sanctifier",
             "color": "W",
             "rarity": "rare",
-            "type": "Creature \u2013 Human Cleric",
+            "type": "Creature \u2014 Human Cleric",
             "number": 37,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -3757,14 +3576,13 @@
             "loyalty": "",
             "artist": "Illarstration",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Instinctive Combatant",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Human Soldier",
+            "type": "Creature \u2014 Human Soldier",
             "number": 140,
             "color_identity": "R",
             "cost": "{3}{R}",
@@ -3777,14 +3595,13 @@
             "loyalty": "",
             "artist": "Samuele Omati",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Hero of the Plain",
             "color": "R",
             "rarity": "rare",
-            "type": "Creature \u2013 Angel Soldier",
+            "type": "Creature \u2014 Angel Soldier",
             "number": 135,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -3797,8 +3614,7 @@
             "loyalty": "",
             "artist": "Samson Castelino",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Foreboding Winds",
@@ -3817,14 +3633,13 @@
             "loyalty": "",
             "artist": "DegeneArt",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Sword of Solitary Expression",
             "color": "",
             "rarity": "rare",
-            "type": "Artifact \u2013 Equipment",
+            "type": "Artifact \u2014 Equipment",
             "number": 237,
             "color_identity": "C",
             "cost": "{1}",
@@ -3837,8 +3652,7 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Natural Bemusements",
@@ -3857,14 +3671,13 @@
             "loyalty": "",
             "artist": "Pedro H. Cardoso",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Bemusement",
             "color": "G",
             "rarity": "common",
-            "type": "Token Enchantment \u2013 Aura",
+            "type": "Token Enchantment \u2014 Aura",
             "number": 7,
             "color_identity": "G",
             "cost": "",
@@ -3877,8 +3690,7 @@
             "loyalty": "",
             "artist": "Aurora",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Dragonspotting",
@@ -3897,14 +3709,13 @@
             "loyalty": "",
             "artist": "Philipp A. Urlich",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Treasure",
             "color": "",
             "rarity": "common",
-            "type": "Token Artifact \u2013 Treasure",
+            "type": "Token Artifact \u2014 Treasure",
             "number": 10,
             "color_identity": "C",
             "cost": "",
@@ -3917,14 +3728,13 @@
             "loyalty": "",
             "artist": "Austin Hartell",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Lackadaisical Whelp",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Dragon",
+            "type": "Creature \u2014 Dragon",
             "number": 141,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -3937,14 +3747,13 @@
             "loyalty": "",
             "artist": "Agata Janicka",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Finder of Illuminated Ways",
             "color": "G",
             "rarity": "rare",
-            "type": "Creature \u2013 Human Scout",
+            "type": "Creature \u2014 Human Scout",
             "number": 171,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -3957,14 +3766,13 @@
             "loyalty": "",
             "artist": "Joanna Erbach",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Rallier's Plate",
             "color": "W",
             "rarity": "rare",
-            "type": "Artifact \u2013 Equipment",
+            "type": "Artifact \u2014 Equipment",
             "number": 26,
             "color_identity": "W",
             "cost": "{1}{W}{W}",
@@ -3977,14 +3785,13 @@
             "loyalty": "",
             "artist": "ozan erdi",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Deep Looker",
             "color": "U",
             "rarity": "rare",
-            "type": "Creature \u2013 Cyclops Horror",
+            "type": "Creature \u2014 Cyclops Horror",
             "number": 48,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -3997,18 +3804,17 @@
             "loyalty": "",
             "artist": "Pel-Mel",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Infirm Self",
             "color": "B",
             "rarity": "rare",
-            "type": "Creature \u2013 Human",
+            "type": "Creature \u2014 Human",
             "number": 97,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
-            "rules_text": "Menace\nWard\u2013Pay 4 life.\nAt the beginning of your end step, you may sacrifice Infirm Self. If you do, for each player with 10 or less life, create a X/X blue Horror creature token, where X is 11 minus their life total.",
+            "rules_text": "Menace\nWard\u2014Pay 4 life.\nAt the beginning of your end step, you may sacrifice Infirm Self. If you do, for each player with 10 or less life, create a X/X blue Horror creature token, where X is 11 minus their life total.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -4017,8 +3823,7 @@
             "loyalty": "",
             "artist": "Jakub Jagoda",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Woe's Grasp",
@@ -4037,14 +3842,13 @@
             "loyalty": "",
             "artist": "Grim Gaze Galleries \u9670\u7768\u753b\u5eca",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Unwavering Behemoth",
             "color": "G",
             "rarity": "mythic",
-            "type": "Creature \u2013 Horror",
+            "type": "Creature \u2014 Horror",
             "number": 191,
             "color_identity": "G",
             "cost": "{3}{G}{G}",
@@ -4057,14 +3861,13 @@
             "loyalty": "",
             "artist": "Alex Kuhn",
             "alias": "",
-            "notes": "prev: Change rejected for strength.\nprev:Strength is growth.",
-            "image_type": "png"
+            "notes": "prev: Change rejected for strength.\nprev:Strength is growth."
         },
         {
             "card_name": "Seeking Elk",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Elk Scout",
+            "type": "Creature \u2014 Elk Scout",
             "number": 186,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -4077,14 +3880,13 @@
             "loyalty": "",
             "artist": "Louise Goalby",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Culivator Grub",
             "color": "G",
             "rarity": "rare",
-            "type": "Creature \u2013 Insect",
+            "type": "Creature \u2014 Insect",
             "number": 165,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -4097,8 +3899,7 @@
             "loyalty": "",
             "artist": "Gilles TASSAN",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Birth Unto Birth",
@@ -4117,14 +3918,13 @@
             "loyalty": "",
             "artist": "kirinkarwai",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Wayward Journey",
             "color": "G",
             "rarity": "rare",
-            "type": "Enchantment \u2013 Aura",
+            "type": "Enchantment \u2014 Aura",
             "number": 196,
             "color_identity": "WG",
             "cost": "{G}{G}",
@@ -4137,8 +3937,7 @@
             "loyalty": "",
             "artist": "Adri\u00e0 Chamorro",
             "alias": "",
-            "notes": "prev:Loneliness is the harshest teacher.",
-            "image_type": "png"
+            "notes": "prev:Loneliness is the harshest teacher."
         },
         {
             "card_name": "Anguished Deadpit",
@@ -4157,14 +3956,13 @@
             "loyalty": "",
             "artist": "Laszlo Pinter",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Invasive Crawler",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Insect",
+            "type": "Creature \u2014 Insect",
             "number": 99,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
@@ -4177,14 +3975,13 @@
             "loyalty": "",
             "artist": "Kurt Stadther",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Domineering Parasite",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Insect Horror",
+            "type": "Creature \u2014 Insect Horror",
             "number": 168,
             "color_identity": "G",
             "cost": "{3}{G}{G}",
@@ -4197,14 +3994,13 @@
             "loyalty": "",
             "artist": "GavaemIN",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Compulsive Watcher",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Horror",
+            "type": "Creature \u2014 Horror",
             "number": 46,
             "color_identity": "U",
             "cost": "{3}{U}",
@@ -4217,8 +4013,7 @@
             "loyalty": "",
             "artist": "Peter Ocampo",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Change Lost to the Stars",
@@ -4237,14 +4032,13 @@
             "loyalty": "",
             "artist": "Andrej Z.T.",
             "alias": "",
-            "notes": "prev: But the world would not change.\nprev: The universe moves, yet the world stands still.",
-            "image_type": "png"
+            "notes": "prev: But the world would not change.\nprev: The universe moves, yet the world stands still."
         },
         {
             "card_name": "Illuminating Lantern",
             "color": "U",
             "rarity": "rare",
-            "type": "Artifact \u2013 Equipment",
+            "type": "Artifact \u2014 Equipment",
             "number": 58,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -4257,14 +4051,13 @@
             "loyalty": "",
             "artist": "Jonas Tollin Art",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Obsessive Seeker",
             "color": "U",
             "rarity": "rare",
-            "type": "Creature \u2013 Dragon Scout",
+            "type": "Creature \u2014 Dragon Scout",
             "number": 63,
             "color_identity": "U",
             "cost": "{1}{U}{U}",
@@ -4277,8 +4070,7 @@
             "loyalty": "",
             "artist": "Wouter Florusse",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Illuminated Thoughts",
@@ -4297,14 +4089,13 @@
             "loyalty": "",
             "artist": "Lydia Dimitriou",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Zealot's Lance",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Artifact \u2013 Equipment",
+            "type": "Artifact \u2014 Equipment",
             "number": 40,
             "color_identity": "W",
             "cost": "{2}{W}{W}",
@@ -4317,8 +4108,7 @@
             "loyalty": "",
             "artist": "Michael Gladigau",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Abandon Nagging Ideals",
@@ -4337,14 +4127,13 @@
             "loyalty": "",
             "artist": "Satchel Mulherin-Paquette",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Ventured Land",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Enchantment \u2013 Aura",
+            "type": "Enchantment \u2014 Aura",
             "number": 192,
             "color_identity": "G",
             "cost": "{G}",
@@ -4357,14 +4146,13 @@
             "loyalty": "",
             "artist": "Greg Rutkowski",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Fearless, Delusion",
             "color": "WG",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Scout Avatar",
+            "type": "Legendary Creature \u2014 Scout Avatar",
             "number": 213,
             "color_identity": "WG",
             "cost": "{1}{G}{W}",
@@ -4377,14 +4165,13 @@
             "loyalty": "",
             "artist": "Timi Honkanen",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Bound Seeker",
             "color": "W",
             "rarity": "rare",
-            "type": "Creature \u2013 Human Scout",
+            "type": "Creature \u2014 Human Scout",
             "number": 10,
             "color_identity": "W",
             "cost": "{W}",
@@ -4397,14 +4184,13 @@
             "loyalty": "",
             "artist": "Raja Nandepu",
             "alias": "",
-            "notes": "prev:Questions asked with no answer and a wistful hopelessness.",
-            "image_type": "png"
+            "notes": "prev:Questions asked with no answer and a wistful hopelessness."
         },
         {
             "card_name": "Slayer's Mantle",
             "color": "W",
             "rarity": "rare",
-            "type": "Artifact \u2013 Equipment",
+            "type": "Artifact \u2014 Equipment",
             "number": 31,
             "color_identity": "W",
             "cost": "{2}{W}{W}",
@@ -4417,14 +4203,13 @@
             "loyalty": "",
             "artist": "Chel illust.",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Nimble Pathfinder",
             "color": "G",
             "rarity": "rare",
-            "type": "Creature \u2013 Human Scout",
+            "type": "Creature \u2014 Human Scout",
             "number": 182,
             "color_identity": "G",
             "cost": "{3}{G}",
@@ -4437,14 +4222,13 @@
             "loyalty": "",
             "artist": "Giulia Costanzo",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Vicious Orator",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Bard",
+            "type": "Creature \u2014 Human Bard",
             "number": 35,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -4457,14 +4241,13 @@
             "loyalty": "",
             "artist": "Micah Allen",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Rallied Purifier",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Soldier",
+            "type": "Creature \u2014 Human Soldier",
             "number": 25,
             "color_identity": "W",
             "cost": "{W}",
@@ -4477,14 +4260,13 @@
             "loyalty": "",
             "artist": "Riana Moller",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Deathmarch Angel",
             "color": "WR",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Angel Soldier",
+            "type": "Creature \u2014 Angel Soldier",
             "number": 207,
             "color_identity": "WR",
             "cost": "{R}{W}",
@@ -4497,14 +4279,13 @@
             "loyalty": "",
             "artist": "Joon Ahn",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Impressionable Traveler",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Human Scout",
+            "type": "Creature \u2014 Human Scout",
             "number": 137,
             "color_identity": "R",
             "cost": "{R}",
@@ -4517,14 +4298,13 @@
             "loyalty": "",
             "artist": "Samuele Omati",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Dogmatic Tactician",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Soldier",
+            "type": "Creature \u2014 Human Soldier",
             "number": 15,
             "color_identity": "W",
             "cost": "{3}{W}{W}",
@@ -4537,14 +4317,13 @@
             "loyalty": "",
             "artist": "Anton Reyes",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Reckless Slayer",
             "color": "WR",
             "rarity": "rare",
-            "type": "Creature \u2013 Human Soldier",
+            "type": "Creature \u2014 Human Soldier",
             "number": 225,
             "color_identity": "WR",
             "cost": "{2}{R}{W}",
@@ -4557,8 +4336,7 @@
             "loyalty": "",
             "artist": "Samuele Omati",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Scouting Corridor",
@@ -4577,8 +4355,7 @@
             "loyalty": "",
             "artist": "Andreas Rocha",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Other Unto Other",
@@ -4597,14 +4374,13 @@
             "loyalty": "",
             "artist": "Eddie Churchwell",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Vengeful Purifier",
             "color": "W",
             "rarity": "rare",
-            "type": "Creature \u2013 Angel Soldier",
+            "type": "Creature \u2014 Angel Soldier",
             "number": 34,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -4617,8 +4393,7 @@
             "loyalty": "",
             "artist": "Josep Perez",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Reject the Premise",
@@ -4637,8 +4412,7 @@
             "loyalty": "",
             "artist": "Marcelo Orsi Blanco",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Dignity in Arms",
@@ -4657,14 +4431,13 @@
             "loyalty": "",
             "artist": "Raja Nandepu",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Dark Forest Hunter",
             "color": "G",
             "rarity": "rare",
-            "type": "Creature \u2013 Wolf",
+            "type": "Creature \u2014 Wolf",
             "number": 166,
             "color_identity": "G",
             "cost": "{G}",
@@ -4677,8 +4450,7 @@
             "loyalty": "",
             "artist": "Jordan Smajstrla",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Worldly Illogic",
@@ -4697,14 +4469,13 @@
             "loyalty": "",
             "artist": "Ismail Inceoglu",
             "alias": "",
-            "notes": "prev: Still it, or become engulfed.",
-            "image_type": "png"
+            "notes": "prev: Still it, or become engulfed."
         },
         {
             "card_name": "Forest",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Forest",
+            "type": "Basic Land \u2014 Forest",
             "number": 254,
             "color_identity": "G",
             "cost": "",
@@ -4717,14 +4488,13 @@
             "loyalty": "",
             "artist": "Artoast8P",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Mountain",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Mountain",
+            "type": "Basic Land \u2014 Mountain",
             "number": 253,
             "color_identity": "R",
             "cost": "",
@@ -4737,14 +4507,13 @@
             "loyalty": "",
             "artist": "Anthony Avon",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Swamp",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Swamp",
+            "type": "Basic Land \u2014 Swamp",
             "number": 252,
             "color_identity": "B",
             "cost": "",
@@ -4757,8 +4526,7 @@
             "loyalty": "",
             "artist": "Robert Simic",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Seek Lowly Ideals",
@@ -4777,14 +4545,13 @@
             "loyalty": "",
             "artist": "Alloll_Arts",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Coaxing Seraph",
             "color": "U",
             "rarity": "rare",
-            "type": "Creature \u2013 Angel Soldier",
+            "type": "Creature \u2014 Angel Soldier",
             "number": 45,
             "color_identity": "U",
             "cost": "{3}{U}{U}",
@@ -4797,14 +4564,13 @@
             "loyalty": "",
             "artist": "HopeVirtual",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Frightening Instructor",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Human Soldier",
+            "type": "Creature \u2014 Human Soldier",
             "number": 132,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -4817,8 +4583,7 @@
             "loyalty": "",
             "artist": "Mariam Ergemlidze",
             "alias": "",
-            "notes": "prev ad: Fear of both keeps the mind still.",
-            "image_type": "png"
+            "notes": "prev ad: Fear of both keeps the mind still."
         },
         {
             "card_name": "Act of Treason",
@@ -4837,14 +4602,13 @@
             "loyalty": "",
             "artist": "Antonio Opel",
             "alias": "",
-            "notes": "TBC",
-            "image_type": "png"
+            "notes": "TBC"
         },
         {
             "card_name": "Ruin of the Feeble",
             "color": "BR",
             "rarity": "rare",
-            "type": "Creature \u2013 Dragon",
+            "type": "Creature \u2014 Dragon",
             "number": 226,
             "color_identity": "BR",
             "cost": "{3}{B}{R}",
@@ -4857,14 +4621,13 @@
             "loyalty": "",
             "artist": "Satoru Wada",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Vuls, of Red Seas",
             "color": "R",
             "rarity": "rare",
-            "type": "Legendary Creature \u2013 Dragon",
+            "type": "Legendary Creature \u2014 Dragon",
             "number": 155,
             "color_identity": "R",
             "cost": "{2}{R}{R}",
@@ -4877,14 +4640,13 @@
             "loyalty": "",
             "artist": "Antonio J. Manzanedo",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Instigator's Mark",
             "color": "R",
             "rarity": "rare",
-            "type": "Enchantment \u2013 Aura",
+            "type": "Enchantment \u2014 Aura",
             "number": 139,
             "color_identity": "R",
             "cost": "{R}",
@@ -4897,14 +4659,13 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Uncertain, Doubt",
             "color": "U",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Human Avatar",
+            "type": "Legendary Creature \u2014 Human Avatar",
             "number": 75,
             "color_identity": "U",
             "cost": "{1}{U}{U}",
@@ -4917,14 +4678,13 @@
             "loyalty": "",
             "artist": "Nerval",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Absolute, Comprehension",
             "color": "U",
             "rarity": "common",
-            "type": "Token Legendary Creature \u2013 Octopus Avatar",
+            "type": "Token Legendary Creature \u2014 Octopus Avatar",
             "number": 3,
             "color_identity": "U",
             "cost": "",
@@ -4937,8 +4697,7 @@
             "loyalty": "",
             "artist": "Tasha Lowe",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Cull Infirmity",
@@ -4957,14 +4716,13 @@
             "loyalty": "",
             "artist": "Rochaku",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Cavern Terror",
             "color": "U",
             "rarity": "rare",
-            "type": "Creature \u2013 Insect Dragon Horror",
+            "type": "Creature \u2014 Insect Dragon Horror",
             "number": 44,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
@@ -4977,8 +4735,7 @@
             "loyalty": "",
             "artist": "Nino Is.",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Disjointed Manor",
@@ -4997,8 +4754,7 @@
             "loyalty": "",
             "artist": "Rick Hertel",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Tyrant's Peak",
@@ -5017,14 +4773,13 @@
             "loyalty": "",
             "artist": "Kitt Lape\u00f1a",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Forbidden, Potential",
             "color": "B",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Human Avatar",
+            "type": "Legendary Creature \u2014 Human Avatar",
             "number": 95,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -5037,8 +4792,7 @@
             "loyalty": "",
             "artist": "YUHANG",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Tread Water",
@@ -5057,14 +4811,13 @@
             "loyalty": "",
             "artist": "Ludovic Jordier",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Dias, Storied Apocalypse",
             "color": "B",
             "rarity": "mythic",
-            "type": "Legendary Planeswalker \u2013 Dias",
+            "type": "Legendary Planeswalker \u2014 Dias",
             "number": 91,
             "color_identity": "B",
             "cost": "{3}{B}{B}{B}",
@@ -5077,14 +4830,13 @@
             "loyalty": "4",
             "artist": "Erskine",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Pious Inhibitor",
             "color": "WU",
             "rarity": "rare",
-            "type": "Creature \u2013 Angel Cleric",
+            "type": "Creature \u2014 Angel Cleric",
             "number": 222,
             "color_identity": "WU",
             "cost": "{1}{W}{U}",
@@ -5097,8 +4849,7 @@
             "loyalty": "",
             "artist": "Anthony Catillaz",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Pure Form",
@@ -5117,8 +4868,7 @@
             "loyalty": "",
             "artist": "Rochaku",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Overbearing Majesty",
@@ -5137,8 +4887,7 @@
             "loyalty": "",
             "artist": "Adri\u00e0 Chamorro",
             "alias": "",
-            "notes": "prev: Worship grants awesome majesty.\nprev: Divinity cleanses all sin.\nprev: Divinity watches even in Her absence.",
-            "image_type": "png"
+            "notes": "prev: Worship grants awesome majesty.\nprev: Divinity cleanses all sin.\nprev: Divinity watches even in Her absence."
         },
         {
             "card_name": "Wade Through Starlight",
@@ -5157,14 +4906,13 @@
             "loyalty": "",
             "artist": "Kyle Pearson",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Departed Existence",
             "color": "UB",
             "rarity": "rare",
-            "type": "Artifact \u2013 Equipment",
+            "type": "Artifact \u2014 Equipment",
             "number": 208,
             "color_identity": "UB",
             "cost": "{U}{B}",
@@ -5177,14 +4925,13 @@
             "loyalty": "",
             "artist": "Kit Curry O'Connell",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Vinza, Adamant Firebrand",
             "color": "WR",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Angel Soldier",
+            "type": "Legendary Creature \u2014 Angel Soldier",
             "number": 232,
             "color_identity": "WR",
             "cost": "{3}{R}{W}",
@@ -5197,8 +4944,7 @@
             "loyalty": "",
             "artist": "Billy Christian",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Dreams Beyond the End",
@@ -5217,8 +4963,7 @@
             "loyalty": "",
             "artist": "Tin-ling Liu",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Unfortunate Encounter",
@@ -5237,14 +4982,13 @@
             "loyalty": "",
             "artist": "Tatii Lange",
             "alias": "",
-            "notes": "starred",
-            "image_type": "png"
+            "notes": "starred"
         },
         {
             "card_name": "Fanatical Charger",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Soldier",
+            "type": "Creature \u2014 Human Soldier",
             "number": 130,
             "color_identity": "R",
             "cost": "{3}{R}",
@@ -5257,14 +5001,13 @@
             "loyalty": "",
             "artist": "Grant Griffin",
             "alias": "",
-            "notes": "fixfixfix",
-            "image_type": "png"
+            "notes": "fixfixfix"
         },
         {
             "card_name": "Hateful Hunter",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Human Warrior",
+            "type": "Creature \u2014 Human Warrior",
             "number": 134,
             "color_identity": "R",
             "cost": "{4}{R}",
@@ -5277,8 +5020,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         }
     ]
 }

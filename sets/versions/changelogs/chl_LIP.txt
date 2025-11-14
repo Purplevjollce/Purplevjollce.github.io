@@ -1,4 +1,242 @@
-﻿VERSION 15 CHANGELOG
+﻿VERSION 16 CHANGELOG
+====================
+
+Hateful Hunter added.
+
+
+Descent from Divinity
+
+Wasteland Crier
+
+Lurid Battlemaster
+
+Resigned Vanguard
+
+Absolver of Transgression
+
+Brutality's Way
+
+Display of Valor
+
+Roaming Grizzly
+
+Imperious, Demand
+
+Merry Meetings
+
+Seer of Loosened Reality
+
+Way of the World
+
+Mystic Communion
+
+Nature's Call
+
+Territorial Strike
+
+Simple Majesty
+
+Narrow Sanity
+
+Angel of Natural Guise
+
+Gaiety
+
+Hunter's Tactics
+
+Grueling, Anticipation
+
+Mountainside Predator
+
+Pathseeker
+
+Life Unto Life
+
+Pure Flame
+
+Rouse Ancient Strength
+
+Vindictive Angel
+
+Angelic Dwellings
+
+Watching, Emptiness
+
+Banished Heretic
+
+Tunnel Pincer
+
+Mental Shaper
+
+Listless Pollinator
+
+Bearer of Natural Whims
+
+Blessed Vanguard
+
+Caller of the Ideal
+
+Height of Communion
+
+Scout's Demise
+
+Channel of Instability
+
+Second Chances
+
+Jewel Bug
+
+Mortal Insight
+
+Skyblessed Traveler
+
+Experienced Plotter
+
+Enigmatic Encounter
+
+Mourning Stone
+
+Lurid Lucidity
+
+Determined Veteran
+
+Communed Hunter
+
+Among the Greenery
+
+Anro, Life's Lieutenant
+
+Foreboding Shoreline
+
+Watch the Wildlife
+
+Place Among the Stars
+
+Solitary Thinker
+
+Raw Force
+
+Purge Heretical Thoughts
+
+Traveler's Cloak
+
+Full Kit
+
+Harmonious Beasts
+
+Natural Ending
+
+Bitter Beetle
+
+Terramorphic Expanse
+
+Grounding Stones
+
+Weighted Armor
+
+Vanguard's Light Armor
+
+Purging Blade
+
+Indiscriminate Terror
+
+Abscond Mortal Limits
+
+Hulking Creeper
+
+Intrusive Parasite
+
+Unnatural Acceptance
+
+Show of Strength
+
+Treacherous Barrenlands
+
+Resilient Scrubland
+
+Perpetuous, Tenacity
+
+Yuil, Troubled Companion
+
+Essence Cloak
+
+Enchanted Prancer
+
+Amicable Traveler
+
+Regal Predator
+
+Instinctive Combatant
+pt: 4/3 => 3/3
+
+Hero of the Plain
+
+Sword of Solitary Expression
+
+Natural Bemusements
+
+Lackadaisical Whelp
+
+Finder of Illuminated Ways
+
+Woe's Grasp
+
+Unwavering Behemoth
+
+Seeking Elk
+
+Culivator Grub
+
+Birth Unto Birth
+
+Wayward Journey
+
+Anguished Deadpit
+
+Domineering Parasite
+
+Change Lost to the Stars
+
+Ventured Land
+
+Fearless, Delusion
+
+Nimble Pathfinder
+
+Deathmarch Angel
+
+Impressionable Traveler
+
+Reckless Slayer
+
+Scouting Corridor
+
+Dignity in Arms
+
+Dark Forest Hunter
+
+Ruin of the Feeble
+
+Vuls, of Red Seas
+
+Instigator's Mark
+
+Cull Infirmity
+
+Disjointed Manor
+
+Tyrant's Peak
+
+Pious Inhibitor
+
+Departed Existence
+
+Vinza, Adamant Firebrand
+
+Unfortunate Encounter
+
+
+VERSION 15 CHANGELOG
 ====================
 
 Intrusive Parasite added.
