@@ -1,4 +1,12 @@
-﻿VERSION 16 CHANGELOG
+﻿VERSION 17 CHANGELOG
+====================
+
+
+
+Hateful Hunter
+
+
+VERSION 16 CHANGELOG
 ====================
 
 Hateful Hunter added.
