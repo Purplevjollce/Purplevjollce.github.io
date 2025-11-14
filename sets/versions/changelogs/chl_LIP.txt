@@ -1,4 +1,208 @@
-﻿VERSION 14 CHANGELOG
+﻿VERSION 15 CHANGELOG
+====================
+
+Intrusive Parasite added.
+
+Relaxed Admirer removed.
+Truthseeker removed.
+
+Descent from Divinity
+
+Wasteland Crier
+
+Absolver of Transgression
+
+Brutality's Way
+
+Display of Valor
+
+Roaming Grizzly
+
+Seer of Loosened Reality
+
+Way of the World
+
+Territorial Strike
+
+Simple Majesty
+
+Narrow Sanity
+
+Angel of Natural Guise
+
+Gaiety
+
+Hunter's Tactics
+
+Grueling, Anticipation
+
+Mountainside Predator
+
+Rouse Ancient Strength
+
+Vindictive Angel
+
+Angelic Dwellings
+
+Watching, Emptiness
+
+Banished Heretic
+
+Tunnel Pincer
+
+Mental Shaper
+
+Listless Pollinator
+
+Bearer of Natural Whims
+
+Blessed Vanguard
+
+Caller of the Ideal
+
+Height of Communion
+
+Channel of Instability
+
+Second Chances
+
+Mortal Insight
+
+Skyblessed Traveler
+
+Experienced Plotter
+
+Enigmatic Encounter
+
+Mourning Stone
+
+Determined Veteran
+
+Communed Hunter
+
+Among the Greenery
+
+Anro, Life's Lieutenant
+
+Foreboding Shoreline
+
+Watch the Wildlife
+
+Place Among the Stars
+
+Traveler's Cloak
+
+Full Kit
+
+Harmonious Beasts
+
+Bitter Beetle
+
+Terramorphic Expanse
+
+Grounding Stones
+
+Weighted Armor
+
+Vanguard's Light Armor
+
+Purging Blade
+
+Abscond Mortal Limits
+
+Hulking Creeper
+
+Unnatural Acceptance
+
+Show of Strength
+
+Treacherous Barrenlands
+
+Resilient Scrubland
+
+Perpetuous, Tenacity
+
+Yuil, Troubled Companion
+
+Essence Cloak
+
+Enchanted Prancer
+
+Amicable Traveler
+
+Sword of Solitary Expression
+
+Finder of Illuminated Ways
+
+Woe's Grasp
+
+Unwavering Behemoth
+
+Seeking Elk
+
+Culivator Grub
+
+Birth Unto Birth
+
+Wayward Journey
+
+Anguished Deadpit
+
+Domineering Parasite
+
+Change Lost to the Stars
+
+Ventured Land
+
+Fearless, Delusion
+
+Nimble Pathfinder
+rules_text: Flash
+Emerge {3}{G} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+When Nimble Pathfinder enters, mill three cards. You may put a land or Scout card from among the cards milled this way into your hand.
+You may cast Scout spells as though they had flash. => Flash
+Emerge from Scout {3}{G} [i](You may cast this spell by sacrificing a Scout and paying the emerge cost reduced by that Scout's mana value.)[/i]
+When Nimble Pathfinder enters, mill three cards. You may put a land or Scout card from among the cards milled this way into your hand.
+You may cast Scout spells as though they had flash.
+
+Deathmarch Angel
+
+Reckless Slayer
+
+Scouting Corridor
+
+Dignity in Arms
+
+Dark Forest Hunter
+
+Ruin of the Feeble
+
+Vuls, of Red Seas
+
+Cull Infirmity
+
+Disjointed Manor
+
+Tyrant's Peak
+
+Pious Inhibitor
+
+Departed Existence
+
+Vinza, Adamant Firebrand
+
+Unfortunate Encounter
+cost: {2}{R} => {3}{R}
+
+Fanatical Charger
+rules_text: Haste
+Malign [i](You may have this creature enter with a +1/+1 counter on it. If you do, it attacks each turn if able.)[/i] => Haste
+Malign [i](You may have this creature enter with a +1/+1 counter on it. If you do, it attacks each turn if able.)[/i]
+Creature tokens you control get +2/+0.
+pt: 3/2 => 3/1
+
+
+VERSION 14 CHANGELOG
 ====================
 
 
