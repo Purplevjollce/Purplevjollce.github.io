@@ -15,9 +15,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "18",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/18_Gaze Upon Hope.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/17_Gaze Upon Hope.png"
 			}
 		},
 		{
@@ -33,11 +33,11 @@
 		{
 			"name": "Lurid Battlemaster",
 			"rarity": "rare",
-			"mana_cost": "{1}{R}",
+			"mana_cost": "{R}{R}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "140",
+			"collector_number": "142",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/140_Lurid Battlemaster.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/142_Lurid Battlemaster.png"
 			}
 		},
 		{
@@ -45,9 +45,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Horror",
-			"collector_number": "57",
+			"collector_number": "54",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/57_Floating Vagrant.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/54_Floating Vagrant.png"
 			}
 		},
 		{
@@ -75,9 +75,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{U}",
 			"type": "Creature — Horror",
-			"collector_number": "46",
+			"collector_number": "42",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/46_Boardwalk Terror.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/42_Boardwalk Terror.png"
 			}
 		},
 		{
@@ -85,9 +85,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Scout",
-			"collector_number": "148",
+			"collector_number": "150",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/148_Resigned Vanguard.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/150_Resigned Vanguard.png"
 			}
 		},
 		{
@@ -105,9 +105,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Bird",
-			"collector_number": "107",
+			"collector_number": "108",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/107_Pestilent Scavenger.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/108_Pestilent Scavenger.png"
 			}
 		},
 		{
@@ -125,9 +125,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{G}",
 			"type": "Instant",
-			"collector_number": "203",
+			"collector_number": "202",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/203_Brutality's Way.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/202_Brutality's Way.png"
 			}
 		},
 		{
@@ -145,19 +145,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "19",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/19_Horror of Humanity.png"
-			}
-		},
-		{
-			"name": "Deathmarch Angel",
-			"rarity": "uncommon",
-			"mana_cost": "{R}{W}",
-			"type": "Creature — Angel Soldier",
-			"collector_number": "207",
-			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/207_Deathmarch Angel.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/18_Horror of Humanity.png"
 			}
 		},
 		{
@@ -165,16 +155,16 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{B}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "112",
+			"collector_number": "113",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/112_Rejection of Divinity.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/113_Rejection of Divinity.png"
 			}
 		},
 		{
 			"name": "Moonlit Ruminator",
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Human",
+			"type": "Creature — Human Scout",
 			"collector_number": "103",
 			"image_uris": {
 				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/103_Moonlit Ruminator.png"
@@ -191,23 +181,13 @@
 			}
 		},
 		{
-			"name": "Unaware Fisher",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{U}",
-			"type": "Creature — Human",
-			"collector_number": "75",
-			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/75_Unaware Fisher.png"
-			}
-		},
-		{
 			"name": "Calm Journeys",
 			"rarity": "common",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
-			"collector_number": "47",
+			"collector_number": "43",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/47_Calm Journeys.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/43_Calm Journeys.png"
 			}
 		},
 		{
@@ -215,9 +195,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}",
 			"type": "Instant",
-			"collector_number": "212",
+			"collector_number": "211",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/212_Display of Valor.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/211_Display of Valor.png"
 			}
 		},
 		{
@@ -245,19 +225,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Horror",
-			"collector_number": "74",
+			"collector_number": "73",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/74_Tortured Dweller.png"
-			}
-		},
-		{
-			"name": "Fanatical Charger",
-			"rarity": "common",
-			"mana_cost": "{3}{R}",
-			"type": "Creature — Human Soldier",
-			"collector_number": "130",
-			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/130_Fanatical Charger.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/73_Tortured Dweller.png"
 			}
 		},
 		{
@@ -265,19 +235,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Bear",
-			"collector_number": "183",
+			"collector_number": "184",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/183_Roaming Grizzly.png"
-			}
-		},
-		{
-			"name": "Awed Hush",
-			"rarity": "rare",
-			"mana_cost": "{1}{U}{U}",
-			"type": "Sorcery",
-			"collector_number": "43",
-			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/43_Awed Hush.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/184_Roaming Grizzly.png"
 			}
 		},
 		{
@@ -285,39 +245,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{R}{R}{R}",
 			"type": "Legendary Creature — Dragon Avatar",
-			"collector_number": "134",
+			"collector_number": "135",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/134_Imperious, Demand.png"
-			}
-		},
-		{
-			"name": "Pure Form",
-			"rarity": "rare",
-			"mana_cost": "{1}{W}",
-			"type": "Enchantment",
-			"collector_number": "24",
-			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/24_Pure Form.png"
-			}
-		},
-		{
-			"name": "Brutal Disillusionment",
-			"rarity": "rare",
-			"mana_cost": "{1}{B}{R}",
-			"type": "Sorcery",
-			"collector_number": "202",
-			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/202_Brutal Disillusionment.png"
-			}
-		},
-		{
-			"name": "Bound Seeker",
-			"rarity": "rare",
-			"mana_cost": "{W}",
-			"type": "Creature — Human Scout",
-			"collector_number": "10",
-			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/10_Bound Seeker.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/135_Imperious, Demand.png"
 			}
 		},
 		{
@@ -325,9 +255,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "142",
+			"collector_number": "144",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/142_Merry Meetings.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/144_Merry Meetings.png"
 			}
 		},
 		{
@@ -335,19 +265,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Creature — Cyclops Shaman",
-			"collector_number": "229",
+			"collector_number": "228",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/229_Seer of Loosened Reality.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/228_Seer of Loosened Reality.png"
 			}
 		},
 		{
 			"name": "Way of the World",
 			"rarity": "rare",
-			"mana_cost": "{3}{G}",
+			"mana_cost": "{3}{G}{G}",
 			"type": "Enchantment",
-			"collector_number": "194",
+			"collector_number": "195",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/194_Way of the World.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/195_Way of the World.png"
 			}
 		},
 		{
@@ -355,15 +285,15 @@
 			"rarity": "rare",
 			"mana_cost": "{B}",
 			"type": "Creature — Insect Horror",
-			"collector_number": "100",
+			"collector_number": "101",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/100_Light Smotherer.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/101_Light Smotherer.png"
 			}
 		},
 		{
 			"name": "Beckon Vastness",
 			"rarity": "common",
-			"mana_cost": "{1}{B}",
+			"mana_cost": "{2}{B}",
 			"type": "Instant",
 			"collector_number": "82",
 			"image_uris": {
@@ -375,9 +305,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "176",
+			"collector_number": "177",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/176_Mystic Communion.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/177_Mystic Communion.png"
 			}
 		},
 		{
@@ -385,19 +315,19 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Scout",
-			"collector_number": "34",
+			"collector_number": "32",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/34_Solitary Scout.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/32_Solitary Scout.png"
 			}
 		},
 		{
 			"name": "Lamech, Bound by History",
 			"rarity": "mythic",
-			"mana_cost": "{5}{U}{U}",
+			"mana_cost": "{4}{U}{U}{U}",
 			"type": "Legendary Planeswalker — Lamech",
-			"collector_number": "62",
+			"collector_number": "59",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/62_Lamech, Bound by History.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/59_Lamech, Bound by History.png"
 			}
 		},
 		{
@@ -405,9 +335,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
-			"collector_number": "69",
+			"collector_number": "68",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/69_Repetitive Production.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/68_Repetitive Production.png"
 			}
 		},
 		{
@@ -415,15 +345,15 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Sorcery",
-			"collector_number": "114",
+			"collector_number": "115",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/114_Sinful Temptations.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/115_Sinful Temptations.png"
 			}
 		},
 		{
 			"name": "Errant's Demand",
 			"rarity": "common",
-			"mana_cost": "{1}{R}",
+			"mana_cost": "{R}",
 			"type": "Sorcery",
 			"collector_number": "128",
 			"image_uris": {
@@ -435,29 +365,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "179",
+			"collector_number": "180",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/179_Nature's Call.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/180_Nature's Call.png"
 			}
 		},
 		{
 			"name": "Promise of Tranquility",
 			"rarity": "common",
-			"mana_cost": "{1}{W}",
+			"mana_cost": "{W}",
 			"type": "Sorcery",
-			"collector_number": "23",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/23_Promise of Tranquility.png"
-			}
-		},
-		{
-			"name": "Forbidden, Power",
-			"rarity": "mythic",
-			"mana_cost": "{2}{B}{B}",
-			"type": "Legendary Creature — Human Avatar",
-			"collector_number": "94",
-			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/94_Forbidden, Power.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/22_Promise of Tranquility.png"
 			}
 		},
 		{
@@ -465,14 +385,14 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Sorcery",
-			"collector_number": "188",
+			"collector_number": "189",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/188_Territorial Strike.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/189_Territorial Strike.png"
 			}
 		},
 		{
 			"name": "Wings of the Lance",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Angel Solider",
 			"collector_number": "39",
@@ -495,9 +415,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Sorcery",
-			"collector_number": "17",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/17_Frenzied Deployment.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/16_Frenzied Deployment.png"
 			}
 		},
 		{
@@ -505,9 +425,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Creature — Beast",
-			"collector_number": "230",
+			"collector_number": "229",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/230_Simple Majesty.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/229_Simple Majesty.png"
 			}
 		},
 		{
@@ -515,19 +435,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Enchantment",
-			"collector_number": "222",
+			"collector_number": "220",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/222_Narrow Sanity.png"
-			}
-		},
-		{
-			"name": "Overbearing Majesty",
-			"rarity": "rare",
-			"mana_cost": "{1}{W}{W}{W}",
-			"type": "Sorcery",
-			"collector_number": "22",
-			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/22_Overbearing Majesty.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/220_Narrow Sanity.png"
 			}
 		},
 		{
@@ -535,9 +445,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
-			"collector_number": "58",
+			"collector_number": "55",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/58_Forced Gaze.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/55_Forced Gaze.png"
 			}
 		},
 		{
@@ -545,9 +455,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{W}",
 			"type": "Creature — Angel Scout",
-			"collector_number": "199",
+			"collector_number": "198",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/199_Angel of Natural Guise.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/198_Angel of Natural Guise.png"
 			}
 		},
 		{
@@ -555,29 +465,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "215",
+			"collector_number": "214",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/215_Gaiety.png"
-			}
-		},
-		{
-			"name": "Wade Through Starlight",
-			"rarity": "mythic",
-			"mana_cost": "{3}{W}{W}",
-			"type": "Enchantment",
-			"collector_number": "37",
-			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/37_Wade Through Starlight.png"
-			}
-		},
-		{
-			"name": "Cavern Terror",
-			"rarity": "rare",
-			"mana_cost": "{3}{U}{U}",
-			"type": "Creature — Insect Dragon Horror",
-			"collector_number": "48",
-			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/48_Cavern Terror.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/214_Gaiety.png"
 			}
 		},
 		{
@@ -585,9 +475,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}",
 			"type": "Enchantment",
-			"collector_number": "109",
+			"collector_number": "110",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/109_Prayers for a New Deity.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/110_Prayers for a New Deity.png"
 			}
 		},
 		{
@@ -595,9 +485,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}",
 			"type": "Creature — Horror",
-			"collector_number": "53",
+			"collector_number": "51",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/53_Eerie Murmur.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/51_Eerie Murmur.png"
 			}
 		},
 		{
@@ -605,9 +495,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "174",
+			"collector_number": "175",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/174_Hunter's Tactics.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/175_Hunter's Tactics.png"
 			}
 		},
 		{
@@ -615,39 +505,29 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{U}{B}",
 			"type": "Legendary Creature — Horror Avatar",
-			"collector_number": "216",
+			"collector_number": "215",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/216_Grueling, Anticipation.png"
-			}
-		},
-		{
-			"name": "Ruin of the Feeble",
-			"rarity": "rare",
-			"mana_cost": "{3}{R}{R}",
-			"type": "Creature — Dragon",
-			"collector_number": "149",
-			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/149_Ruin of the Feeble.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/215_Grueling, Anticipation.png"
 			}
 		},
 		{
 			"name": "Mountainside Predator",
 			"rarity": "common",
-			"mana_cost": "{5}{R}{R}",
+			"mana_cost": "{4}{R}{R}",
 			"type": "Creature — Dragon",
-			"collector_number": "143",
+			"collector_number": "145",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/143_Mountainside Predator.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/145_Mountainside Predator.png"
 			}
 		},
 		{
 			"name": "Self-Doubt",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
-			"type": "Sorcery",
-			"collector_number": "113",
+			"type": "Enchantment — Aura",
+			"collector_number": "114",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/113_Self-Doubt.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/114_Self-Doubt.png"
 			}
 		},
 		{
@@ -662,12 +542,12 @@
 		},
 		{
 			"name": "Pathseeker",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Creature — Horror",
-			"collector_number": "181",
+			"collector_number": "182",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/181_Pathseeker.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/182_Pathseeker.png"
 			}
 		},
 		{
@@ -685,39 +565,39 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Instant",
-			"collector_number": "72",
+			"collector_number": "71",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/72_Thought Unto Thought.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/71_Thought Unto Thought.png"
 			}
 		},
 		{
 			"name": "Life Unto Life",
 			"rarity": "rare",
-			"mana_cost": "{1}{R}",
+			"mana_cost": "{3}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "139",
+			"collector_number": "141",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/139_Life Unto Life.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/141_Life Unto Life.png"
 			}
 		},
 		{
 			"name": "Pure Flame",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{R}",
-			"type": "Instant",
-			"collector_number": "144",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "146",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/144_Pure Flame.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/146_Pure Flame.png"
 			}
 		},
 		{
 			"name": "Rouse Ancient Strength",
 			"rarity": "rare",
-			"mana_cost": "{4}{G}{G}",
+			"mana_cost": "{4}{G}{G}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "184",
+			"collector_number": "185",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/184_Rouse Ancient Strength.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/185_Rouse Ancient Strength.png"
 			}
 		},
 		{
@@ -725,29 +605,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{B}",
 			"type": "Instant",
-			"collector_number": "93",
+			"collector_number": "94",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/93_Establish Hierarchy.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/94_Establish Hierarchy.png"
 			}
 		},
 		{
-			"name": "In Horror's Thrall",
-			"rarity": "rare",
-			"mana_cost": "{1}{U}",
-			"type": "Enchantment",
-			"collector_number": "61",
-			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/61_In Horror's Thrall.png"
-			}
-		},
-		{
-			"name": "Disgraced Dignitary",
+			"name": "Vindictive Angel",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Creature — Angel",
-			"collector_number": "211",
+			"collector_number": "231",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/211_Disgraced Dignitary.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/231_Vindictive Angel.png"
 			}
 		},
 		{
@@ -762,32 +632,22 @@
 		},
 		{
 			"name": "Piercing Gaze",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
-			"type": "Sorcery",
-			"collector_number": "108",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "109",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/108_Piercing Gaze.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/109_Piercing Gaze.png"
 			}
 		},
 		{
-			"name": "Slayer's Mantle",
-			"rarity": "rare",
-			"mana_cost": "{1}{W}{W}",
-			"type": "Artifact — Equipment",
-			"collector_number": "33",
-			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/33_Slayer's Mantle.png"
-			}
-		},
-		{
-			"name": "Adaptive Endpoint",
+			"name": "Long Lived Scuttler",
 			"rarity": "common",
 			"mana_cost": "{4}{U}{U}",
-			"type": "Creature — Crab",
-			"collector_number": "42",
+			"type": "Creature — Crab Horror",
+			"collector_number": "60",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/42_Adaptive Endpoint.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/60_Long Lived Scuttler.png"
 			}
 		},
 		{
@@ -795,9 +655,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Insect Horror",
-			"collector_number": "67",
+			"collector_number": "65",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/67_Perverse Learner.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/65_Perverse Learner.png"
 			}
 		},
 		{
@@ -805,9 +665,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "240",
+			"collector_number": "241",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/240_Angelic Dwellings.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/241_Angelic Dwellings.png"
 			}
 		},
 		{
@@ -815,9 +675,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Legendary Creature — Human Avatar",
-			"collector_number": "193",
+			"collector_number": "194",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/193_Watching, Emptiness.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/194_Watching, Emptiness.png"
 			}
 		},
 		{
@@ -825,19 +685,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Creature — Angel Horror",
-			"collector_number": "95",
+			"collector_number": "96",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/95_Hopeless Sinner.png"
-			}
-		},
-		{
-			"name": "Rebirthing Mantis",
-			"rarity": "uncommon",
-			"mana_cost": "{B}{R}",
-			"type": "Creature — Insect",
-			"collector_number": "227",
-			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/227_Rebirthing Mantis.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/96_Hopeless Sinner.png"
 			}
 		},
 		{
@@ -855,9 +705,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{U}",
 			"type": "Sorcery",
-			"collector_number": "45",
+			"collector_number": "41",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/45_Beseech the Waves.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/41_Beseech the Waves.png"
 			}
 		},
 		{
@@ -873,11 +723,11 @@
 		{
 			"name": "Resting Vanguard",
 			"rarity": "common",
-			"mana_cost": "{2}{W}",
+			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Scout",
-			"collector_number": "31",
+			"collector_number": "28",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/31_Resting Vanguard.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/28_Resting Vanguard.png"
 			}
 		},
 		{
@@ -893,11 +743,11 @@
 		{
 			"name": "Tunnel Pincer",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{B}{R}",
+			"mana_cost": "{2}{B}{R}",
 			"type": "Creature — Insect",
-			"collector_number": "231",
+			"collector_number": "230",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/231_Tunnel Pincer.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/230_Tunnel Pincer.png"
 			}
 		},
 		{
@@ -905,19 +755,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{B}",
 			"type": "Creature — Horror Shaman",
-			"collector_number": "219",
+			"collector_number": "217",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/219_Mental Shaper.png"
-			}
-		},
-		{
-			"name": "Ventured Land",
-			"rarity": "uncommon",
-			"mana_cost": "{G}",
-			"type": "Enchantment — Aura",
-			"collector_number": "191",
-			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/191_Ventured Land.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/217_Mental Shaper.png"
 			}
 		},
 		{
@@ -925,9 +765,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U}",
 			"type": "Creature — Insect",
-			"collector_number": "218",
+			"collector_number": "216",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/218_Listless Pollinator.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/216_Listless Pollinator.png"
 			}
 		},
 		{
@@ -955,9 +795,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{G}",
 			"type": "Creature — Human Shaman",
-			"collector_number": "204",
+			"collector_number": "203",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/204_Caller of the Ideal.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/203_Caller of the Ideal.png"
 			}
 		},
 		{
@@ -965,9 +805,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "172",
+			"collector_number": "173",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/172_Height of Communion.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/173_Height of Communion.png"
 			}
 		},
 		{
@@ -975,19 +815,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Dragon",
-			"collector_number": "150",
+			"collector_number": "151",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/150_Scout's Demise.png"
-			}
-		},
-		{
-			"name": "Dogmatic Tactician",
-			"rarity": "uncommon",
-			"mana_cost": "{4}{W}{W}",
-			"type": "Creature — Human Soldier",
-			"collector_number": "15",
-			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/15_Dogmatic Tactician.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/151_Scout's Demise.png"
 			}
 		},
 		{
@@ -995,9 +825,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{U}{R}",
 			"type": "Enchantment",
-			"collector_number": "206",
+			"collector_number": "205",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/206_Channel of Instability.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/205_Channel of Instability.png"
 			}
 		},
 		{
@@ -1008,36 +838,6 @@
 			"collector_number": "12",
 			"image_uris": {
 				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/12_Diminish to Humanity.png"
-			}
-		},
-		{
-			"name": "Rallied Purifier",
-			"rarity": "common",
-			"mana_cost": "{W}",
-			"type": "Creature — Human Soldier",
-			"collector_number": "28",
-			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/28_Rallied Purifier.png"
-			}
-		},
-		{
-			"name": "Vicious Orator",
-			"rarity": "common",
-			"mana_cost": "{3}{W}",
-			"type": "Creature — Human Bard",
-			"collector_number": "36",
-			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/36_Vicious Orator.png"
-			}
-		},
-		{
-			"name": "Scouting Corridor",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "244",
-			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/244_Scouting Corridor.png"
 			}
 		},
 		{
@@ -1055,9 +855,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "228",
+			"collector_number": "227",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/228_Second Chances.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/227_Second Chances.png"
 			}
 		},
 		{
@@ -1065,9 +865,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature — Insect",
-			"collector_number": "175",
+			"collector_number": "176",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/175_Jewel Bug.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/176_Jewel Bug.png"
 			}
 		},
 		{
@@ -1075,9 +875,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Horror",
-			"collector_number": "116",
+			"collector_number": "117",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/116_Stumbling Walker.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/117_Stumbling Walker.png"
 			}
 		},
 		{
@@ -1095,9 +895,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{U}",
 			"type": "Enchantment",
-			"collector_number": "220",
+			"collector_number": "218",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/220_Mortal Insight.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/218_Mortal Insight.png"
 			}
 		},
 		{
@@ -1105,9 +905,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Sorcery",
-			"collector_number": "111",
+			"collector_number": "112",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/111_Reckon the Past.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/112_Reckon the Past.png"
 			}
 		},
 		{
@@ -1125,9 +925,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Instant",
-			"collector_number": "68",
+			"collector_number": "66",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/68_Piercing Thoughts.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/66_Piercing Thoughts.png"
 			}
 		},
 		{
@@ -1135,29 +935,19 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Scout",
-			"collector_number": "187",
+			"collector_number": "188",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/187_Skyblessed Traveler.png"
-			}
-		},
-		{
-			"name": "Truthseeker",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{R}",
-			"type": "Creature — Human Scout",
-			"collector_number": "153",
-			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/153_Truthseeker.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/188_Skyblessed Traveler.png"
 			}
 		},
 		{
 			"name": "Experienced Plotter",
 			"rarity": "common",
-			"mana_cost": "{2}{G}",
+			"mana_cost": "{3}{G}",
 			"type": "Creature — Human Scout",
-			"collector_number": "169",
+			"collector_number": "170",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/169_Experienced Plotter.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/170_Experienced Plotter.png"
 			}
 		},
 		{
@@ -1165,29 +955,19 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
-			"collector_number": "168",
+			"collector_number": "169",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/168_Enigmatic Encounter.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/169_Enigmatic Encounter.png"
 			}
 		},
 		{
 			"name": "Mourning Stone",
 			"rarity": "uncommon",
-			"mana_cost": "{G}{W}",
-			"type": "Enchantment",
-			"collector_number": "221",
-			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/221_Mourning Stone.png"
-			}
-		},
-		{
-			"name": "Fearless, Delusion",
-			"rarity": "mythic",
 			"mana_cost": "{1}{G}{W}",
-			"type": "Legendary Creature — Scout Avatar",
-			"collector_number": "214",
+			"type": "Enchantment",
+			"collector_number": "219",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/214_Fearless, Delusion.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/219_Mourning Stone.png"
 			}
 		},
 		{
@@ -1215,19 +995,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "141",
+			"collector_number": "143",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/141_Lurid Lucidity.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/143_Lurid Lucidity.png"
 			}
 		},
 		{
-			"name": "Fatigued Hero",
-			"rarity": "uncommon",
-			"mana_cost": "{4}{W}",
+			"name": "Weary Soldier",
+			"rarity": "common",
+			"mana_cost": "{W}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "16",
+			"collector_number": "38",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/16_Fatigued Hero.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/38_Weary Soldier.png"
 			}
 		},
 		{
@@ -1235,9 +1015,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Human Scout",
-			"collector_number": "166",
+			"collector_number": "167",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/166_Determined Veteran.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/167_Determined Veteran.png"
 			}
 		},
 		{
@@ -1271,13 +1051,13 @@
 			}
 		},
 		{
-			"name": "Uncomfortable Truths",
+			"name": "Passive Witness",
 			"rarity": "common",
-			"mana_cost": "{2}{B}",
-			"type": "Enchantment — Aura",
-			"collector_number": "117",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human",
+			"collector_number": "107",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/117_Uncomfortable Truths.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/107_Passive Witness.png"
 			}
 		},
 		{
@@ -1295,29 +1075,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Enchantment — Aura",
-			"collector_number": "99",
+			"collector_number": "100",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/99_Lapse of Self.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/100_Lapse of Self.png"
 			}
 		},
 		{
-			"name": "Radical Purist",
-			"rarity": "rare",
-			"mana_cost": "{W}{W}",
-			"type": "Creature — Angel Soldier",
-			"collector_number": "27",
-			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/27_Radical Purist.png"
-			}
-		},
-		{
-			"name": "Life's Sovereign",
+			"name": "Anro, Life's Lieutenant",
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}{B}",
-			"type": "Creature — Angel",
-			"collector_number": "217",
+			"type": "Legendary Creature — Angel",
+			"collector_number": "199",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/217_Life's Sovereign.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/199_Anro, Life's Lieutenant.png"
 			}
 		},
 		{
@@ -1325,29 +1095,19 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "242",
+			"collector_number": "244",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/242_Foreboding Shoreline.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/244_Foreboding Shoreline.png"
 			}
 		},
 		{
-			"name": "Share in Humanity",
-			"rarity": "common",
-			"mana_cost": "{2}{R}",
-			"type": "Sorcery",
-			"collector_number": "151",
-			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/151_Share in Humanity.png"
-			}
-		},
-		{
-			"name": "Many-Legged Dominant",
+			"name": "Environmental Selection",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{B}",
-			"type": "Creature — Insect",
-			"collector_number": "101",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "93",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/101_Many-Legged Dominant.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/93_Environmental Selection.png"
 			}
 		},
 		{
@@ -1355,9 +1115,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Bird",
-			"collector_number": "66",
+			"collector_number": "64",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/66_Patient Fishers.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/64_Patient Fishers.png"
 			}
 		},
 		{
@@ -1365,15 +1125,15 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Creature — Jellyfish Horror",
-			"collector_number": "71",
+			"collector_number": "70",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/71_Soaring Ligaments.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/70_Soaring Ligaments.png"
 			}
 		},
 		{
 			"name": "Unnerving Lunatic",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{U}{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Creature — Human",
 			"collector_number": "77",
 			"image_uris": {
@@ -1401,13 +1161,13 @@
 			}
 		},
 		{
-			"name": "Belittling Dismissal",
+			"name": "Contemplate Insanity",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Instant",
-			"collector_number": "44",
+			"collector_number": "47",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/44_Belittling Dismissal.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/47_Contemplate Insanity.png"
 			}
 		},
 		{
@@ -1415,9 +1175,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human",
-			"collector_number": "132",
+			"collector_number": "133",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/132_Ghastly Mind.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/133_Ghastly Mind.png"
 			}
 		},
 		{
@@ -1425,19 +1185,19 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "192",
+			"collector_number": "193",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/192_Watch the Wildlife.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/193_Watch the Wildlife.png"
 			}
 		},
 		{
 			"name": "Foul Omen Fishers",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Creature — Bird",
-			"collector_number": "60",
+			"collector_number": "57",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/60_Foul Omen Fishers.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/57_Foul Omen Fishers.png"
 			}
 		},
 		{
@@ -1445,9 +1205,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Human Scout",
-			"collector_number": "73",
+			"collector_number": "72",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/73_Timid Scout.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/72_Timid Scout.png"
 			}
 		},
 		{
@@ -1455,19 +1215,19 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}{U}{R}",
 			"type": "Enchantment",
-			"collector_number": "225",
+			"collector_number": "223",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/225_Place Among the Stars.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/223_Place Among the Stars.png"
 			}
 		},
 		{
 			"name": "Soulful Flower",
 			"rarity": "common",
-			"mana_cost": "{W}",
+			"mana_cost": "{1}{W}",
 			"type": "Artifact — Equipment",
-			"collector_number": "35",
+			"collector_number": "33",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/35_Soulful Flower.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/33_Soulful Flower.png"
 			}
 		},
 		{
@@ -1485,9 +1245,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "55",
+			"collector_number": "52",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/55_Essencelessness.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/52_Essencelessness.png"
 			}
 		},
 		{
@@ -1513,7 +1273,7 @@
 		{
 			"name": "Angelic Tactician",
 			"rarity": "common",
-			"mana_cost": "{3}{W}",
+			"mana_cost": "{2}{W}",
 			"type": "Creature — Angel Soldier",
 			"collector_number": "5",
 			"image_uris": {
@@ -1535,9 +1295,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{W}",
 			"type": "Instant",
-			"collector_number": "25",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/25_Quell Unrest.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/24_Quell Unrest.png"
 			}
 		},
 		{
@@ -1545,9 +1305,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Cyclops",
-			"collector_number": "4",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/4_Cyclops.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/5_Cyclops.png"
 			}
 		},
 		{
@@ -1555,9 +1315,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Beast",
-			"collector_number": "5",
+			"collector_number": "6",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/5_Beast.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/6_Beast.png"
 			}
 		},
 		{
@@ -1565,9 +1325,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Horror",
-			"collector_number": "3",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/3_Horror.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/4_Horror.png"
 			}
 		},
 		{
@@ -1585,19 +1345,19 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Scout",
-			"collector_number": "7",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/7_Scout.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/9_Scout.png"
 			}
 		},
 		{
 			"name": "Reckon Mortality",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Sorcery",
-			"collector_number": "30",
+			"type": "Instant",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/30_Reckon Mortality.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/27_Reckon Mortality.png"
 			}
 		},
 		{
@@ -1608,16 +1368,6 @@
 			"collector_number": "2",
 			"image_uris": {
 				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/2_Soldier.png"
-			}
-		},
-		{
-			"name": "Dreams Beyond the End",
-			"rarity": "common",
-			"mana_cost": "{2}{R}",
-			"type": "Sorcery",
-			"collector_number": "127",
-			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/127_Dreams Beyond the End.png"
 			}
 		},
 		{
@@ -1653,21 +1403,11 @@
 		{
 			"name": "Raw Force",
 			"rarity": "common",
-			"mana_cost": "{R}",
+			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "146",
+			"collector_number": "148",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/146_Raw Force.png"
-			}
-		},
-		{
-			"name": "Frightening Instructor",
-			"rarity": "common",
-			"mana_cost": "{2}{R}",
-			"type": "Creature — Human Soldier",
-			"collector_number": "131",
-			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/131_Frightening Instructor.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/148_Raw Force.png"
 			}
 		},
 		{
@@ -1675,9 +1415,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Insect",
-			"collector_number": "110",
+			"collector_number": "111",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/110_Pretty Beetle.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/111_Pretty Beetle.png"
 			}
 		},
 		{
@@ -1691,13 +1431,13 @@
 			}
 		},
 		{
-			"name": "Bloodstarved Slasher",
+			"name": "Bloodcrazed Slasher",
 			"rarity": "rare",
-			"mana_cost": "{1}{B}{B}",
-			"type": "Creature — Insect",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Insect Berserker",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/83_Bloodstarved Slasher.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/83_Bloodcrazed Slasher.png"
 			}
 		},
 		{
@@ -1725,9 +1465,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "145",
+			"collector_number": "147",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/145_Purge Heretical Thoughts.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/147_Purge Heretical Thoughts.png"
 			}
 		},
 		{
@@ -1735,9 +1475,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact — Equipment",
-			"collector_number": "56",
+			"collector_number": "53",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/56_Fishing Rod.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/53_Fishing Rod.png"
 			}
 		},
 		{
@@ -1745,9 +1485,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Horror",
-			"collector_number": "63",
+			"collector_number": "61",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/63_Mindless Skimmer.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/61_Mindless Skimmer.png"
 			}
 		},
 		{
@@ -1755,9 +1495,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Scout",
-			"collector_number": "52",
+			"collector_number": "50",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/52_Distant Expeditioner.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/50_Distant Expeditioner.png"
 			}
 		},
 		{
@@ -1765,9 +1505,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "51",
+			"collector_number": "49",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/51_Discreet Messenger.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/49_Discreet Messenger.png"
 			}
 		},
 		{
@@ -1775,9 +1515,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment",
-			"collector_number": "237",
+			"collector_number": "238",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/237_Traveler's Cloak.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/238_Traveler's Cloak.png"
 			}
 		},
 		{
@@ -1785,19 +1525,19 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact — Equipment",
-			"collector_number": "234",
+			"collector_number": "235",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/234_Full Kit.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/235_Full Kit.png"
 			}
 		},
 		{
 			"name": "Harmonious Beasts",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Human Shaman",
-			"collector_number": "171",
+			"collector_number": "172",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/171_Harmonious Beasts.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/172_Harmonious Beasts.png"
 			}
 		},
 		{
@@ -1805,9 +1545,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
-			"collector_number": "178",
+			"collector_number": "179",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/178_Natural Ending.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/179_Natural Ending.png"
 			}
 		},
 		{
@@ -1825,9 +1565,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
-			"collector_number": "70",
+			"collector_number": "69",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/70_Send Fishing.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/69_Send Fishing.png"
 			}
 		},
 		{
@@ -1835,9 +1575,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "32",
+			"collector_number": "30",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/32_Singular Radiance.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/30_Singular Radiance.png"
 			}
 		},
 		{
@@ -1845,9 +1585,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "245",
+			"collector_number": "247",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/245_Terramorphic Expanse.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/247_Terramorphic Expanse.png"
 			}
 		},
 		{
@@ -1855,9 +1595,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "235",
+			"collector_number": "236",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/235_Grounding Stones.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/236_Grounding Stones.png"
 			}
 		},
 		{
@@ -1865,19 +1605,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "239",
+			"collector_number": "240",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/239_Weighted Armor.png"
-			}
-		},
-		{
-			"name": "Worldly Illogic",
-			"rarity": "rare",
-			"mana_cost": "{X}{U}",
-			"type": "Instant",
-			"collector_number": "79",
-			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/79_Worldly Illogic.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/240_Weighted Armor.png"
 			}
 		},
 		{
@@ -1885,9 +1615,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Insect",
-			"collector_number": "97",
+			"collector_number": "98",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/97_Insectoid Spawner.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/98_Insectoid Spawner.png"
 			}
 		},
 		{
@@ -1895,9 +1625,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Horror",
-			"collector_number": "64",
+			"collector_number": "62",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/64_Muted Mutterer.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/62_Muted Mutterer.png"
 			}
 		},
 		{
@@ -1905,9 +1635,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "238",
+			"collector_number": "239",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/238_Vanguard's Light Armor.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/239_Vanguard's Light Armor.png"
 			}
 		},
 		{
@@ -1915,9 +1645,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Artifact — Equipment",
-			"collector_number": "226",
+			"collector_number": "224",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/226_Purging Blade.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/224_Purging Blade.png"
 			}
 		},
 		{
@@ -1932,12 +1662,12 @@
 		},
 		{
 			"name": "Strength's Tyranny",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{B}",
-			"type": "Enchantment",
-			"collector_number": "115",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "116",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/115_Strength's Tyranny.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/116_Strength's Tyranny.png"
 			}
 		},
 		{
@@ -1945,16 +1675,16 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Creature — Dragon",
-			"collector_number": "136",
+			"collector_number": "137",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/136_Indiscriminate Terror.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/137_Indiscriminate Terror.png"
 			}
 		},
 		{
 			"name": "Abscond Mortal Limits",
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{G}",
-			"type": "Instant",
+			"type": "Sorcery",
 			"collector_number": "158",
 			"image_uris": {
 				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/158_Abscond Mortal Limits.png"
@@ -1975,9 +1705,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{G}{G}",
 			"type": "Creature — Giant Horror",
-			"collector_number": "173",
+			"collector_number": "174",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/173_Hulking Creeper.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/174_Hulking Creeper.png"
 			}
 		},
 		{
@@ -1985,19 +1715,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Scout",
-			"collector_number": "182",
+			"collector_number": "183",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/182_Relaxed Admirer.png"
-			}
-		},
-		{
-			"name": "Nimble Pathfinder",
-			"rarity": "rare",
-			"mana_cost": "{3}{G}",
-			"type": "Creature — Human Scout",
-			"collector_number": "180",
-			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/180_Nimble Pathfinder.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/183_Relaxed Admirer.png"
 			}
 		},
 		{
@@ -2005,19 +1725,19 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "120",
+			"collector_number": "121",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/120_Addled Flamechaser.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/121_Addled Flamechaser.png"
 			}
 		},
 		{
-			"name": "Alpine Navigator",
-			"rarity": "uncommon",
+			"name": "Fortunate Discovery",
+			"rarity": "common",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Human Scout",
-			"collector_number": "121",
+			"type": "Instant",
+			"collector_number": "131",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/121_Alpine Navigator.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/131_Fortunate Discovery.png"
 			}
 		},
 		{
@@ -2025,19 +1745,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "189",
+			"collector_number": "190",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/189_Unnatural Acceptance.png"
-			}
-		},
-		{
-			"name": "Other Unto Other",
-			"rarity": "rare",
-			"mana_cost": "{3}{W}",
-			"type": "Sorcery",
-			"collector_number": "21",
-			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/21_Other Unto Other.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/190_Unnatural Acceptance.png"
 			}
 		},
 		{
@@ -2045,9 +1755,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "186",
+			"collector_number": "187",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/186_Show of Strength.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/187_Show of Strength.png"
 			}
 		},
 		{
@@ -2055,9 +1765,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "248",
+			"collector_number": "250",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/248_Plains.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/250_Plains.png"
 			}
 		},
 		{
@@ -2065,39 +1775,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
-			"collector_number": "249",
-			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/249_Island.png"
-			}
-		},
-		{
-			"name": "Forest",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Forest",
-			"collector_number": "252",
-			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/252_Forest.png"
-			}
-		},
-		{
-			"name": "Swamp",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Swamp",
-			"collector_number": "250",
-			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/250_Swamp.png"
-			}
-		},
-		{
-			"name": "Mountain",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Mountain",
 			"collector_number": "251",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/251_Mountain.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/251_Island.png"
 			}
 		},
 		{
@@ -2105,9 +1785,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "246",
+			"collector_number": "248",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/246_Treacherous Barrenlands.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/248_Treacherous Barrenlands.png"
 			}
 		},
 		{
@@ -2115,29 +1795,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "243",
+			"collector_number": "245",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/243_Resilient Scrubland.png"
-			}
-		},
-		{
-			"name": "Volcanic Dominant",
-			"rarity": "rare",
-			"mana_cost": "{2}{R}{R}",
-			"type": "Creature — Dragon",
-			"collector_number": "155",
-			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/155_Volcanic Dominant.png"
-			}
-		},
-		{
-			"name": "Tyrant's Peak",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "247",
-			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/247_Tyrant's Peak.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/245_Resilient Scrubland.png"
 			}
 		},
 		{
@@ -2145,9 +1805,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{W}{U}{B}",
 			"type": "Legendary Creature — Angel Avatar",
-			"collector_number": "223",
+			"collector_number": "221",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/223_Perpetuous, Tenacity.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/221_Perpetuous, Tenacity.png"
 			}
 		},
 		{
@@ -2175,39 +1835,19 @@
 			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "233",
+			"collector_number": "234",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/233_Essence Cloak.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/234_Essence Cloak.png"
 			}
 		},
 		{
-			"name": "Pious Inhibitor",
-			"rarity": "rare",
-			"mana_cost": "{1}{W}{U}",
-			"type": "Creature — Angel Cleric",
-			"collector_number": "224",
-			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/224_Pious Inhibitor.png"
-			}
-		},
-		{
-			"name": "Dias, Storied Apocalypse",
-			"rarity": "mythic",
-			"mana_cost": "{2}{B}{B}{B}",
-			"type": "Legendary Planeswalker — Dias",
-			"collector_number": "91",
-			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/91_Dias, Storied Apocalypse.png"
-			}
-		},
-		{
-			"name": "Witness",
+			"name": "Passive, Witness",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Legendary Creature — Avatar",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/8_Witness.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/8_Passive, Witness.png"
 			}
 		},
 		{
@@ -2215,9 +1855,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Creature — Human",
-			"collector_number": "213",
+			"collector_number": "212",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/213_Enchanted Prancer.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/212_Enchanted Prancer.png"
 			}
 		},
 		{
@@ -2233,11 +1873,11 @@
 		{
 			"name": "Regal Predator",
 			"rarity": "uncommon",
-			"mana_cost": "{4}{R}{R}",
+			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Dragon",
-			"collector_number": "147",
+			"collector_number": "149",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/147_Regal Predator.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/149_Regal Predator.png"
 			}
 		},
 		{
@@ -2245,19 +1885,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Cleric",
-			"collector_number": "38",
+			"collector_number": "37",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/38_Wavering Sanctifier.png"
-			}
-		},
-		{
-			"name": "Absolute, Comprehension",
-			"rarity": "mythic",
-			"mana_cost": "{5}{U}{U}{U}",
-			"type": "Legendary Creature — Octopus Avatar",
-			"collector_number": "41",
-			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/41_Absolute, Comprehension.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/37_Wavering Sanctifier.png"
 			}
 		},
 		{
@@ -2265,29 +1895,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "137",
+			"collector_number": "139",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/137_Instinctive Combatant.png"
-			}
-		},
-		{
-			"name": "Impressionable Traveler",
-			"rarity": "common",
-			"mana_cost": "{R}",
-			"type": "Creature — Human Scout",
-			"collector_number": "135",
-			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/135_Impressionable Traveler.png"
-			}
-		},
-		{
-			"name": "Adamant Firebrand",
-			"rarity": "rare",
-			"mana_cost": "{3}{R}{W}",
-			"type": "Creature — Angel Soldier",
-			"collector_number": "198",
-			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/198_Adamant Firebrand.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/139_Instinctive Combatant.png"
 			}
 		},
 		{
@@ -2295,19 +1905,19 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Angel Soldier",
-			"collector_number": "133",
+			"collector_number": "134",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/133_Hero of the Plain.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/134_Hero of the Plain.png"
 			}
 		},
 		{
 			"name": "Foreboding Winds",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
-			"type": "Sorcery",
-			"collector_number": "59",
+			"type": "Instant",
+			"collector_number": "56",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/59_Foreboding Winds.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/56_Foreboding Winds.png"
 			}
 		},
 		{
@@ -2315,19 +1925,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment",
-			"collector_number": "236",
+			"collector_number": "237",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/236_Sword of Solitary Expression.png"
-			}
-		},
-		{
-			"name": "Dignity in Arms",
-			"rarity": "uncommon",
-			"mana_cost": "{W}{U}",
-			"type": "Instant",
-			"collector_number": "210",
-			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/210_Dignity in Arms.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/237_Sword of Solitary Expression.png"
 			}
 		},
 		{
@@ -2335,9 +1935,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{X}{X}{G}",
 			"type": "Sorcery",
-			"collector_number": "177",
+			"collector_number": "178",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/177_Natural Bemusements.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/178_Natural Bemusements.png"
 			}
 		},
 		{
@@ -2345,9 +1945,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Enchantment — Aura",
-			"collector_number": "6",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/6_Bemusement.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/7_Bemusement.png"
 			}
 		},
 		{
@@ -2365,29 +1965,19 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
-			"collector_number": "9",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/9_Treasure.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/10_Treasure.png"
 			}
 		},
 		{
 			"name": "Lackadaisical Whelp",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Dragon",
-			"collector_number": "138",
+			"collector_number": "140",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/138_Lackadaisical Whelp.png"
-			}
-		},
-		{
-			"name": "Radiant Enforcer",
-			"rarity": "rare",
-			"mana_cost": "{3}{W}{W}",
-			"type": "Creature — Angel Soldier",
-			"collector_number": "26",
-			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/26_Radiant Enforcer.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/140_Lackadaisical Whelp.png"
 			}
 		},
 		{
@@ -2395,9 +1985,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Scout",
-			"collector_number": "170",
+			"collector_number": "171",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/170_Finder of Illuminated Ways.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/171_Finder of Illuminated Ways.png"
 			}
 		},
 		{
@@ -2405,9 +1995,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Artifact — Equipment",
-			"collector_number": "29",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/29_Rallier's Plate.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/26_Rallier's Plate.png"
 			}
 		},
 		{
@@ -2415,9 +2005,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Cyclops Horror",
-			"collector_number": "50",
+			"collector_number": "48",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/50_Deep Looker.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/48_Deep Looker.png"
 			}
 		},
 		{
@@ -2425,19 +2015,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Human",
-			"collector_number": "96",
+			"collector_number": "97",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/96_Infirm Self.png"
-			}
-		},
-		{
-			"name": "Departed Existence",
-			"rarity": "rare",
-			"mana_cost": "{U}{B}",
-			"type": "Artifact — Equipment",
-			"collector_number": "208",
-			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/208_Departed Existence.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/97_Infirm Self.png"
 			}
 		},
 		{
@@ -2445,9 +2025,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{B}",
 			"type": "Instant",
-			"collector_number": "232",
+			"collector_number": "233",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/232_Woe's Grasp.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/233_Woe's Grasp.png"
 			}
 		},
 		{
@@ -2455,9 +2035,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Horror",
-			"collector_number": "190",
+			"collector_number": "191",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/190_Unwavering Behemoth.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/191_Unwavering Behemoth.png"
 			}
 		},
 		{
@@ -2465,9 +2045,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Elk Scout",
-			"collector_number": "185",
+			"collector_number": "186",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/185_Seeking Elk.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/186_Seeking Elk.png"
 			}
 		},
 		{
@@ -2495,19 +2075,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "195",
-			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/195_Wayward Journey.png"
-			}
-		},
-		{
-			"name": "Wildlands Hunter",
-			"rarity": "rare",
-			"mana_cost": "{G}",
-			"type": "Creature — Wolf Scout",
 			"collector_number": "196",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/196_Wildlands Hunter.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/196_Wayward Journey.png"
 			}
 		},
 		{
@@ -2515,9 +2085,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "241",
+			"collector_number": "242",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/241_Anguished Deadpit.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/242_Anguished Deadpit.png"
 			}
 		},
 		{
@@ -2525,9 +2095,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Insect",
-			"collector_number": "98",
+			"collector_number": "99",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/98_Invasive Crawler.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/99_Invasive Crawler.png"
 			}
 		},
 		{
@@ -2535,19 +2105,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Insect Horror",
-			"collector_number": "167",
+			"collector_number": "168",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/167_Domineering Parasite.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/168_Domineering Parasite.png"
 			}
 		},
 		{
 			"name": "Compulsive Watcher",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{U}",
+			"mana_cost": "{3}{U}",
 			"type": "Creature — Horror",
-			"collector_number": "49",
+			"collector_number": "46",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/49_Compulsive Watcher.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/46_Compulsive Watcher.png"
 			}
 		},
 		{
@@ -2555,19 +2125,19 @@
 			"rarity": "mythic",
 			"mana_cost": "{W}{B}{G}",
 			"type": "Sorcery",
-			"collector_number": "205",
+			"collector_number": "204",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/205_Change Lost to the Stars.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/204_Change Lost to the Stars.png"
 			}
 		},
 		{
-			"name": "Entrancing Lantern",
+			"name": "Illuminating Lantern",
 			"rarity": "rare",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Artifact — Equipment",
-			"collector_number": "54",
+			"collector_number": "58",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/54_Entrancing Lantern.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/58_Illuminating Lantern.png"
 			}
 		},
 		{
@@ -2575,9 +2145,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Creature — Dragon Scout",
-			"collector_number": "65",
+			"collector_number": "63",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/65_Obsessive Seeker.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/63_Obsessive Seeker.png"
 			}
 		},
 		{
@@ -2585,9 +2155,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "20",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/20_Illuminated Thoughts.png"
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/19_Illuminated Thoughts.png"
 			}
 		},
 		{
@@ -2609,6 +2179,466 @@
 			"image_uris": {
 				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/119_Abandon Nagging Ideals.png"
 			}
+		},
+		{
+			"name": "Ventured Land",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/192_Ventured Land.png"
+			}
+		},
+		{
+			"name": "Fearless, Delusion",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — Scout Avatar",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/213_Fearless, Delusion.png"
+			}
+		},
+		{
+			"name": "Bound Seeker",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/10_Bound Seeker.png"
+			}
+		},
+		{
+			"name": "Slayer's Mantle",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/31_Slayer's Mantle.png"
+			}
+		},
+		{
+			"name": "Nimble Pathfinder",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/181_Nimble Pathfinder.png"
+			}
+		},
+		{
+			"name": "Truthseeker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Scout",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/153_Truthseeker.png"
+			}
+		},
+		{
+			"name": "Vicious Orator",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Bard",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/35_Vicious Orator.png"
+			}
+		},
+		{
+			"name": "Rallied Purifier",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/25_Rallied Purifier.png"
+			}
+		},
+		{
+			"name": "Fanatical Charger",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/130_Fanatical Charger.png"
+			}
+		},
+		{
+			"name": "Deathmarch Angel",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Angel Soldier",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/207_Deathmarch Angel.png"
+			}
+		},
+		{
+			"name": "Impressionable Traveler",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Scout",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/136_Impressionable Traveler.png"
+			}
+		},
+		{
+			"name": "Dogmatic Tactician",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/15_Dogmatic Tactician.png"
+			}
+		},
+		{
+			"name": "Reckless Slayer",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/225_Reckless Slayer.png"
+			}
+		},
+		{
+			"name": "Scouting Corridor",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/246_Scouting Corridor.png"
+			}
+		},
+		{
+			"name": "Other Unto Other",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/20_Other Unto Other.png"
+			}
+		},
+		{
+			"name": "Vengeful Purifier",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Angel Soldier",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/34_Vengeful Purifier.png"
+			}
+		},
+		{
+			"name": "Reject the Premise",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/67_Reject the Premise.png"
+			}
+		},
+		{
+			"name": "Dignity in Arms",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Instant",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/210_Dignity in Arms.png"
+			}
+		},
+		{
+			"name": "Dark Forest Hunter",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Wolf",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/166_Dark Forest Hunter.png"
+			}
+		},
+		{
+			"name": "Worldly Illogic",
+			"rarity": "rare",
+			"mana_cost": "{X}{U}",
+			"type": "Instant",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/79_Worldly Illogic.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/254_Forest.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/253_Mountain.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/252_Swamp.png"
+			}
+		},
+		{
+			"name": "Seek Lowly Ideals",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/29_Seek Lowly Ideals.png"
+			}
+		},
+		{
+			"name": "Coaxing Seraph",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Angel Soldier",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/45_Coaxing Seraph.png"
+			}
+		},
+		{
+			"name": "Frightening Instructor",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/132_Frightening Instructor.png"
+			}
+		},
+		{
+			"name": "Act of Treason",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/120_Act of Treason.png"
+			}
+		},
+		{
+			"name": "Ruin of the Feeble",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/226_Ruin of the Feeble.png"
+			}
+		},
+		{
+			"name": "Vuls, of Red Seas",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Dragon",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/155_Vuls, of Red Seas.png"
+			}
+		},
+		{
+			"name": "Instigator's Mark",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/138_Instigator's Mark.png"
+			}
+		},
+		{
+			"name": "Uncertain, Doubt",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Creature — Human Avatar",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/75_Uncertain, Doubt.png"
+			}
+		},
+		{
+			"name": "Absolute, Comprehension",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Legendary Creature — Octopus Avatar",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/3_Absolute, Comprehension.png"
+			}
+		},
+		{
+			"name": "Cull Infirmity",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Instant",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/206_Cull Infirmity.png"
+			}
+		},
+		{
+			"name": "Cavern Terror",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Insect Dragon Horror",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/44_Cavern Terror.png"
+			}
+		},
+		{
+			"name": "Disjointed Manor",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/243_Disjointed Manor.png"
+			}
+		},
+		{
+			"name": "Tyrant's Peak",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/249_Tyrant's Peak.png"
+			}
+		},
+		{
+			"name": "Forbidden, Potential",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Human Avatar",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/95_Forbidden, Potential.png"
+			}
+		},
+		{
+			"name": "Tread Water",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/74_Tread Water.png"
+			}
+		},
+		{
+			"name": "Dias, Storied Apocalypse",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}{B}",
+			"type": "Legendary Planeswalker — Dias",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/91_Dias, Storied Apocalypse.png"
+			}
+		},
+		{
+			"name": "Pious Inhibitor",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Angel Cleric",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/222_Pious Inhibitor.png"
+			}
+		},
+		{
+			"name": "Pure Form",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/23_Pure Form.png"
+			}
+		},
+		{
+			"name": "Overbearing Majesty",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/21_Overbearing Majesty.png"
+			}
+		},
+		{
+			"name": "Wade Through Starlight",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/36_Wade Through Starlight.png"
+			}
+		},
+		{
+			"name": "Departed Existence",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Artifact — Equipment",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/208_Departed Existence.png"
+			}
+		},
+		{
+			"name": "Vinza, Adamant Firebrand",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Legendary Creature — Angel Soldier",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/232_Vinza, Adamant Firebrand.png"
+			}
+		},
+		{
+			"name": "Dreams Beyond the End",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://Purplevjollce.github.io/sets/LIP-files/img/127_Dreams Beyond the End.png"
+			}
 		}
 	]
 
@@ -2618,154 +2648,157 @@
 	5 Absolver of Transgression
 	5 Rejection of Divinity
 	5 Moonlit Ruminator
-	5 Awed Hush
 	5 Imperious, Demand
-	5 Pure Form
-	5 Brutal Disillusionment
-	5 Bound Seeker
 	5 Way of the World
 	5 Light Smotherer
 	5 Lamech, Bound by History
-	5 Forbidden, Power
 	5 Simple Majesty
 	5 Narrow Sanity
-	5 Overbearing Majesty
 	5 Angel of Natural Guise
 	5 Gaiety
-	5 Wade Through Starlight
-	5 Cavern Terror
 	5 Prayers for a New Deity
 	5 Eerie Murmur
 	5 Grueling, Anticipation
-	5 Ruin of the Feeble
 	5 Domineering Regent
 	5 Death Unto Death
 	5 Thought Unto Thought
 	5 Life Unto Life
 	5 Rouse Ancient Strength
-	5 In Horror's Thrall
 	5 Marked by the Night
-	5 Slayer's Mantle
 	5 Angelic Dwellings
 	5 Watching, Emptiness
 	5 The Dreamer, Ideoclast
-	5 Scouting Corridor
-	5 Fearless, Delusion
-	5 Radical Purist
-	5 Life's Sovereign
+	5 Anro, Life's Lieutenant
 	5 Foreboding Shoreline
 	5 Place Among the Stars
 	5 Consumer of Continuum
-	5 Bloodstarved Slasher
+	5 Bloodcrazed Slasher
 	5 Singular Radiance
 	5 Weighted Armor
-	5 Worldly Illogic
 	5 Insectoid Spawner
 	5 Muted Mutterer
 	5 Abscond Mortal Limits
-	5 Nimble Pathfinder
-	5 Other Unto Other
-	5 Volcanic Dominant
-	5 Tyrant's Peak
 	5 Perpetuous, Tenacity
 	5 Blinding, Acceptance
 	5 Yuil, Troubled Companion
 	5 Essence Cloak
-	5 Pious Inhibitor
-	5 Dias, Storied Apocalypse
 	5 Enchanted Prancer
 	5 Wavering Sanctifier
-	5 Absolute, Comprehension
-	5 Adamant Firebrand
 	5 Hero of the Plain
 	5 Sword of Solitary Expression
 	5 Natural Bemusements
 	5 Dragonspotting
-	5 Radiant Enforcer
 	5 Finder of Illuminated Ways
 	5 Rallier's Plate
 	5 Deep Looker
 	5 Infirm Self
-	5 Departed Existence
 	5 Unwavering Behemoth
 	5 Culivator Grub
 	5 Birth Unto Birth
 	5 Wayward Journey
-	5 Wildlands Hunter
 	5 Anguished Deadpit
 	5 Change Lost to the Stars
-	5 Entrancing Lantern
+	5 Illuminating Lantern
 	5 Obsessive Seeker
 	5 Abandon Nagging Ideals
+	5 Fearless, Delusion
+	5 Bound Seeker
+	5 Slayer's Mantle
+	5 Nimble Pathfinder
+	5 Reckless Slayer
+	5 Scouting Corridor
+	5 Other Unto Other
+	5 Vengeful Purifier
+	5 Dark Forest Hunter
+	5 Worldly Illogic
+	5 Seek Lowly Ideals
+	5 Coaxing Seraph
+	5 Ruin of the Feeble
+	5 Vuls, of Red Seas
+	5 Instigator's Mark
+	5 Uncertain, Doubt
+	5 Cavern Terror
+	5 Disjointed Manor
+	5 Tyrant's Peak
+	5 Forbidden, Potential
+	5 Tread Water
+	5 Dias, Storied Apocalypse
+	5 Pious Inhibitor
+	5 Pure Form
+	5 Overbearing Majesty
+	5 Wade Through Starlight
+	5 Departed Existence
+	5 Vinza, Adamant Firebrand
 [uncommon(3)]
 	5 Descent from Divinity
 	5 Angelic Dignity
 	5 Brutality's Way
 	5 Horror of Humanity
-	5 Deathmarch Angel
 	5 Deadpit Skitterer
-	5 Unaware Fisher
 	5 Display of Valor
 	5 Merry Meetings
 	5 Seer of Loosened Reality
 	5 Repetitive Production
 	5 Sinful Temptations
 	5 Nature's Call
-	5 Wings of the Lance
 	5 Frenzied Deployment
 	5 Hunter's Tactics
-	5 Pathseeker
 	5 Pure Flame
 	5 Establish Hierarchy
-	5 Disgraced Dignitary
+	5 Vindictive Angel
+	5 Piercing Gaze
 	5 Perverse Learner
-	5 Rebirthing Mantis
 	5 Vacant, Indecision
 	5 Banished Heretic
 	5 Tunnel Pincer
 	5 Mental Shaper
-	5 Ventured Land
 	5 Listless Pollinator
 	5 Bearer of Natural Whims
 	5 Blessed Vanguard
 	5 Caller of the Ideal
-	5 Dogmatic Tactician
 	5 Channel of Instability
 	5 Deadpit Swarm
 	5 Second Chances
 	5 Mortal Insight
 	5 Unfortunate Encounter
-	5 Truthseeker
 	5 Mourning Stone
 	5 Lurid Lucidity
-	5 Fatigued Hero
 	5 Communed Hunter
 	5 Deluded Angel
 	5 Lapse of Self
-	5 Many-Legged Dominant
+	5 Environmental Selection
 	5 Unnerving Lunatic
 	5 Unfulfilled Seeker
 	5 Wanderer's Trinkets
-	5 Belittling Dismissal
+	5 Contemplate Insanity
 	5 Foul Omen Fishers
 	5 Advance Party
 	5 Bereaved Sanctifier
+	5 Harmonious Beasts
 	5 Grounding Stones
 	5 Vanguard's Light Armor
 	5 Purging Blade
-	5 Strength's Tyranny
 	5 Indiscriminate Terror
 	5 Dragonfire Devoted
-	5 Alpine Navigator
 	5 Show of Strength
 	5 Regal Predator
-	5 Dignity in Arms
+	5 Lackadaisical Whelp
 	5 Woe's Grasp
 	5 Seeking Elk
 	5 Invasive Crawler
 	5 Domineering Parasite
 	5 Compulsive Watcher
 	5 Zealot's Lance
+	5 Ventured Land
+	5 Truthseeker
+	5 Vicious Orator
+	5 Rallied Purifier
+	5 Fanatical Charger
+	5 Deathmarch Angel
+	5 Dogmatic Tactician
+	5 Reject the Premise
+	5 Dignity in Arms
+	5 Cull Infirmity
 [common(10)]
 	5 Gaze Upon Hope
 	5 Floating Vagrant
@@ -2778,7 +2811,6 @@
 	5 Diminished Angel
 	5 Charging Lance
 	5 Tortured Dweller
-	5 Fanatical Charger
 	5 Roaming Grizzly
 	5 Beckon Vastness
 	5 Mystic Communion
@@ -2786,20 +2818,19 @@
 	5 Errant's Demand
 	5 Promise of Tranquility
 	5 Territorial Strike
+	5 Wings of the Lance
 	5 Otherside Encounter
 	5 Forced Gaze
 	5 Mountainside Predator
 	5 Self-Doubt
-	5 Piercing Gaze
-	5 Adaptive Endpoint
+	5 Pathseeker
+	5 Long Lived Scuttler
 	5 Hopeless Sinner
 	5 Beseech the Waves
 	5 Resting Vanguard
 	5 Height of Communion
 	5 Scout's Demise
 	5 Diminish to Humanity
-	5 Rallied Purifier
-	5 Vicious Orator
 	5 Jewel Bug
 	5 Stumbling Walker
 	5 Depraved Mind
@@ -2810,11 +2841,11 @@
 	5 Enigmatic Encounter
 	5 Barrenland Pest
 	5 Nascent Spawn
+	5 Weary Soldier
 	5 Determined Veteran
 	5 Among the Greenery
 	5 Astrayed Wisps
-	5 Uncomfortable Truths
-	5 Share in Humanity
+	5 Passive Witness
 	5 Patient Fishers
 	5 Soaring Ligaments
 	5 Ghastly Mind
@@ -2828,12 +2859,10 @@
 	5 Quell Unrest
 	5 Failure of Piety
 	5 Reckon Mortality
-	5 Dreams Beyond the End
 	5 Costly Victory
 	5 Solitary Thinker
 	5 Disposable Recruits
 	5 Raw Force
-	5 Frightening Instructor
 	5 Pretty Beetle
 	5 Parasitic Swarm
 	5 Deathshroud Beetle
@@ -2844,21 +2873,24 @@
 	5 Discreet Messenger
 	5 Traveler's Cloak
 	5 Full Kit
-	5 Harmonious Beasts
 	5 Natural Ending
 	5 Bitter Beetle
 	5 Send Fishing
 	5 Terramorphic Expanse
 	5 Angelic Strikeleader
+	5 Strength's Tyranny
 	5 Hulking Creeper
 	5 Relaxed Admirer
 	5 Addled Flamechaser
+	5 Fortunate Discovery
 	5 Unnatural Acceptance
 	5 Treacherous Barrenlands
 	5 Resilient Scrubland
 	5 Amicable Traveler
 	5 Instinctive Combatant
-	5 Impressionable Traveler
 	5 Foreboding Winds
-	5 Lackadaisical Whelp
 	5 Illuminated Thoughts
+	5 Impressionable Traveler
+	5 Frightening Instructor
+	5 Act of Treason
+	5 Dreams Beyond the End
