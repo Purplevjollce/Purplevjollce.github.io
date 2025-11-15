@@ -5248,7 +5248,7 @@
             "number": 130,
             "color_identity": "R",
             "cost": "{3}{R}",
-            "rules_text": "Haste\nMalign [i](You may have this creature enter with a +1/+1 counter on it. If you do, it attacks each turn if able.)[/i]\nCreature tokens you control get +2/+0.",
+            "rules_text": "Haste\nMalign [i](You may have this creature enter with a +1/+1 counter on it. If you do, it attacks each turn if able.)[/i]\nCreature tokens you control get +1/+0.",
             "flavor_text": "[i]\u201cThe horrors must be felled, and I will be the first to strike them down.\u201d[/i]",
             "pt": "3/1",
             "special_text": "",
