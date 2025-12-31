@@ -1,4 +1,241 @@
-﻿VERSION 18 CHANGELOG
+﻿VERSION 19 CHANGELOG
+====================
+
+Drifting Vagrant added.
+Sharer of Will added.
+Fanatic's Scripture added.
+Stasis Prancer added.
+Hero of the Ordinary added.
+Cultivator Grub added.
+
+Floating Vagrant removed.
+Mental Shaper removed.
+Purging Blade removed.
+Enchanted Prancer removed.
+Hero of the Plain removed.
+Culivator Grub removed.
+
+Wasteland Crier
+cost: {1}{R} => {R}
+pt: 2/2 => 1/1
+
+Seer of Loosened Reality
+
+Way of the World
+cost: {3}{G}{G} => {2}{G}{G}
+rules_text: Whenever a creature token dies under your control, you may put a permanent card from your hand onto the battlefield. => Once each turn, when a creature token dies under your control, you may return a permanent card with mana value less than that creature token's power from your graveyard to your hand.
+
+Simple Majesty
+
+Narrow Sanity
+
+Eerie Murmur
+
+Self-Doubt
+cost: {1}{B} => {B}
+rules_text: Enchant creature
+Enchanted creature gets -2/-2. => Enchant creature
+Enchanted creature gets -2/-2.
+If enchanted creature would die, exile it instead.
+
+Death Unto Death
+rules_text: As an additional cost to cast this spell, pay half your life, rounded down.
+Destroy any number of target creatures and/or planeswalkers with total mana value 4 or less.
+Flashback {3}{B}{B} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => As an additional cost to cast this spell, pay half your life, rounded down.
+Destroy any number of target creatures and/or planeswalkers with total mana value 5 or less.
+Flashback {3}{B}{B} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Pure Flame
+type: Sorcery => Instant
+
+Rouse Ancient Strength
+cost: {4}{G}{G}{G} => {3}{G}{G}{G}
+
+Piercing Gaze
+rules_text: Enchant player
+When Piercing Gaze enters, if it was cast, enchanted player reveals their hand. You choose a nonland card from it. That player discards that card. You lose 2 life.
+At the beginning of enchanted player's end step, if they have one or fewer cards in hand, they lose 2 life if they have more than 10 life. => Enchant player
+When Piercing Gaze enters, if it was cast, enchanted player reveals their hand. You choose a nonland card from it. That player discards that card. You lose 2 life.
+At the beginning of enchanted player's end step, if they have one or fewer cards in hand and have more than 10 life, they lose 2 life.
+
+Second Chances
+
+Mortal Insight
+
+Mourning Stone
+
+Environmental Selection
+rules_text: All creatures get -2/-2 until end of turn.
+At the beginning of your end step, you may choose an Insect card in your graveyard that was put there from the battlefield this turn. Return it to the battlefield tapped. => All creatures get -2/-2 until end of turn.
+At the beginning of the next end step, you may choose an Insect card in your graveyard that was put there from the battlefield this turn. Return it to the battlefield tapped.
+
+Unnerving Lunatic
+rules_text: When Unnerving Lunatic dies, if an opponent has more cards in hand than you, draw cards equal to the difference. => When Unnerving Lunatic dies, if an opponent has more cards in hand than you, draw two cards.
+
+Contemplate Insanity
+rules_text: Tap up to one target creature. It doesn't untap during its controller's next untap step.
+Draw two cards. => Tap up to one target creature. It doesn't untap during its controller's next untap step.
+Target player draws two cards.
+
+Place Among the Stars
+
+Essencelessness
+
+Bloodcrazed Slasher
+rules_text: Bloodcrazed Slasher and other Insects you control get +2/+0 for each creature that died under your control this turn.
+When Bloodcrazed Slasher enters or attacks, you may sacrifice another creature. If you do, draw two cards. => Whenever a creature dies under your control, Insects you control get +2/+0 until end of turn.
+When Bloodcrazed Slasher enters or attacks, you may sacrifice another creature. If you do, draw two cards.
+
+Fishing Rod
+
+Indiscriminate Terror
+rules_text: Flying
+When Indiscriminate Terror enters, it deals X damage to target creature an opponent controls, where X is three times the number of creatures you control with power 4 or greater. Excess damage is dealt to that creature's controller instead. => Flying
+When Indiscriminate Terror enters, it deals X damage to target creature or player, where X is three times the number of creatures you control with power 4 or greater. Excess damage is dealt to that creature's controller instead.
+
+Fortunate Discovery
+type: Instant => Sorcery
+rules_text: Create a 1/1 green Scout creature token.
+Create a Treasure token.
+Draw a card. => Create a 1/1 green Scout creature token.
+Create a Treasure token.
+Draw two cards, then discard a card.
+
+Perpetuous, Tenacity
+
+Instinctive Combatant
+pt: 3/3 => 4/3
+
+Natural Bemusements
+rules_text: Create X 1/1 green Scout creature tokens, then for each of those tokens, create and attach a green Aura enchantment token named Bemusement with enchant creature and “Enchanted creature gets +1/+1 for each other Aura you control.” => Create X 1/1 green Scout creature tokens, then for each of those tokens, create and attach a green Aura enchantment token named Bemusement with enchant creature and “Enchanted creature gets +1/+1 for each Aura you control.”
+
+Woe's Grasp
+rules_text: Each player sacrifices a creature.
+If you've seen signs this turn, draw a card. [i](You've seen signs if two or more cards types entered your graveyard.)[/i] => Each player sacrifices a creature.
+Then if you've seen signs this turn, draw a card. [i](You've seen signs if two or more cards types entered your graveyard.)[/i]
+
+Wayward Journey
+rules_text: Enchant creature you control
+When Wayward Journey enters, sacrifice enchanted creature. If you do, search your library for a creature card with mana value equal to it's mana value minus 1, put it onto the battlefield, attach Wayward Journey to it, then shuffle.
+{1}{G}: Exile Wayward Journey, then return it to the battlefield attached to enchanted creature. Activate only as a sorcery. => Enchant creature you control
+When Wayward Journey enters, sacrifice enchanted creature. If you do, search your library for a creature card with mana value equal to its mana value minus 1, put it onto the battlefield, attach Wayward Journey to it, then shuffle.
+{1}{G}: Exile Wayward Journey, then return it to the battlefield attached to enchanted creature. Activate only as a sorcery.
+
+Anguished Deadpit
+rules_text: {T}: Add {C}. You may spend this mana as though it was {B} to cast Insect spells or if you control a Insect.
+{B}, {T}, Sacrifice Anguished Deadpit and an Insect: Target player discards a card. Activate only as a sorcery. => {T}: Add {C}. You may spend this mana as though it was {B} to cast Insect spells or if you control a Insect.
+{1}{B}, {T}, Sacrifice Anguished Deadpit and an Insect: Target player discards two cards. Activate only as a sorcery.
+
+Change Lost to the Stars
+rules_text: Choose one, then choose a nonland card name. [i](Tokens aren't cards.)[/i]
+• Exile all permanents with that name. 
+• Search target player's graveyard, hand, and library for any number of cards with that name and exile them. That player shuffles, then draws a card for each card exiled from their hand this way. => Choose a nonland card name, then choose one. [i](Tokens aren't cards.)[/i]
+• Exile all permanents with that name. 
+• Search target player's graveyard, hand, and library for any number of cards with that name and exile them. That player shuffles, then draws a card for each card exiled from their hand this way.
+
+Bound Seeker
+rules_text: At the beginning of combat on your turn, if you control another Scout, Bound Seeker gains first strike until end of turn.
+Whenever Bound Seeker attacks, you may pay {1}{W}. When you do, target non-Aura, nonland permanent defending player controls loses all abilities until your next turn. => At the beginning of combat on your turn, if you control another Scout, Bound Seeker gains first strike until end of turn.
+Whenever Bound Seeker attacks, you may pay {W}. When you do, target non-Aura, nonland permanent defending player controls loses all abilities until your next turn.
+
+Nimble Pathfinder
+rules_text: Flash
+Emerge from Scout {3}{G} [i](You may cast this spell by sacrificing a Scout and paying the emerge cost reduced by that Scout's mana value.)[/i]
+When Nimble Pathfinder enters, mill three cards. You may put a land or Scout card from among the cards milled this way into your hand.
+You may cast Scout spells as though they had flash. => Flash
+This spell costs {2} less to cast if a creature died under your control this turn.
+When Nimble Pathfinder enters, return target Scout or land card from your graveyard to your hand.
+You may cast Scout spells as though they had flash.
+
+Reckless Slayer
+
+Worldly Illogic
+rules_text: Counter target spell if you have X or fewer cards in hand. Surveil 1. => Counter target spell if you have X or fewer cards in hand. Surveil 2.
+
+Seek Lowly Ideals
+rules_text: As an additional cost to cast Seek Lowly Ideals, tap an untapped creature you control with flying.
+Look at the top seven cards of your library. Reveal up to two creature cards without flying with mana value 3 or less from among them. Put one onto the battlefield and the rest into your hand. => As an additional cost to cast Seek Lowly Ideals, tap an untapped creature you control with flying.
+Look at the top seven cards of your library. Reveal up to two creature cards without flying with mana value 3 or less from among them. Put up to one onto the battlefield and the rest into your hand, then shuffle.
+
+Ruin of the Feeble
+cost: {3}{B}{R} => {2}{B}{R}{R}
+
+Vuls, of Red Seas
+rules_text: Flying
+Players can't gain life.
+Once each turn, if a red source you control would deal noncombat damage, it deals that much damage plus twice the number of Dragons you control instead. => Flying
+Players can't gain life.
+Once each turn, if a red source you control would deal noncombat damage, you may have it deal that much damage plus twice the number of Dragons you control instead.
+
+Instigator's Mark
+rules_text: Enchant creature
+Whenever enchanted creature attacks, up to one target creature can't block this turn. It must attack during its controller's next combat if able.
+{1}{R}: Return Instigator's Mark from your graveyard to the battlefield with a finality counter on it attached to target creature. Activate only as a sorcery. => Enchant creature
+All creatures have haste.
+If a creature attacks, all creatures that creature's controller controls attack if able.
+{1}{R}: Return Instigator's Mark from your graveyard to the battlefield with a finality counter on it attached to target creature. Activate only as a sorcery.
+
+Pious Inhibitor
+
+Departed Existence
+rules_text: Equipped creature gets +7/+7 as long as you have more cards in your graveyard than your library.
+Whenever equipped creature attacks, mill three cards.
+Equip {2} => Equipped creature gets +7/+7 as long as you have twenty or fewer cards in your library.
+Whenever equipped creature attacks, mill three cards.
+Equip {2}
+
+Unfortunate Encounter
+cost: {3}{R} => {2}{R}
+rules_text: As an additional cost to cast this spell, you may sacrifice a creature.
+If a creature died under your control this turn, create three 1/1 green Scout creature tokens. => As an additional cost to cast this spell, you may sacrifice a creature.
+Create two 1/1 green Scout creature tokens. If a creature died under your control this turn, create three of those tokens instead.
+
+Hateful Hunter
+pt: 2/2 => 2/3
+
+Yuil, Troubled Companion
+rules_text: Yuil gets -2/-0 for each card in your hand.
+Whenever a creature you control attacks alone, you may cast Yuil from your graveyard. If you do, he enters tapped and attacking with a finality counter on him. [i](If a creature with a finality counter on it would die, exile it instead.)[/i] => Yuil gets -2/-0 for each card in your hand.
+When Yuil enters, exile your hand face down until your next turn.
+Whenever a creature you control attacks alone, you may cast Yuil from your graveyard. If you do, he enters tapped and attacking with a finality counter on him.
+
+Among the Greenery
+rules_text: Enchant land
+When Among the Greenery enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+At the beginning of your end step, if you've seen signs this turn, sacrifice Among the Greenery. If you do, draw a card. [i](You've seen signs if two or more cards types entered your graveyard.)[/i] => Enchant land
+When Among the Greenery enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+At the beginning of your end step, if you've seen signs this turn, you may sacrifice Among the Greenery. If you do, enchanted land becomes a 3/3 Elemental creature that's still a land. [i](You've seen signs if two or more cards types entered your graveyard.)[/i]
+
+Overbearing Majesty
+cost: {3}{W}{W} => {4}{W}{W}{W}
+rules_text: Choose one or more. Exile the top ten cards of your library for each mode chosen.
+• Exile all artifacts.
+• Exile all creatures.
+• Exile all enchantments.
+• Exile all graveyards. => As an additional cost to cast this spell, you may exile the top ten, twenty, thirty, or forty cards of your library. This spell costs {1} less to cast for each ten cards exiled this way.
+Destroy all nonland permanents.
+
+Singular Radiance
+rules_text: Reveal your hand. Exile target nonland permanent. Its controller chooses a card name. You can't cast spells with the chosen name for the rest of the game.
+Exile Singular Radiance. => Reveal your hand. Exile target nonland permanent. Its controller chooses a card name. Spells with the chosen name cost {2} more to cast for the rest of the game.
+Exile Singular Radiance.
+
+Other Unto Other
+rules_text: Create a Treasure token if an opponent controls more lands than you. You gain 4 life if an opponent has more life than you. Create a 1/1 white Angel creature token with flying if an opponent controls more creatures than you.
+Flashback {3}{W} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Create a Treasure token if an opponent controls more noncreature, nonland permanents than you. You gain 4 life if an opponent has more life than you. Create a 1/1 white Angel creature token with flying if an opponent controls more creatures than you.
+Flashback {3}{W} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Distant Expeditioner
+
+Impressionable Traveler
+
+Foreboding Shoreline
+rules_text: {T}: Add {C}. You may spend this mana as though it was {U} to cast Horror spells or if you control a Horror.
+{1}{U}, {T}, Sacrifice Foreboding Shoreline: Exchange control of target Horror you control that dealt combat damage to a player this turn and target creature with mana value 4 or less. => {T}: Add {C}. You may spend this mana as though it was {U} to cast Horror spells or if you control a Horror.
+{X}{X}{U}, {T}, Sacrifice Foreboding Shoreline: Shuffle X target Horror cards and X target non-Horror cards from your graveyard into your library. Draw X cards.
+
+
+VERSION 18 CHANGELOG
 ====================
 
 

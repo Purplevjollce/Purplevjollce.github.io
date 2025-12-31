@@ -168,13 +168,13 @@
         "set": "LIP"
     },
     {
-        "card_name": "Hero of the Plain",
+        "card_name": "Hero of the Ordinary",
         "number": 135,
         "shape": "normal",
         "set": "LIP"
     },
     {
-        "card_name": "Culivator Grub",
+        "card_name": "Cultivator Grub",
         "number": 165,
         "shape": "normal",
         "set": "LIP"
@@ -187,7 +187,7 @@
     },
     {
         "card_name": "Eerie Murmur",
-        "number": 51,
+        "number": 52,
         "shape": "normal",
         "set": "LIP"
     },
@@ -786,8 +786,8 @@
         "set": "LIP"
     },
     {
-        "card_name": "Essencelessness",
-        "number": 52,
+        "card_name": "Drifting Vagrant",
+        "number": 51,
         "shape": "normal",
         "set": "LIP"
     },
@@ -816,7 +816,7 @@
         "set": "LIP"
     },
     {
-        "card_name": "Fishing Rod",
+        "card_name": "Essencelessness",
         "number": 53,
         "shape": "normal",
         "set": "LIP"
@@ -846,7 +846,7 @@
         "set": "LIP"
     },
     {
-        "card_name": "Floating Vagrant",
+        "card_name": "Fishing Rod",
         "number": 54,
         "shape": "normal",
         "set": "LIP"
@@ -1184,7 +1184,7 @@
     "a->gold",
     {
         "card_name": "Pious Inhibitor",
-        "number": 222,
+        "number": 221,
         "shape": "normal",
         "set": "LIP"
     },
@@ -1196,13 +1196,13 @@
     },
     {
         "card_name": "Ruin of the Feeble",
-        "number": 226,
+        "number": 224,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Simple Majesty",
-        "number": 229,
+        "number": 228,
         "shape": "normal",
         "set": "LIP"
     },
@@ -1243,14 +1243,14 @@
         "set": "LIP"
     },
     {
-        "card_name": "Purging Blade",
-        "number": 224,
+        "card_name": "Fanatic's Scripture",
+        "number": 212,
         "shape": "normal",
         "set": "LIP"
     },
     {
-        "card_name": "Mental Shaper",
-        "number": 217,
+        "card_name": "Sharer of Will",
+        "number": 227,
         "shape": "normal",
         "set": "LIP"
     },
@@ -1289,7 +1289,7 @@
     },
     {
         "card_name": "Mourning Stone",
-        "number": 219,
+        "number": 218,
         "shape": "normal",
         "set": "LIP"
     },
@@ -1316,7 +1316,7 @@
     },
     {
         "card_name": "Narrow Sanity",
-        "number": 220,
+        "number": 219,
         "shape": "normal",
         "set": "LIP"
     },
@@ -1333,8 +1333,8 @@
         "set": "LIP"
     },
     {
-        "card_name": "Enchanted Prancer",
-        "number": 212,
+        "card_name": "Stasis Prancer",
+        "number": 229,
         "shape": "normal",
         "set": "LIP"
     },
@@ -1358,7 +1358,7 @@
     },
     {
         "card_name": "Reckless Slayer",
-        "number": 225,
+        "number": 223,
         "shape": "normal",
         "set": "LIP"
     },
@@ -1376,13 +1376,13 @@
     },
     {
         "card_name": "Seer of Loosened Reality",
-        "number": 228,
+        "number": 226,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Second Chances",
-        "number": 227,
+        "number": 225,
         "shape": "normal",
         "set": "LIP"
     },
@@ -1394,7 +1394,7 @@
     },
     {
         "card_name": "Mortal Insight",
-        "number": 218,
+        "number": 217,
         "shape": "normal",
         "set": "LIP"
     },
@@ -1442,13 +1442,13 @@
     },
     {
         "card_name": "Perpetuous, Tenacity",
-        "number": 221,
+        "number": 220,
         "shape": "normal",
         "set": "LIP"
     },
     {
         "card_name": "Place Among the Stars",
-        "number": 223,
+        "number": 222,
         "shape": "normal",
         "set": "LIP"
     },
